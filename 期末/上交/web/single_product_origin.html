@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Amazon商品数据分析展示平台</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="http://cdn.bootcss.com/twitter-bootstrap/2.3.2/css/bootstrap.min.css">
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		<script src="http://cdn.bootcss.com/html5shiv/3.7.0/html5shiv.min.js"></script>
+		<script src="http://cdn.bootcss.com/respond.js/1.3.0/respond.min.js"></script>
+	<![endif]-->
+  </head>
+  <body>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="http://cdn.bootcss.com/jquery/1.10.2/jquery.min.js"></script>
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="http://cdn.bootcss.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+	<!-- Include javascript of highcharts-->
+	<script src="http://cdn.bootcss.com/highcharts/4.0.1/highcharts.js"></script>
+	<script>
+		$(function () {
+			$('#container1').highcharts({
+				title: {
+					text: 'Lowest Price',
+					x: -20 //center
+				},
+				subtitle: {
+					text: 'Source: trendata.cn',
+					x: -20
+				},
+				xAxis: {
+					categories: ${lowestPriceDate}
+				},
+				yAxis: {
+					title: {
+						text: 'Price ($)'
+					},
+					plotLines: [{
+						value: 0,
+						width: 1,
+						color: '#808080'
+					}]
+				},
+				tooltip: {
+					valuePrefix: '$'
+				},
+				legend: {
+					layout: 'vertical',
+					align: 'right',
+					verticalAlign: 'middle',
+					borderWidth: 0
+				},
+				series: [{
+					name: '${ASIN}',
+					data: ${lowestPrice}
+				}]
+			});
+		});
+	</script>
+	<script>
+		$(function () {
+			$('#container2').highcharts({
+				title: {
+					text: 'Price of Different Sellers',
+					x: -20 //center
+				},
+				subtitle: {
+					text: 'Source: trendata.cn',
+					x: -20
+				},
+				xAxis: {
+					categories: ${priceDate}
+				},
+				yAxis: {
+					title: {
+						text: 'Price ($)'
+					},
+					plotLines: [{
+						value: 0,
+						width: 1,
+						color: '#808080'
+					}]
+				},
+				tooltip: {
+					valuePrefix: '$'
+				},
+				legend: {
+					layout: 'vertical',
+					align: 'right',
+					verticalAlign: 'middle',
+					borderWidth: 0
+				},
+				series: ${priceData}
+			});
+		});
+	</script>
+	<script>
+		$(function () {
+			$('#container3').highcharts({
+				chart: {
+					type: 'column'
+				},
+				title: {
+					text: 'Star Rates'
+				},
+				subtitle: {
+					text: 'Source: trendata.cn'
+				},
+				xAxis: {
+					categories: [
+						'0 star',
+						'1 star',
+						'2 stars',
+						'3 stars',
+						'4 stars',
+						'5 stars'
+					]
+				},
+				yAxis: {
+					min: 0,
+					allowDecimals: false,
+					title: {
+						text: 'Quantity'
+					}
+				},
+				tooltip: {
+					headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+					pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+						'<td style="padding:0"><b>{point.y}</b></td></tr>',
+					footerFormat: '</table>',
+					shared: true,
+					useHTML: true
+				},
+				plotOptions: {
+					column: {
+						pointPadding: 0.2,
+						borderWidth: 0
+					}
+				},
+				series: [{
+					name: '${ASIN}',
+					data: ${starRateList}
+
+				}]
+			});
+		});
+	</script>
+	<script>
+		$(function () {
+			$('#container4').highcharts({
+				chart: {
+					type: 'spline'
+				},
+				title: {
+					text: 'Sales Data'
+				},
+				subtitle: {
+					text: 'Source: trendata.cn'
+				},
+				xAxis: {
+					type: 'datetime',
+					dateTimeLabelFormats: {
+						month: '%b %Y',
+						year: '%b'
+					}
+				},
+				yAxis: {
+					allowDecimals: false,
+					min: 0,
+					title: {
+						text: 'Sales number'
+					},
+					min: 0
+				},
+				tooltip: {
+					formatter: function() {
+							return '<b>'+ this.series.name +'</b><br/>'+
+							Highcharts.dateFormat('%e. %b %Y', this.x) +': '+ this.y;
+					}
+				},
+
+				series: [{
+					name: '${ASIN}',
+					data: ${saleNumber}
+				}]
+			});
+		});
+	</script>
+	<script>
+		$(function () {
+			$('#container5').highcharts({
+				chart: {
+					type: 'scatter',
+					zoomType: 'xy'
+				},
+				title: {
+					text: 'Comment Length V.S. Star Rate'
+				},
+				subtitle: {
+					text: 'Source: trendata.cn'
+				},
+				xAxis: {
+					min: 0,
+					allowDecimals: false,
+					title: {
+						enabled: true,
+						text: 'Comment length(words)'
+					},
+					startOnTick: true,
+					endOnTick: true,
+					showLastLabel: true
+				},
+				yAxis: {
+					max: 5,
+					min: 0,
+					allowDecimals: false,
+					title: {
+						text: 'Star rate'
+					}
+				},
+				legend: {
+					layout: 'vertical',
+					align: 'left',
+					verticalAlign: 'top',
+					x: 100,
+					y: 70,
+					floating: true,
+					backgroundColor: '#FFFFFF',
+					borderWidth: 1
+				},
+				plotOptions: {
+					scatter: {
+						marker: {
+							radius: 5,
+							states: {
+								hover: {
+									enabled: true,
+									lineColor: 'rgb(100,100,100)'
+								}
+							}
+						},
+						states: {
+							hover: {
+								marker: {
+									enabled: false
+								}
+							}
+						},
+						tooltip: {
+							headerFormat: '<b>{series.name}</b><br>',
+							pointFormat: '{point.x} word(s), {point.y} star(s)'
+						}
+					}
+				},
+				series: [{
+					name: '${ASIN}',
+					color: 'rgba(223, 83, 83, .5)',
+					data: ${comment_rate}
+
+				}]
+			});
+		});
+	</script>
+	<script>
+		$(function () {
+			$('#container6').highcharts({
+				chart: {
+					zoomType: 'xy'
+				},
+				title: {
+					text: 'Sales and Price Change'
+				},
+				subtitle: {
+					text: 'Source: trendata.cn'
+				},
+				xAxis: [{
+					categories: ${priceChangeDate}
+				}],
+				yAxis: [{ // Primary yAxis
+					labels: {
+						format: '{value}',
+						style: {
+							color: '#89A54E'
+						}
+					},
+					min: 0,
+					title: {
+						text: 'Sale number',
+						style: {
+							color: '#89A54E'
+						}
+					}
+				}, { // Secondary yAxis
+					title: {
+						text: 'Price change',
+						style: {
+							color: '#4572A7'
+						}
+					},
+					labels: {
+						format: '${value}',
+						style: {
+							color: '#4572A7'
+						}
+					},
+					opposite: true
+				}],
+				tooltip: {
+					shared: true
+				},
+				legend: {
+					layout: 'vertical',
+					align: 'left',
+					x: 120,
+					verticalAlign: 'top',
+					y: 100,
+					floating: true,
+					backgroundColor: '#FFFFFF'
+				},
+				series: [{
+					name: 'Price change',
+					color: '#4572A7',
+					type: 'column',
+					yAxis: 1,
+					data: ${priceChangeData},
+					tooltip: {
+						valuePrefix: '$'
+					}
+
+				}, {
+					name: 'Sale',
+					color: '#89A54E',
+					type: 'spline',
+					data: ${saleChangeData}
+				}]
+			});
+		});
+	</script>
+	<div class="container-fluid">
+	<div class="row-fluid">
+		<div class="span12">
+		`	<br />
+			<h3 class="text-center">
+				${product_name}
+			</h3>
+			<br />
+		</div>
+	</div>
+	<div class="row-fluid">
+		<div class="span3">
+			<p>
+				<strong>ASIN:</strong> ${ASIN}
+			</p><img alt="商品图片" src="${pic_add}" />
+			<ul class="nav nav-tabs nav-stacked">
+				<li>
+					<a href="#1">最低价格走势</a>
+				</li>
+				<li>
+					<a href="#2">不同卖家的售价</a>
+				</li>
+				<li>
+					<a href="#3">星级评分统计</a>
+				</li>
+				<li>
+					<a href="#4">销量数据</a>
+				</li>
+				<li>
+					<a href="#5">评论长度与评分</a>
+				</li>
+				<li>
+					<a href="#6">价格走势与评论增量</a>
+				</li>
+			</ul> <button class="btn btn-small" type="button" onclick="location.href='/index.html'">回首页</button>
+		</div>
+		<div class="span9">
+			<div class="row-fluid">
+				<div class="span12">
+					<a name="1"></a>
+					<h5 class="text-left">
+						最低价格走势
+					</h5>
+					<div class="media">
+						<div id="container1" style="min-width:700px;height:500px"></div>
+					</div>
+				</div>
+			</div>
+			<div style="text-align:right;">
+				<button class="btn btn-small" type="button" onclick="location.href='#'">Top</button>
+			</div>
+			<hr />
+			<div class="row-fluid">
+				<div class="span12">
+					<a name="2"></a>
+					<p>
+						<strong>不同卖家的售价</strong>
+					</p>
+					<div class="media">
+						<div id="container2" style="min-width:700px;height:500px"></div>
+					</div>
+				</div>
+			</div>
+			<div style="text-align:right;">
+				<button class="btn btn-small" type="button" onclick="location.href='#'">Top</button>
+			</div>
+			<hr />
+			<div class="row-fluid">
+				<div class="span12">
+					<a name="3"></a>
+					<h5>
+						星级评分统计
+					</h5>
+					<div id="container3" style="min-width:700px;height:500px"></div>
+				</div>
+				<div style="text-align:right;">
+					<button class="btn btn-small" type="button" onclick="location.href='#'">Top</button>
+				</div>
+			</div>
+			<hr />
+			<div class="row-fluid">
+				<div class="span12">
+					<a name="4"></a>
+					<h5>
+						销量数据
+					</h5>
+					<div id="container4" style="min-width:700px;height:600px"></div>
+				</div>
+				<div style="text-align:right;">
+					<button class="btn btn-small" type="button" onclick="location.href='#'">Top</button>
+				</div>
+			</div>
+			<hr />
+			<div class="row-fluid">
+				<div class="span12">
+					<a name="5"></a>
+					<h5>
+						评论长度与评分
+					</h5>
+					<div id="container5" style="min-width:700px;height:600px"></div>
+				</div>
+				<div style="text-align:right;">
+					<button class="btn btn-small" type="button" onclick="location.href='#'">Top</button>
+				</div>
+			</div>
+			<hr />
+			<div class="row-fluid">
+				<div class="span12">
+					<a name="6"></a>
+					<h5>
+						价格走势与评论增量
+					</h5>
+					<div id="container6" style="min-width:700px;height:600px"></div>
+				</div>
+				<div style="text-align:right;">
+					<button class="btn btn-small" type="button" onclick="location.href='#'">Top</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row-fluid">
+		<div class="span12">
+			<p class="text-center">
+				<strong>喵喵喵 ©2014</strong>
+			</p>
+		</div>
+	</div>
+</div>
+  </body>
+</html>

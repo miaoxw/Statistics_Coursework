@@ -1,0 +1,1724 @@
+B00GVO83NU
+{u'GUESS': [(datetime.date(2014, 1, 30), 36.0)]}
+
+B00G5AA0F4
+{u'Amazon': [(datetime.date(2014, 1, 16), 38.0), (datetime.date(2014, 2, 17), 38.0), (datetime.date(2014, 3, 4), 38.0), (datetime.date(2014, 4, 21), 33.99), (datetime.date(2014, 4, 22), 33.99)]}
+
+B00D8DEQ24
+{u'La Stella Blu': [(datetime.date(2014, 4, 22), 24.95)], u'American Gift Factory': [(datetime.date(2014, 4, 22), 24.95)]}
+
+B00CFYE208
+{u'Amazon': [(datetime.date(2014, 1, 16), 7.67)]}
+
+B00A0GG2B0
+{}
+
+B00HGIR76E
+{}
+
+B00HF3I11U
+{u'Amazon': [(datetime.date(2014, 1, 16), 30.0), (datetime.date(2014, 2, 17), 30.0)]}
+
+B00BCYDSLG
+{u'Baby Family Gifts': [(datetime.date(2014, 1, 30), 14.99)], u'Amazon': [(datetime.date(2014, 1, 16), 14.23), (datetime.date(2014, 1, 30), 14.99)], u'Null': [(datetime.date(2014, 1, 16), 14.0), (datetime.date(2014, 1, 16), 12.95), (datetime.date(2014, 1, 16), 14.99)], u'South Beach Inc. Online': [(datetime.date(2014, 1, 30), 12.95)]}
+
+B00CI1YSDY
+{}
+
+B00EOHZ5I2
+{u'Amazon': [(datetime.date(2014, 1, 16), 11.02)], u'Null': [(datetime.date(2014, 1, 16), 7.38)]}
+
+B00GUTNG92
+{u'Null': [(datetime.date(2014, 1, 16), 39.92)], u'flisjewelldeals4u': [(datetime.date(2014, 1, 16), 41.92), (datetime.date(2014, 4, 21), 41.92)], u'deals2thedoor': [(datetime.date(2014, 4, 21), 39.92)]}
+
+B00BRE6XYU
+{}
+
+B00ARVTMQU
+{u'Amazon': [(datetime.date(2014, 1, 16), 24.0)]}
+
+B00DH20GB6
+{u'Null': [(datetime.date(2014, 1, 16), 11.99)]}
+
+B007MW656M
+{u'juDanzy (My Little Legs)': [(datetime.date(2014, 4, 21), 7.5)]}
+
+B0062H92K4
+{u'Amazon': [(datetime.date(2014, 1, 16), 80.0), (datetime.date(2014, 1, 30), 80.0), (datetime.date(2014, 4, 22), 64.0)]}
+
+B009QZKVMC
+{u'Amazon': [(datetime.date(2014, 1, 16), 12.67)], u'Null': [(datetime.date(2014, 1, 16), 11.99)]}
+
+B00B2WYJZM
+{u'juDanzy (My Little Legs)': [(datetime.date(2014, 3, 4), 5.0), (datetime.date(2014, 4, 21), 5.0)]}
+
+B00H8XSO64
+{u'Null': [(datetime.date(2014, 1, 16), 4.99)]}
+
+B00D9ODDBW
+{u'Amazon': [(datetime.date(2014, 3, 4), 12.99)]}
+
+B009MAW0CU
+{u'Null': [(datetime.date(2014, 1, 16), 24.95)]}
+
+B00DGM7E94
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.35)]}
+
+B00439UNR4
+{u'Dainty Baby': [(datetime.date(2014, 3, 4), 79.99), (datetime.date(2014, 3, 4), 79.99), (datetime.date(2014, 4, 21), 79.99), (datetime.date(2014, 4, 21), 79.99)]}
+
+B00HKMO0VG
+{}
+
+B00AMB05UC
+{u'Amazon': [(datetime.date(2014, 1, 16), 7.37)]}
+
+B00E0G2W74
+{}
+
+B00DZ4JV80
+{u'IP Toys': [(datetime.date(2014, 1, 16), 9.95)], u'TheZoneShop': [(datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 2, 17), 13.99)], u'4 Nicky Noodles': [(datetime.date(2014, 2, 17), 17.0)], u"Jen's Designer Deals": [(datetime.date(2014, 2, 17), 18.0)], u'BARGAINFORALL': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 22), 21.95), (datetime.date(2014, 4, 22), 21.95)], u'More Than Toys': [(datetime.date(2014, 2, 17), 20.86)], u'Null': [(datetime.date(2014, 1, 16), 9.25), (datetime.date(2014, 1, 16), 8.59), (datetime.date(2014, 1, 16), 18.92), (datetime.date(2014, 1, 16), 12.96), (datetime.date(2014, 1, 16), 20.86), (datetime.date(2014, 1, 16), 17.0)]}
+
+B00B71I1DO
+{u"The Children's Wear Outlet": [(datetime.date(2014, 4, 22), 14.0)]}
+
+B00CQ4EJMS
+{u'Null': [(datetime.date(2014, 1, 16), 10.99), (datetime.date(2014, 1, 16), 14.95), (datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 16), 19.92), (datetime.date(2014, 1, 16), 14.99)]}
+
+B00C0K0MHO
+{u'Wayfair': [(datetime.date(2014, 4, 22), 29.99)], u'Amazon': [(datetime.date(2014, 1, 16), 23.32)], u'Null': [(datetime.date(2014, 1, 16), 32.99), (datetime.date(2014, 1, 16), 31.0)], u'Make Your Own Luck': [(datetime.date(2014, 4, 22), 32.99)], u'Mommy Gear Inc.': [(datetime.date(2014, 4, 22), 32.99)]}
+
+B00DWX58A4
+{u'Amazon': [(datetime.date(2014, 1, 16), 18.0), (datetime.date(2014, 3, 4), 18.0), (datetime.date(2014, 4, 21), 18.0)], u'Null': [(datetime.date(2014, 1, 16), 17.95)], u'American Gift Factory': [(datetime.date(2014, 3, 4), 17.95), (datetime.date(2014, 4, 21), 17.95)]}
+
+B00EOID1CS
+{u'Amazon': [(datetime.date(2014, 1, 16), 25.1), (datetime.date(2014, 1, 30), 20.33)], u'Joker Kids': [(datetime.date(2014, 4, 21), 19.99)]}
+
+B00740HTNK
+{u'THE BT GROUP': [(datetime.date(2014, 1, 16), 26.32)], u'Amazon': [(datetime.date(2014, 1, 16), 26.22)], u'Null': [(datetime.date(2014, 1, 16), 34.99), (datetime.date(2014, 1, 16), 33.99)]}
+
+B00ANKOXR8
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.6)]}
+
+B00DIJPL90
+{u'MariposaHill': [(datetime.date(2014, 4, 21), 24.95)], u'Amazon': [(datetime.date(2014, 1, 16), 24.95), (datetime.date(2014, 4, 21), 24.95)], u'Quality Deals': [(datetime.date(2014, 4, 21), 24.95)], u'Maison Drake': [(datetime.date(2014, 4, 21), 24.95)], u'Null': [(datetime.date(2014, 1, 16), 24.95), (datetime.date(2014, 1, 16), 24.95), (datetime.date(2014, 1, 16), 24.95), (datetime.date(2014, 1, 16), 24.95), (datetime.date(2014, 1, 16), 24.95)], u'Kidsland': [(datetime.date(2014, 4, 21), 25.0)], u'Hippo Tails': [(datetime.date(2014, 4, 21), 24.95)]}
+
+B00CE3I3W8
+{u'Amazon': [(datetime.date(2014, 2, 17), 6.99)]}
+
+B00H7IWE5W
+{u'GUESS': [(datetime.date(2014, 1, 30), 17.0)], u'Null': [(datetime.date(2014, 1, 16), 34.0)]}
+
+B00CC6ZWP8
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.16), (datetime.date(2014, 1, 30), 6.6), (datetime.date(2014, 2, 17), 10.99)]}
+
+B000R9L7ME
+{u'BabyEarth': [(datetime.date(2014, 2, 17), 13.95), (datetime.date(2014, 4, 22), 8.68)], u'Null': [(datetime.date(2014, 1, 16), 16.5), (datetime.date(2014, 1, 16), 17.2)], u'BabyHaven': [(datetime.date(2014, 4, 22), 15.0)], u'Pure Home Products': [(datetime.date(2014, 4, 22), 14.3)]}
+
+B00BCYDSKC
+{u"Kristin's Great Finds": [(datetime.date(2014, 1, 30), 51.99)], u'Montana Gifts and Treasures': [(datetime.date(2014, 1, 30), 44.99)], u'Amor Kids AMK': [(datetime.date(2014, 1, 30), 38.99)], u'Amazon': [(datetime.date(2014, 1, 30), 46.0)], u'South Beach Inc. Online': [(datetime.date(2014, 1, 30), 44.5)], u'Baby Family Gifts': [(datetime.date(2014, 1, 30), 49.99), (datetime.date(2014, 1, 30), 48.5)], u'In Fashion Kids': [(datetime.date(2014, 1, 30), 43.28)], u'Kids Apparel And Beyond': [(datetime.date(2014, 1, 30), 45.99)]}
+
+B00ARDCEAE
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.99), (datetime.date(2014, 1, 30), 5.99), (datetime.date(2014, 2, 17), 7.99), (datetime.date(2014, 4, 22), 7.99)]}
+
+B00573LLPI
+{u'Elite Treasured Gifts': [(datetime.date(2014, 1, 30), 12.9), (datetime.date(2014, 1, 30), 12.9)], u'Northeast Babies': [(datetime.date(2014, 1, 30), 11.99), (datetime.date(2014, 1, 30), 11.99)], u'MBAC Office Solutions/MBACKidz': [(datetime.date(2014, 1, 30), 12.0), (datetime.date(2014, 1, 30), 12.0)], u'MMP Living': [(datetime.date(2014, 1, 30), 10.85), (datetime.date(2014, 1, 30), 10.85)], u'Amazon': [(datetime.date(2014, 1, 30), 11.06), (datetime.date(2014, 1, 30), 11.06)], u'LITTLE SHOPPERS': [(datetime.date(2014, 1, 30), 7.99), (datetime.date(2014, 1, 30), 7.99)], u'Paper Elephant Co': [(datetime.date(2014, 1, 30), 10.95), (datetime.date(2014, 1, 30), 10.95)], u'Gifted Monkey': [(datetime.date(2014, 1, 30), 9.5), (datetime.date(2014, 1, 30), 9.5)], u'TheJungleStore': [(datetime.date(2014, 1, 30), 10.8), (datetime.date(2014, 1, 30), 10.8)], u'Kellys Basket Inc.': [(datetime.date(2014, 1, 30), 9.99), (datetime.date(2014, 1, 30), 9.99)]}
+
+B009G4BYX8
+{u'Null': [(datetime.date(2014, 1, 16), 18.0)], u'iLifeProducts': [(datetime.date(2014, 1, 30), 18.0), (datetime.date(2014, 1, 30), 18.0), (datetime.date(2014, 4, 21), 16.95), (datetime.date(2014, 4, 21), 16.0), (datetime.date(2014, 4, 22), 15.85), (datetime.date(2014, 4, 22), 15.85)]}
+
+B00CHZMSJC
+{}
+
+B00FSOQ8PY
+{u'Amazon': [(datetime.date(2014, 1, 30), 48.0), (datetime.date(2014, 2, 17), 48.0)]}
+
+B00HCN99L4
+{u'Backcountry': [(datetime.date(2014, 4, 21), 34.95), (datetime.date(2014, 4, 21), 34.95)]}
+
+B006J3R69A
+{u'Amazon': [(datetime.date(2014, 4, 21), 9.6), (datetime.date(2014, 4, 22), 9.6)]}
+
+B005ABGD00
+{u'More Than Toys': [(datetime.date(2014, 4, 22), 36.99)], u'Amazon': [(datetime.date(2014, 1, 16), 25.1), (datetime.date(2014, 1, 30), 20.33)]}
+
+B00ELCKROM
+{u'Amazon': [(datetime.date(2014, 1, 16), 30.0), (datetime.date(2014, 1, 30), 30.0), (datetime.date(2014, 2, 17), 30.0), (datetime.date(2014, 4, 21), 30.0)]}
+
+B00AMB02FA
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.38)]}
+
+B00EOHZ1NQ
+{}
+
+B00EOHWWOM
+{}
+
+B00E42F3AM
+{u"Stop 'n Shop": [(datetime.date(2014, 2, 17), 27.95)], u'Seestoreonline': [(datetime.date(2014, 2, 17), 15.5)], u'Shop 24-7': [(datetime.date(2014, 2, 17), 27.95)]}
+
+B00DN13XH0
+{u'Null': [(datetime.date(2014, 1, 16), 37.95)], u'Today Kids Boutique': [(datetime.date(2014, 1, 16), 37.99), (datetime.date(2014, 4, 21), 37.99)]}
+
+B00G59ZJ0Q
+{u'Amazon': [(datetime.date(2014, 1, 16), 38.0)]}
+
+B00AVS88OG
+{}
+
+B00CE3IV2U
+{u'Amazon': [(datetime.date(2014, 1, 16), 11.99), (datetime.date(2014, 1, 30), 11.99)]}
+
+B009OA4V20
+{}
+
+B005A9GUNC
+{u'Amazon': [(datetime.date(2014, 2, 17), 24.79)], u'S & D Kids': [(datetime.date(2014, 4, 22), 24.99)], u'Joker Kids': [(datetime.date(2014, 4, 22), 19.99)]}
+
+B00GQ4FRX4
+{u'COOKIESKIDS': [(datetime.date(2014, 2, 17), 24.99)], u'S & D Kids': [(datetime.date(2014, 4, 21), 34.99), (datetime.date(2014, 4, 22), 34.99)], u'Null': [(datetime.date(2014, 1, 16), 34.99)]}
+
+B00GR8UI0G
+{u'BargainChildrensClothing & More!': [(datetime.date(2014, 1, 30), 12.9)], u'Null': [(datetime.date(2014, 1, 16), 17.76), (datetime.date(2014, 1, 16), 12.9)], u'AmazingPrivateSale LLC': [(datetime.date(2014, 1, 30), 17.76)]}
+
+B00E4SFSKQ
+{u'flisjewelldeals4u': [(datetime.date(2014, 1, 16), 41.92)]}
+
+B00D9ODC2M
+{u'Amazon': [(datetime.date(2014, 1, 16), 11.99)]}
+
+B000LPPO4G
+{u'BabyEarth': [(datetime.date(2014, 2, 17), 9.7)], u'Null': [(datetime.date(2014, 1, 16), 12.95), (datetime.date(2014, 1, 16), 12.95)], u'Pure Home Products': [(datetime.date(2014, 2, 17), 15.95)]}
+
+B00CE3IXVY
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.99)]}
+
+B00CS1SNT4
+{u'Punctual JAPAN': [(datetime.date(2014, 4, 21), 54.0), (datetime.date(2014, 4, 22), 54.0)], u"Stop 'n Shop": [(datetime.date(2014, 4, 21), 21.95), (datetime.date(2014, 4, 22), 21.95)], u'AmazingBebe': [(datetime.date(2014, 2, 17), 20.0), (datetime.date(2014, 2, 17), 20.0)], u'Parent Faves': [(datetime.date(2014, 2, 17), 18.95), (datetime.date(2014, 2, 17), 18.95)], u'Bealls Florida': [(datetime.date(2014, 2, 17), 10.99), (datetime.date(2014, 2, 17), 10.99)], u'S & D Kids': [(datetime.date(2014, 2, 17), 15.99), (datetime.date(2014, 2, 17), 15.99)], u'Viva Baby Four': [(datetime.date(2014, 2, 17), 20.0), (datetime.date(2014, 2, 17), 20.0), (datetime.date(2014, 4, 21), 19.0), (datetime.date(2014, 4, 22), 19.0)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 13.99), (datetime.date(2014, 2, 17), 13.99), (datetime.date(2014, 4, 21), 13.99), (datetime.date(2014, 4, 22), 13.99)], u'Seestoreonline': [(datetime.date(2014, 2, 17), 14.9), (datetime.date(2014, 2, 17), 14.9)], u'A+dealZ': [(datetime.date(2014, 2, 17), 17.99), (datetime.date(2014, 2, 17), 17.99), (datetime.date(2014, 4, 21), 17.99), (datetime.date(2014, 4, 22), 17.99)], u'deals2thedoor': [(datetime.date(2014, 2, 17), 22.92), (datetime.date(2014, 2, 17), 22.92), (datetime.date(2014, 4, 21), 22.92), (datetime.date(2014, 4, 22), 22.92)], u'Posh Babies': [(datetime.date(2014, 4, 21), 12.8), (datetime.date(2014, 4, 22), 12.8)], u'Mr. Magic Holdings': [(datetime.date(2014, 4, 21), 20.92), (datetime.date(2014, 4, 22), 20.92)], u'Japanese poppin culture': [(datetime.date(2014, 4, 21), 47.08), (datetime.date(2014, 4, 22), 47.08)], u'Top Quality Goods': [(datetime.date(2014, 2, 17), 16.99), (datetime.date(2014, 2, 17), 16.99)]}
+
+B00GTMK0RG
+{u'Amazon': [(datetime.date(2014, 1, 16), 58.0), (datetime.date(2014, 4, 21), 113.99), (datetime.date(2014, 4, 22), 113.99)]}
+
+B00EOHZ3KM
+{u'Amazon': [(datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 4, 21), 13.99)]}
+
+B00ESZAB3Y
+{u'Amazon': [(datetime.date(2014, 1, 16), 48.0)]}
+
+B00D3ZT73U
+{u'Amazon': [(datetime.date(2014, 1, 16), 39.32), (datetime.date(2014, 1, 30), 41.5)]}
+
+B00DEP2FWY
+{}
+
+B00ELBN2RW
+{u'Amazon': [(datetime.date(2014, 1, 16), 28.0), (datetime.date(2014, 4, 21), 28.0)]}
+
+B00ELCOUSG
+{}
+
+B00E0G2FU8
+{u'Null': [(datetime.date(2014, 1, 16), 24.69), (datetime.date(2014, 1, 16), 24.69)]}
+
+B00GP20HGY
+{u'Null': [(datetime.date(2014, 1, 16), 9.99)], u'BabyVision': [(datetime.date(2014, 3, 4), 9.99)]}
+
+B00H3R894M
+{u'Null': [(datetime.date(2014, 1, 16), 11.99)], u'BabyVision': [(datetime.date(2014, 2, 17), 11.99), (datetime.date(2014, 4, 21), 9.99)]}
+
+B00ELBKF36
+{u'Amazon': [(datetime.date(2014, 3, 4), 54.0), (datetime.date(2014, 4, 22), 54.0)]}
+
+B00ELMLCVO
+{u'Null': [(datetime.date(2014, 1, 16), 26.5)]}
+
+B00EOHZ8FC
+{u'S & D Kids': [(datetime.date(2014, 2, 17), 12.99), (datetime.date(2014, 3, 4), 14.99)], u'Amazon': [(datetime.date(2014, 2, 17), 18.61), (datetime.date(2014, 3, 4), 18.99)]}
+
+B00CBSWMG4
+{}
+
+B00EZKHWOI
+{}
+
+B00G5A9WVC
+{u'Amazon': [(datetime.date(2014, 1, 16), 42.0), (datetime.date(2014, 4, 21), 37.99)]}
+
+B00AMB01OM
+{u'Amazon': [(datetime.date(2014, 1, 16), 7.88)]}
+
+B00CHZNRSS
+{u'Amazon': [(datetime.date(2014, 1, 16), 14.99)]}
+
+B00BJI6HVS
+{u'Null': [(datetime.date(2014, 1, 16), 29.99)]}
+
+B00D9OD2JU
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.49), (datetime.date(2014, 1, 30), 8.11)]}
+
+B00AMB02DW
+{}
+
+B00C9XSIZA
+{}
+
+B00CHZOTT4
+{u'COOKIESKIDS': [(datetime.date(2014, 1, 30), 9.02)], u'Amazon': [(datetime.date(2014, 1, 16), 7.79), (datetime.date(2014, 1, 30), 11.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99)]}
+
+B00AMB03KY
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.38)]}
+
+B00EOID4ZM
+{u'Amazon': [(datetime.date(2014, 1, 30), 24.29), (datetime.date(2014, 2, 17), 26.99)]}
+
+B00CC7F80Q
+{u'Amazon': [(datetime.date(2014, 1, 16), 12.46)]}
+
+B00FQJA6BS
+{u'IGB CELEBRATION': [(datetime.date(2014, 4, 22), 28.7), (datetime.date(2014, 4, 22), 28.7)], u'Null': [(datetime.date(2014, 1, 16), 28.7), (datetime.date(2014, 1, 16), 28.7)], u"Tom's Ware": [(datetime.date(2014, 1, 30), 28.7), (datetime.date(2014, 4, 22), 28.7), (datetime.date(2014, 4, 22), 28.7)]}
+
+B00CC6ZTYC
+{}
+
+B00GTMK0JO
+{u'Amazon': [(datetime.date(2014, 1, 16), 58.0), (datetime.date(2014, 4, 21), 58.0), (datetime.date(2014, 4, 22), 58.0)]}
+
+B00CE3IVQQ
+{u'Amazon': [(datetime.date(2014, 1, 16), 10.99), (datetime.date(2014, 4, 22), 8.5)]}
+
+B00CH11LGM
+{u'Amazon': [(datetime.date(2014, 1, 16), 4.99)]}
+
+B00E6O335U
+{u'Amazon': [(datetime.date(2014, 1, 30), 34.99), (datetime.date(2014, 2, 17), 34.99)]}
+
+B00FNY7MEA
+{u'iLifeProducts': [(datetime.date(2014, 1, 30), 26.85), (datetime.date(2014, 2, 17), 26.95), (datetime.date(2014, 4, 21), 25.0), (datetime.date(2014, 4, 21), 25.0), (datetime.date(2014, 4, 22), 25.0), (datetime.date(2014, 4, 22), 25.0)]}
+
+B004K6LMZM
+{u'Amazon': [(datetime.date(2014, 1, 16), 15.0), (datetime.date(2014, 4, 21), 13.29), (datetime.date(2014, 4, 22), 13.29)], u'Just Infant': [(datetime.date(2014, 4, 21), 13.08), (datetime.date(2014, 4, 22), 13.08)]}
+
+B00DUF7TNS
+{}
+
+B00CC6ZTZG
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.16), (datetime.date(2014, 1, 30), 6.6)], u'Null': [(datetime.date(2014, 1, 16), 9.6)], u'Bealls Florida': [(datetime.date(2014, 1, 30), 9.6)]}
+
+B00CXVLUNU
+{u'deals2thedoor': [(datetime.date(2014, 1, 30), 16.92)]}
+
+B00AMB047Q
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.01)]}
+
+B00CC6ZRHG
+{}
+
+B00CC7F5LS
+{u'Amazon': [(datetime.date(2014, 1, 16), 7.32)]}
+
+B00AMB06UQ
+{}
+
+B00ARK7NQ2
+{u'MotoBuys': [(datetime.date(2014, 1, 16), 27.95), (datetime.date(2014, 1, 31), 27.95), (datetime.date(2014, 2, 17), 26.95), (datetime.date(2014, 4, 21), 29.95), (datetime.date(2014, 4, 21), 27.95), (datetime.date(2014, 4, 22), 29.95), (datetime.date(2014, 4, 22), 27.95)]}
+
+B00G318YEY
+{u'Amazon': [(datetime.date(2014, 1, 16), 52.0), (datetime.date(2014, 2, 17), 52.0), (datetime.date(2014, 4, 21), 46.0), (datetime.date(2014, 4, 22), 46.0)]}
+
+B00CQCQXOC
+{}
+
+B00CL3URNE
+{u'Amazon': [(datetime.date(2014, 1, 16), 11.1), (datetime.date(2014, 4, 21), 10.36)], u'Null': [(datetime.date(2014, 1, 16), 16.99)]}
+
+B00CE3JEXU
+{}
+
+B00ANKORRO
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.76), (datetime.date(2014, 1, 30), 7.09)]}
+
+B00CC6ZRBM
+{u'Amazon': [(datetime.date(2014, 1, 16), 10.93)]}
+
+B00GYGPASQ
+{u'COOKIESKIDS': [(datetime.date(2014, 2, 17), 19.99), (datetime.date(2014, 4, 22), 14.99)]}
+
+B00CC6ZUFK
+{}
+
+B00CQ4D8IO
+{u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 13.99)]}
+
+B00E42EC5Y
+{}
+
+B00ANZW34I
+{}
+
+B00EOHZ3RA
+{u'Amazon': [(datetime.date(2014, 1, 16), 19.99)], u'S & D Kids': [(datetime.date(2014, 4, 22), 12.99)], u'Joker Kids': [(datetime.date(2014, 4, 22), 10.99)]}
+
+B00CHZMFGI
+{}
+
+B00F0TKTC0
+{u'One! Stop! Shop!': [(datetime.date(2014, 1, 30), 23.95), (datetime.date(2014, 4, 21), 23.95)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 13.19)], u"BPM's Superstore": [(datetime.date(2014, 4, 21), 23.92)], u'Mr. Magic Holdings': [(datetime.date(2014, 4, 21), 23.92)], u"Stop 'n Shop": [(datetime.date(2014, 1, 30), 24.95), (datetime.date(2014, 4, 21), 24.95)]}
+
+B009N24UI4
+{u'Melondipity': [(datetime.date(2014, 2, 17), 19.99), (datetime.date(2014, 4, 21), 17.99)]}
+
+B00EOHX0UC
+{u'S & D Kids': [(datetime.date(2014, 4, 21), 17.99)]}
+
+B009QZKVQS
+{u'Baby SuperMall': [(datetime.date(2014, 1, 30), 11.95), (datetime.date(2014, 2, 17), 11.95), (datetime.date(2014, 4, 21), 11.95)], u'Amazon': [(datetime.date(2014, 1, 30), 14.63), (datetime.date(2014, 2, 17), 14.63)], u'Baby Riddle': [(datetime.date(2014, 1, 30), 16.95), (datetime.date(2014, 2, 17), 16.95), (datetime.date(2014, 4, 21), 16.95)]}
+
+B00HFY24T4
+{u'Cute Little Clothes': [(datetime.date(2014, 2, 17), 38.0)], u'Baby Riddle': [(datetime.date(2014, 1, 30), 38.97), (datetime.date(2014, 2, 17), 38.97)], u'Null': [(datetime.date(2014, 1, 16), 38.97)]}
+
+B00571F458
+{u'Pampered Tot': [(datetime.date(2014, 4, 21), 29.5), (datetime.date(2014, 4, 22), 29.5)], u'Null': [(datetime.date(2014, 1, 16), 18.48), (datetime.date(2014, 1, 16), 21.0), (datetime.date(2014, 1, 16), 21.0), (datetime.date(2014, 1, 16), 29.0), (datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 16), 29.45), (datetime.date(2014, 1, 16), 29.5), (datetime.date(2014, 1, 16), 29.5)], u'Dainty Baby': [(datetime.date(2014, 4, 21), 24.5), (datetime.date(2014, 4, 22), 24.5)], u'MariposaHill': [(datetime.date(2014, 4, 21), 29.0), (datetime.date(2014, 4, 22), 29.0)], u'Wild Blueberries': [(datetime.date(2014, 4, 21), 29.5), (datetime.date(2014, 4, 22), 29.5)], u'Baby SuperMall': [(datetime.date(2014, 4, 21), 21.56), (datetime.date(2014, 4, 22), 21.56)], u'MATZ Market': [(datetime.date(2014, 4, 21), 29.45), (datetime.date(2014, 4, 22), 29.45)], u'Mommy Gear Inc.': [(datetime.date(2014, 4, 21), 24.99), (datetime.date(2014, 4, 22), 24.99)]}
+
+B006KXVLYA
+{u'juDanzy (My Little Legs)': [(datetime.date(2014, 4, 21), 20.0), (datetime.date(2014, 4, 22), 20.0)]}
+
+B00DYUVHVY
+{}
+
+B002R5A4SY
+{u'Amazon': [(datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 2, 17), 7.99), (datetime.date(2014, 4, 21), 7.99)]}
+
+B00CI1YSCU
+{u'Amazon': [(datetime.date(2014, 1, 16), 17.99)]}
+
+B00AJYGCIG
+{}
+
+B009VEB08C
+{u'Shopping More': [(datetime.date(2014, 1, 30), 7.29), (datetime.date(2014, 2, 17), 9.29)], u'PDS Online': [(datetime.date(2014, 1, 30), 2.38), (datetime.date(2014, 2, 17), 3.99)], u'Ecosco': [(datetime.date(2014, 1, 30), 6.5), (datetime.date(2014, 2, 17), 6.5)], u'LOCOMOLIFE': [(datetime.date(2014, 1, 30), 5.0), (datetime.date(2014, 2, 17), 5.0)]}
+
+B003AIKWGG
+{u'Cute Little Clothes': [(datetime.date(2014, 1, 31), 32.0), (datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 4, 21), 32.0)], u'Baby Riddle': [(datetime.date(2014, 1, 31), 35.99), (datetime.date(2014, 2, 17), 35.99), (datetime.date(2014, 4, 21), 35.99)], u'Null': [(datetime.date(2014, 1, 16), 32.0), (datetime.date(2014, 1, 16), 35.99), (datetime.date(2014, 1, 16), 32.0), (datetime.date(2014, 1, 16), 35.99)]}
+
+B0092BO4YQ
+{u'Leveret': [(datetime.date(2014, 2, 17), 12.99), (datetime.date(2014, 2, 17), 12.99), (datetime.date(2014, 4, 22), 12.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99)]}
+
+B005NXF374
+{u'Leveret': [(datetime.date(2014, 1, 31), 12.99), (datetime.date(2014, 4, 22), 9.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99)]}
+
+B0092BGH96
+{u'Null': [(datetime.date(2014, 1, 16), 12.99)]}
+
+B007PDI7IW
+{u'Think Fast': [(datetime.date(2014, 4, 21), 26.9)], u'Amazon': [(datetime.date(2014, 1, 16), 36.0), (datetime.date(2014, 2, 17), 36.0), (datetime.date(2014, 4, 21), 27.15)]}
+
+B006JH5H8S
+{u'Amazon': [(datetime.date(2014, 1, 16), 11.99), (datetime.date(2014, 1, 16), 11.99)], u'Null': [(datetime.date(2014, 1, 16), 11.99), (datetime.date(2014, 1, 16), 12.72), (datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 16), 12.79), (datetime.date(2014, 1, 16), 44.39), (datetime.date(2014, 1, 16), 48.05), (datetime.date(2014, 1, 16), 11.99), (datetime.date(2014, 1, 16), 12.72), (datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 16), 12.79), (datetime.date(2014, 1, 16), 44.39), (datetime.date(2014, 1, 16), 48.05), (datetime.date(2014, 1, 16), 45.63)], u'seller-4-less': [(datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 1, 16), 19.99)], u'Baby Bug Products': [(datetime.date(2014, 1, 16), 15.99), (datetime.date(2014, 1, 16), 15.99)], u'hgmb03': [(datetime.date(2014, 1, 16), 11.85), (datetime.date(2014, 1, 16), 11.85)]}
+
+B001ULCM8G
+{u'FitnessGenie': [(datetime.date(2014, 1, 16), 24.95), (datetime.date(2014, 1, 16), 24.95), (datetime.date(2014, 1, 30), 24.95), (datetime.date(2014, 1, 30), 24.95), (datetime.date(2014, 4, 21), 24.95), (datetime.date(2014, 4, 21), 24.95)], u'My Personal Memories Inc': [(datetime.date(2014, 1, 30), 24.99), (datetime.date(2014, 1, 30), 24.99), (datetime.date(2014, 4, 21), 24.99), (datetime.date(2014, 4, 21), 24.99)], u'AJD Connection': [(datetime.date(2014, 4, 21), 36.95)], u'Distinctions': [(datetime.date(2014, 1, 30), 24.99), (datetime.date(2014, 1, 30), 24.99), (datetime.date(2014, 4, 21), 24.99), (datetime.date(2014, 4, 21), 24.99)], u'ivgStores': [(datetime.date(2014, 1, 30), 32.94), (datetime.date(2014, 1, 30), 32.94)], u'BananaMarathon': [(datetime.date(2014, 4, 21), 17.99), (datetime.date(2014, 4, 21), 17.99)], u'Oakland Expressions': [(datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 30), 24.99), (datetime.date(2014, 1, 30), 24.99), (datetime.date(2014, 4, 21), 24.99)], u'MMP Living': [(datetime.date(2014, 4, 21), 17.45), (datetime.date(2014, 4, 21), 17.45)], u'Amazon': [(datetime.date(2014, 1, 16), 18.48), (datetime.date(2014, 1, 16), 18.48), (datetime.date(2014, 1, 30), 20.37), (datetime.date(2014, 1, 30), 20.37), (datetime.date(2014, 4, 21), 17.68), (datetime.date(2014, 4, 21), 17.68)], u'MBAC Office Solutions/MBACKidz': [(datetime.date(2014, 1, 30), 13.99), (datetime.date(2014, 1, 30), 13.99), (datetime.date(2014, 4, 21), 13.99), (datetime.date(2014, 4, 21), 13.99)], u'Everything Nice Kids': [(datetime.date(2014, 4, 21), 29.95)], u'TheJungleStore': [(datetime.date(2014, 1, 30), 31.25), (datetime.date(2014, 1, 30), 31.25), (datetime.date(2014, 4, 21), 18.75), (datetime.date(2014, 4, 21), 18.75)], u'Null': [(datetime.date(2014, 1, 16), 18.23), (datetime.date(2014, 1, 16), 18.26), (datetime.date(2014, 1, 16), 13.99), (datetime.date(2014, 1, 16), 21.9), (datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 16), 18.23), (datetime.date(2014, 1, 16), 18.26), (datetime.date(2014, 1, 16), 13.99), (datetime.date(2014, 1, 16), 21.9), (datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 16), 31.25), (datetime.date(2014, 1, 16), 32.94), (datetime.date(2014, 1, 16), 29.95), (datetime.date(2014, 1, 16), 36.95)], u'Best Service Stores': [(datetime.date(2014, 4, 21), 20.2), (datetime.date(2014, 4, 21), 20.2)], u'Mommy Gear Inc.': [(datetime.date(2014, 1, 30), 24.99), (datetime.date(2014, 1, 30), 24.99), (datetime.date(2014, 4, 21), 24.99)], u'Artist Colony Babies and Kids': [(datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 30), 24.99), (datetime.date(2014, 1, 30), 24.99), (datetime.date(2014, 4, 21), 24.99), (datetime.date(2014, 4, 21), 24.99)]}
+
+B00ACB6GBY
+{u'Null': [(datetime.date(2014, 1, 16), 14.83), (datetime.date(2014, 1, 16), 14.83), (datetime.date(2014, 1, 16), 9.88), (datetime.date(2014, 1, 16), 15.5), (datetime.date(2014, 1, 16), 15.5)], u'ibabydepot': [(datetime.date(2014, 1, 30), 9.88), (datetime.date(2014, 4, 21), 9.88)], u'Mystiqueshapes': [(datetime.date(2014, 1, 30), 15.5), (datetime.date(2014, 4, 21), 15.5)], u'Positronic US. 8-12 Days Average Delivery (Weather Permitting!).': [(datetime.date(2014, 1, 30), 29.43)], u'Bundle Monster': [(datetime.date(2014, 1, 30), 14.87), (datetime.date(2014, 4, 21), 14.87)], u'se7en fashion': [(datetime.date(2014, 1, 30), 15.5), (datetime.date(2014, 4, 21), 15.5)]}
+
+B007A0IHHG
+{u'Hippo Tails': [(datetime.date(2014, 4, 22), 7.97)], u'BabyVision': [(datetime.date(2014, 4, 22), 3.99), (datetime.date(2014, 4, 22), 6.99)]}
+
+B000PYJZZW
+{u'TIP TOE': [(datetime.date(2014, 1, 16), 20.95)], u'Amazon': [(datetime.date(2014, 1, 16), 14.99)], u'Null': [(datetime.date(2014, 1, 16), 20.0), (datetime.date(2014, 1, 16), 21.0), (datetime.date(2014, 1, 16), 21.0), (datetime.date(2014, 1, 16), 27.0), (datetime.date(2014, 1, 16), 24.95), (datetime.date(2014, 1, 16), 22.5), (datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 16), 26.19)]}
+
+B005SPYBL6
+{u'TradeDeal': [(datetime.date(2014, 4, 21), 8.32)], u'LC-Pals': [(datetime.date(2014, 4, 21), 4.95)], u'Amazon': [(datetime.date(2014, 4, 21), 4.95)], u'One41 beauty': [(datetime.date(2014, 4, 21), 6.45)], u'Thanks Mama': [(datetime.date(2014, 4, 21), 4.95)], u'BabyHaven': [(datetime.date(2014, 4, 21), 4.81)]}
+
+B004WFXRUE
+{u'juDanzy (My Little Legs)': [(datetime.date(2014, 1, 30), 8.0), (datetime.date(2014, 2, 17), 8.0), (datetime.date(2014, 4, 22), 8.0)], u'Null': [(datetime.date(2014, 1, 16), 8.0)]}
+
+B00FEKFIKS
+{u'MariposaHill': [(datetime.date(2014, 1, 16), 49.95)], u'Etailz': [(datetime.date(2014, 1, 16), 49.95)], u'La Stella Blu': [(datetime.date(2014, 1, 16), 49.95)], u'BabyEarth': [(datetime.date(2014, 1, 16), 49.95)], u'Seedlings': [(datetime.date(2014, 1, 16), 50.0)], u'Null': [(datetime.date(2014, 1, 16), 49.95), (datetime.date(2014, 1, 16), 49.95), (datetime.date(2014, 1, 16), 49.95), (datetime.date(2014, 1, 16), 49.95), (datetime.date(2014, 1, 16), 50.0)]}
+
+B003LPUQMS
+{u'The Noisy Tree': [(datetime.date(2014, 4, 22), 3.08)], u'My Precious Kid LLC': [(datetime.date(2014, 4, 22), 7.0)], u"eddie's pick": [(datetime.date(2014, 1, 16), 4.0)], u"Lil' Tulip's": [(datetime.date(2014, 4, 22), 9.0)], u'EcoHeiney': [(datetime.date(2014, 1, 16), 7.5)], u'Amazon': [(datetime.date(2014, 1, 16), 8.0), (datetime.date(2014, 4, 22), 8.0)], u'The Green Nursery': [(datetime.date(2014, 1, 16), 7.95)], u'Thanks Mama': [(datetime.date(2014, 4, 22), 7.75)], u'BabyEarth': [(datetime.date(2014, 4, 22), 7.95)], u'Etailz': [(datetime.date(2014, 4, 22), 20.46)], u'Null': [(datetime.date(2014, 1, 16), 7.75), (datetime.date(2014, 1, 16), 9.0), (datetime.date(2014, 1, 16), 7.0), (datetime.date(2014, 1, 16), 7.95), (datetime.date(2014, 1, 16), 7.99)], u'Meliamonkey': [(datetime.date(2014, 1, 16), 7.5), (datetime.date(2014, 4, 22), 7.5)], u'Center Street': [(datetime.date(2014, 4, 22), 3.47)]}
+
+B009GW8K2S
+{u'Cajungals': [(datetime.date(2014, 1, 16), 29.95)], u'Warner Goods': [(datetime.date(2014, 1, 16), 21.99)], u'White Rabbit Toys': [(datetime.date(2014, 4, 21), 39.95)], u'BuyMoreFun': [(datetime.date(2014, 1, 16), 29.95)], u'Double Rainbow Toys': [(datetime.date(2014, 4, 21), 87.0), (datetime.date(2014, 4, 22), 87.0)], u'seller-4-less': [(datetime.date(2014, 1, 16), 29.99), (datetime.date(2014, 1, 30), 29.99)]}
+
+B006KXVKQ4
+{u'juDanzy (My Little Legs)': [(datetime.date(2014, 1, 30), 20.0)]}
+
+B0050DMP3C
+{u'Null': [(datetime.date(2014, 1, 16), 21.45), (datetime.date(2014, 1, 16), 20.0)], u'iLifeProducts': [(datetime.date(2014, 1, 30), 21.45), (datetime.date(2014, 1, 30), 20.0), (datetime.date(2014, 2, 17), 20.0), (datetime.date(2014, 4, 21), 21.45), (datetime.date(2014, 4, 21), 22.45)]}
+
+B005GDW9RS
+{u'Amazon': [(datetime.date(2014, 3, 4), 22.95)]}
+
+B00GMP0T6M
+{u'Null': [(datetime.date(2014, 1, 16), 12.55)], u'Allset products': [(datetime.date(2014, 1, 30), 12.55)]}
+
+B004071ZO4
+{}
+
+B005P68KDI
+{}
+
+B008EHO0UC
+{u'Amazon': [(datetime.date(2014, 2, 17), 27.99)]}
+
+B005GTPZOQ
+{u'Amazon': [(datetime.date(2014, 1, 16), 6.39)]}
+
+B00GXM4YXI
+{u'BabyVision': [(datetime.date(2014, 2, 17), 9.99)]}
+
+B004WJ2JBI
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.99), (datetime.date(2014, 1, 16), 5.99), (datetime.date(2014, 1, 30), 5.99), (datetime.date(2014, 2, 17), 5.99)]}
+
+B009IQXZBI
+{u'MariposaHill': [(datetime.date(2014, 2, 17), 19.95)], u'Etailz': [(datetime.date(2014, 2, 17), 19.95)], u'La Stella Blu': [(datetime.date(2014, 2, 17), 19.95)], u'Milk Mamas': [(datetime.date(2014, 2, 17), 19.95)], u'American Gift Factory': [(datetime.date(2014, 2, 17), 19.95)], u'Maison Drake': [(datetime.date(2014, 2, 17), 19.95)], u'Null': [(datetime.date(2014, 1, 16), 19.95), (datetime.date(2014, 1, 16), 19.95), (datetime.date(2014, 1, 16), 19.95), (datetime.date(2014, 1, 16), 19.95), (datetime.date(2014, 1, 16), 19.95)], u'Hippo Tails': [(datetime.date(2014, 2, 17), 19.95)]}
+
+B00191TDMU
+{u'CNM Apparel': [(datetime.date(2014, 4, 21), 12.99), (datetime.date(2014, 4, 22), 12.99)], u'AJ WHOLESALE': [(datetime.date(2014, 3, 4), 12.99), (datetime.date(2014, 4, 21), 11.95), (datetime.date(2014, 4, 22), 11.95)], u'All Together Enterprises': [(datetime.date(2014, 3, 4), 11.99), (datetime.date(2014, 4, 21), 11.99), (datetime.date(2014, 4, 22), 11.99)], u'kiddie world': [(datetime.date(2014, 4, 21), 13.49), (datetime.date(2014, 4, 22), 13.49)], u'Null': [(datetime.date(2014, 1, 16), 13.49), (datetime.date(2014, 1, 16), 13.49), (datetime.date(2014, 1, 16), 14.36), (datetime.date(2014, 1, 16), 11.99), (datetime.date(2014, 1, 16), 13.49), (datetime.date(2014, 1, 16), 13.49), (datetime.date(2014, 1, 16), 14.36), (datetime.date(2014, 1, 16), 11.99)], u'BabyHaven': [(datetime.date(2014, 4, 21), 8.17), (datetime.date(2014, 4, 22), 8.17)]}
+
+B00EU8FDOG
+{u'Shopping Moa': [(datetime.date(2014, 2, 17), 59.99), (datetime.date(2014, 3, 4), 59.99), (datetime.date(2014, 3, 4), 59.99), (datetime.date(2014, 4, 21), 59.99), (datetime.date(2014, 4, 22), 59.99)]}
+
+B004KSRNLW
+{u'Amazon': [(datetime.date(2014, 1, 16), 11.41)], u'Null': [(datetime.date(2014, 1, 16), 11.2), (datetime.date(2014, 1, 16), 11.28), (datetime.date(2014, 1, 16), 9.99)]}
+
+B00844Y7RG
+{u'4 Nicky Noodles': [(datetime.date(2014, 2, 17), 20.95), (datetime.date(2014, 3, 4), 20.95), (datetime.date(2014, 4, 22), 19.5)], u'Mr. Magic Holdings': [(datetime.date(2014, 4, 22), 29.92)], u'Null': [(datetime.date(2014, 1, 16), 15.5), (datetime.date(2014, 1, 16), 15.5)], u'ToysToTheFuture': [(datetime.date(2014, 4, 22), 29.95)], u'Tropical Dynamics': [(datetime.date(2014, 2, 17), 19.99), (datetime.date(2014, 4, 22), 20.77)]}
+
+B004H4WID2
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 4, 22), 12.99)]}
+
+B005MZEBFI
+{u'Null': [(datetime.date(2014, 1, 16), 29.99)], u'BabyVision': [(datetime.date(2014, 4, 21), 29.99), (datetime.date(2014, 4, 22), 29.99)]}
+
+B001M4XSC0
+{u'Cute Little Clothes': [(datetime.date(2014, 4, 22), 25.0)], u'BabyEarth': [(datetime.date(2014, 4, 22), 17.8)], u'Null': [(datetime.date(2014, 1, 16), 25.0), (datetime.date(2014, 1, 16), 25.95), (datetime.date(2014, 1, 16), 25.0), (datetime.date(2014, 1, 16), 25.95)], u'Baby Riddle': [(datetime.date(2014, 4, 22), 25.95)]}
+
+B005DSS1G4
+{u'BabyVision': [(datetime.date(2014, 1, 30), 9.99), (datetime.date(2014, 2, 17), 9.99), (datetime.date(2014, 4, 21), 7.99)]}
+
+B002UD6BZS
+{}
+
+B004IEBSXM
+{u'EcoHeiney': [(datetime.date(2014, 1, 30), 16.25), (datetime.date(2014, 2, 17), 16.25)], u'BabyEarth': [(datetime.date(2014, 1, 30), 14.88), (datetime.date(2014, 2, 17), 12.98), (datetime.date(2014, 4, 21), 12.11), (datetime.date(2014, 4, 22), 12.11)], u'Amazon': [(datetime.date(2014, 1, 30), 17.0), (datetime.date(2014, 2, 17), 17.0), (datetime.date(2014, 4, 21), 17.0), (datetime.date(2014, 4, 22), 17.0)], u"Lil' Tulip's": [(datetime.date(2014, 1, 30), 17.0), (datetime.date(2014, 2, 17), 17.0), (datetime.date(2014, 4, 21), 17.0), (datetime.date(2014, 4, 22), 17.0)], u'My Precious Kid LLC': [(datetime.date(2014, 1, 30), 17.0), (datetime.date(2014, 2, 17), 17.0), (datetime.date(2014, 4, 21), 17.0), (datetime.date(2014, 4, 22), 17.0)]}
+
+B002LFWQW2
+{u'Industrial Apparel Holdings, LLC': [(datetime.date(2014, 1, 16), 10.12), (datetime.date(2014, 1, 16), 10.12), (datetime.date(2014, 4, 21), 7.66), (datetime.date(2014, 4, 21), 7.66)], u'ApparelChoice': [(datetime.date(2014, 2, 17), 7.94), (datetime.date(2014, 2, 17), 7.94)], u'Under Moments': [(datetime.date(2014, 2, 17), 11.54), (datetime.date(2014, 2, 17), 11.54), (datetime.date(2014, 4, 21), 8.61), (datetime.date(2014, 4, 21), 8.61)], u'SHOP USA': [(datetime.date(2014, 1, 16), 10.49), (datetime.date(2014, 1, 16), 10.49)], u'LeadOutfit': [(datetime.date(2014, 4, 21), 6.84), (datetime.date(2014, 4, 21), 6.84)], u'GotApparel': [(datetime.date(2014, 4, 21), 8.71), (datetime.date(2014, 4, 21), 8.71)], u'Top Dog Shirts': [(datetime.date(2014, 2, 17), 10.95), (datetime.date(2014, 2, 17), 10.95), (datetime.date(2014, 4, 21), 10.95), (datetime.date(2014, 4, 21), 10.95)], u'The Deal Rack': [(datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 4, 21), 6.5), (datetime.date(2014, 4, 21), 6.5)], u'USTRADE': [(datetime.date(2014, 2, 17), 7.66), (datetime.date(2014, 2, 17), 7.66), (datetime.date(2014, 4, 21), 7.66), (datetime.date(2014, 4, 21), 7.66)], u'LEAD Apparel': [(datetime.date(2014, 2, 17), 18.95), (datetime.date(2014, 2, 17), 18.95), (datetime.date(2014, 4, 21), 17.06)], u'Stitch With Us': [(datetime.date(2014, 2, 17), 8.55), (datetime.date(2014, 2, 17), 9.49), (datetime.date(2014, 2, 17), 8.55), (datetime.date(2014, 2, 17), 9.49), (datetime.date(2014, 4, 21), 8.55), (datetime.date(2014, 4, 21), 8.55), (datetime.date(2014, 4, 21), 9.49), (datetime.date(2014, 4, 21), 9.99)], u'ApparelnBags': [(datetime.date(2014, 2, 17), 8.79), (datetime.date(2014, 2, 17), 8.79), (datetime.date(2014, 4, 21), 8.79), (datetime.date(2014, 4, 21), 8.79)], u'Null': [(datetime.date(2014, 1, 16), 9.84), (datetime.date(2014, 1, 16), 8.44), (datetime.date(2014, 1, 16), 8.55), (datetime.date(2014, 1, 16), 7.66), (datetime.date(2014, 1, 16), 8.31), (datetime.date(2014, 1, 16), 8.79), (datetime.date(2014, 1, 16), 16.14), (datetime.date(2014, 1, 16), 18.95), (datetime.date(2014, 1, 16), 9.84), (datetime.date(2014, 1, 16), 8.44), (datetime.date(2014, 1, 16), 8.55), (datetime.date(2014, 1, 16), 7.66), (datetime.date(2014, 1, 16), 8.31), (datetime.date(2014, 1, 16), 8.79), (datetime.date(2014, 1, 16), 16.14), (datetime.date(2014, 1, 16), 18.95), (datetime.date(2014, 1, 16), 9.49), (datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 16), 16.14), (datetime.date(2014, 1, 16), 18.95)], u'Blank Apparel': [(datetime.date(2014, 2, 17), 9.98), (datetime.date(2014, 2, 17), 9.98), (datetime.date(2014, 4, 21), 9.98), (datetime.date(2014, 4, 21), 9.98), (datetime.date(2014, 4, 21), 16.14)]}
+
+B001KANUME
+{u'MATZ Market': [(datetime.date(2014, 1, 30), 29.45), (datetime.date(2014, 1, 31), 29.45), (datetime.date(2014, 2, 17), 29.45), (datetime.date(2014, 4, 21), 29.45), (datetime.date(2014, 4, 22), 29.45)], u'Dainty Baby': [(datetime.date(2014, 1, 30), 27.99), (datetime.date(2014, 1, 31), 27.99), (datetime.date(2014, 2, 17), 26.5), (datetime.date(2014, 4, 21), 27.95), (datetime.date(2014, 4, 22), 27.95)], u'Wild Blueberries': [(datetime.date(2014, 1, 30), 28.99), (datetime.date(2014, 1, 31), 28.99), (datetime.date(2014, 2, 17), 28.99)], u'Babies Bratz and Beyond': [(datetime.date(2014, 2, 17), 26.49)], u'Christening Day': [(datetime.date(2014, 2, 17), 27.95), (datetime.date(2014, 4, 21), 27.95), (datetime.date(2014, 4, 22), 27.95)], u'Null': [(datetime.date(2014, 1, 16), 27.99), (datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 16), 29.45), (datetime.date(2014, 1, 16), 28.99)], u'Mommy Gear Inc.': [(datetime.date(2014, 1, 30), 24.99), (datetime.date(2014, 1, 31), 24.99), (datetime.date(2014, 2, 17), 24.99), (datetime.date(2014, 4, 21), 24.99), (datetime.date(2014, 4, 22), 24.99)]}
+
+B00CC6ZUC8
+{}
+
+B00CI1YUYG
+{}
+
+B00CE3J5SO
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.99), (datetime.date(2014, 4, 21), 6.91)]}
+
+B00EOHWR10
+{u'COOKIESKIDS': [(datetime.date(2014, 4, 21), 16.99)], u'S & D Kids': [(datetime.date(2014, 4, 21), 19.99)]}
+
+B00HNFO49I
+{u'Null': [(datetime.date(2014, 1, 16), 58.0)]}
+
+B00B5ECZ3K
+{u'The Fashion Rack': [(datetime.date(2014, 1, 30), 3.99), (datetime.date(2014, 1, 31), 3.99), (datetime.date(2014, 2, 17), 3.99), (datetime.date(2014, 2, 17), 3.99)], u'Null': [(datetime.date(2014, 1, 16), 3.99), (datetime.date(2014, 1, 16), 3.99)]}
+
+B00DQ4JXHI
+{u'Amazon': [(datetime.date(2014, 1, 16), 23.99)]}
+
+B005A9H3B0
+{u'COOKIESKIDS': [(datetime.date(2014, 1, 30), 12.3)], u'Amazon': [(datetime.date(2014, 1, 30), 15.94), (datetime.date(2014, 4, 21), 19.99)], u'Joker Kids': [(datetime.date(2014, 4, 21), 19.99)], u'More Than Toys': [(datetime.date(2014, 4, 21), 24.99)]}
+
+B006KXVHY4
+{u'juDanzy (My Little Legs)': [(datetime.date(2014, 1, 30), 7.5), (datetime.date(2014, 4, 22), 5.0)], u'Null': [(datetime.date(2014, 1, 16), 7.5)]}
+
+B00D7C7MGI
+{u'Amazon': [(datetime.date(2014, 2, 17), 7.16), (datetime.date(2014, 3, 4), 7.16), (datetime.date(2014, 4, 21), 6.97), (datetime.date(2014, 4, 22), 6.97)], u'BabyVision': [(datetime.date(2014, 2, 17), 3.99), (datetime.date(2014, 3, 4), 3.99), (datetime.date(2014, 4, 21), 3.99), (datetime.date(2014, 4, 22), 3.99)]}
+
+B0042LYXAQ
+{u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 13.59), (datetime.date(2014, 4, 22), 13.59)], u'BabyEarth': [(datetime.date(2014, 1, 30), 12.95), (datetime.date(2014, 4, 22), 12.95)], u'Amazon': [(datetime.date(2014, 1, 16), 9.95), (datetime.date(2014, 1, 30), 9.95), (datetime.date(2014, 4, 22), 9.95)], u'Null': [(datetime.date(2014, 1, 16), 12.95), (datetime.date(2014, 1, 16), 11.2), (datetime.date(2014, 1, 16), 13.59)], u'Fun to Collect': [(datetime.date(2014, 1, 30), 11.2), (datetime.date(2014, 4, 22), 11.2)]}
+
+B00D2C6IHW
+{u'Leveret': [(datetime.date(2014, 4, 21), 12.99)]}
+
+B00D2C6ULQ
+{u'Leveret': [(datetime.date(2014, 2, 17), 12.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99)]}
+
+B00D3RDQP8
+{u'Leveret': [(datetime.date(2014, 2, 17), 12.99), (datetime.date(2014, 4, 21), 12.99), (datetime.date(2014, 4, 22), 12.99)]}
+
+B004Q72RFY
+{u'Null': [(datetime.date(2014, 1, 16), 15.99)]}
+
+B004773HKW
+{u'Amazon': [(datetime.date(2014, 1, 16), 28.99), (datetime.date(2014, 2, 17), 28.99), (datetime.date(2014, 4, 21), 39.0), (datetime.date(2014, 4, 22), 39.0), (datetime.date(2014, 4, 22), 39.0)]}
+
+B00E2Y2F5I
+{}
+
+B004LWZ1L6
+{u'Cute Little Clothes': [(datetime.date(2014, 1, 30), 28.0), (datetime.date(2014, 1, 31), 28.0), (datetime.date(2014, 2, 17), 28.0)], u'BabyEarth': [(datetime.date(2014, 1, 30), 24.95), (datetime.date(2014, 1, 31), 20.8), (datetime.date(2014, 2, 17), 20.8)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 28.0), (datetime.date(2014, 1, 31), 28.0), (datetime.date(2014, 2, 17), 28.0), (datetime.date(2014, 4, 21), 28.0), (datetime.date(2014, 4, 22), 28.0)], u'Null': [(datetime.date(2014, 1, 16), 20.8), (datetime.date(2014, 1, 16), 28.0), (datetime.date(2014, 1, 16), 28.0), (datetime.date(2014, 1, 16), 20.8), (datetime.date(2014, 1, 16), 28.0), (datetime.date(2014, 1, 16), 28.0)]}
+
+B00E6QWVBU
+{u'ToysOnline': [(datetime.date(2014, 4, 21), 34.79)], u'Amazon': [(datetime.date(2014, 1, 16), 9.97), (datetime.date(2014, 4, 21), 8.82)], u'Null': [(datetime.date(2014, 1, 16), 42.03)]}
+
+B00ARDD96C
+{u'Perfectly Preemie': [(datetime.date(2014, 4, 22), 12.99)], u'Amazon': [(datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 4, 22), 12.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99)]}
+
+B007M7FSVK
+{u'Amazon': [(datetime.date(2014, 1, 16), 12.6), (datetime.date(2014, 2, 17), 12.6), (datetime.date(2014, 2, 17), 12.6), (datetime.date(2014, 4, 22), 12.6)], u'Null': [(datetime.date(2014, 1, 16), 15.0), (datetime.date(2014, 1, 16), 21.0)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 22), 15.0)], u'Cambridge Select': [(datetime.date(2014, 2, 17), 21.0), (datetime.date(2014, 2, 17), 21.0), (datetime.date(2014, 4, 22), 12.8)]}
+
+B00AH6WVDQ
+{u'Leveret': [(datetime.date(2014, 3, 4), 12.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99)]}
+
+B0054YDLBC
+{}
+
+B007F3482G
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.85), (datetime.date(2014, 1, 30), 9.85)], u'Null': [(datetime.date(2014, 1, 16), 7.35)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 7.35)]}
+
+B0061MQB68
+{u'Perfectly Preemie': [(datetime.date(2014, 4, 22), 12.95)], u'Baby SuperMall': [(datetime.date(2014, 4, 22), 11.95)], u'Baby Riddle': [(datetime.date(2014, 4, 22), 13.99)]}
+
+B00CJ1QF9S
+{u'Baby SuperMall': [(datetime.date(2014, 2, 17), 11.95)]}
+
+B00EOHWTIQ
+{u'COOKIESKIDS': [(datetime.date(2014, 4, 21), 16.99), (datetime.date(2014, 4, 22), 16.99)], u'Amazon': [(datetime.date(2014, 1, 16), 15.79)], u'S & D Kids': [(datetime.date(2014, 1, 30), 17.99), (datetime.date(2014, 4, 21), 19.99), (datetime.date(2014, 4, 22), 19.99)]}
+
+B003AIKWQQ
+{u'Baby Riddle': [(datetime.date(2014, 1, 31), 33.95)], u'Amazon': [(datetime.date(2014, 1, 16), 20.99), (datetime.date(2014, 1, 16), 20.99), (datetime.date(2014, 1, 31), 20.99)], u'Null': [(datetime.date(2014, 1, 16), 33.95), (datetime.date(2014, 1, 16), 33.59), (datetime.date(2014, 1, 16), 33.95), (datetime.date(2014, 1, 16), 33.59)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 22), 33.59)]}
+
+B00ARDCES6
+{u'Perfectly Preemie': [(datetime.date(2014, 4, 22), 5.99)], u'Amazon': [(datetime.date(2014, 1, 16), 4.99), (datetime.date(2014, 4, 22), 5.99)], u'Null': [(datetime.date(2014, 1, 16), 5.99)]}
+
+B00AKFZ2LW
+{u'Amazon': [(datetime.date(2014, 1, 30), 52.47)], u'Null': [(datetime.date(2014, 1, 16), 52.47), (datetime.date(2014, 1, 16), 52.47)], u'Backcountry': [(datetime.date(2014, 1, 30), 52.47)]}
+
+B00BEZPXSY
+{u'Null': [(datetime.date(2014, 1, 16), 39.5), (datetime.date(2014, 1, 16), 39.5)], u'Coolibar Sun Protective Clothing': [(datetime.date(2014, 1, 30), 39.5), (datetime.date(2014, 2, 17), 39.5), (datetime.date(2014, 4, 22), 39.5)]}
+
+B004UAAIU8
+{u'Amazon': [(datetime.date(2014, 1, 16), 13.0), (datetime.date(2014, 2, 17), 13.0)]}
+
+B00CS1SPII
+{u"Stop 'n Shop": [(datetime.date(2014, 3, 4), 19.95)], u'Tropical Dynamics': [(datetime.date(2014, 3, 4), 15.99)], u'AmazingBebe': [(datetime.date(2014, 3, 4), 20.0)], u'flisjewelldeals4u': [(datetime.date(2014, 3, 4), 21.92), (datetime.date(2014, 4, 21), 21.92)], u'Viva Baby Four': [(datetime.date(2014, 3, 4), 20.0)], u'Toy Depot Etc': [(datetime.date(2014, 4, 21), 14.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 3, 4), 13.99), (datetime.date(2014, 4, 21), 13.99)], u'deals2thedoor': [(datetime.date(2014, 3, 4), 21.92), (datetime.date(2014, 4, 21), 21.92)], u'Mr. Magic Holdings': [(datetime.date(2014, 3, 4), 21.97), (datetime.date(2014, 4, 21), 21.92)]}
+
+B00DWBN00Q
+{u'ToysOnline': [(datetime.date(2014, 4, 21), 16.99)], u'Amazon': [(datetime.date(2014, 1, 30), 12.5), (datetime.date(2014, 4, 21), 15.35)], u'seller-4-less': [(datetime.date(2014, 4, 21), 19.99)], u'BabyVision': [(datetime.date(2014, 1, 30), 7.99), (datetime.date(2014, 4, 21), 10.99)], u'Best Brands Toys': [(datetime.date(2014, 4, 21), 14.39)]}
+
+B00DEODIY4
+{u"Kristin's Great Finds": [(datetime.date(2014, 1, 30), 49.99), (datetime.date(2014, 2, 17), 49.99), (datetime.date(2014, 4, 21), 49.99)], u'Null': [(datetime.date(2014, 1, 16), 29.36), (datetime.date(2014, 1, 16), 29.95), (datetime.date(2014, 1, 16), 36.0), (datetime.date(2014, 1, 16), 49.99), (datetime.date(2014, 1, 16), 49.99)], u'Amor Kids AMK': [(datetime.date(2014, 1, 30), 31.43), (datetime.date(2014, 2, 17), 31.43)], u'Amazon': [(datetime.date(2014, 1, 16), 28.55), (datetime.date(2014, 1, 30), 23.13), (datetime.date(2014, 2, 17), 29.63), (datetime.date(2014, 4, 21), 14.1)], u'Tomo Buys': [(datetime.date(2014, 1, 30), 29.36), (datetime.date(2014, 2, 17), 29.36), (datetime.date(2014, 4, 21), 30.0)], u'Dana Kids': [(datetime.date(2014, 1, 30), 37.0), (datetime.date(2014, 2, 17), 44.99), (datetime.date(2014, 4, 21), 44.99)], u'Specialty Stores, Inc': [(datetime.date(2014, 1, 30), 29.95), (datetime.date(2014, 2, 17), 29.35), (datetime.date(2014, 4, 21), 29.35)], u'Baby Family Gifts': [(datetime.date(2014, 1, 30), 49.99), (datetime.date(2014, 2, 17), 49.99), (datetime.date(2014, 4, 21), 49.99)], u'In Fashion Kids': [(datetime.date(2014, 1, 30), 36.0), (datetime.date(2014, 2, 17), 36.0), (datetime.date(2014, 4, 21), 36.0)]}
+
+B00C2735Z6
+{u'ToysOnline': [(datetime.date(2014, 4, 21), 21.99), (datetime.date(2014, 4, 22), 21.99)], u'Amazon': [(datetime.date(2014, 1, 16), 16.35), (datetime.date(2014, 4, 21), 14.55), (datetime.date(2014, 4, 22), 14.55)], u'Null': [(datetime.date(2014, 1, 16), 11.99)], u'BabyVision': [(datetime.date(2014, 4, 21), 8.99), (datetime.date(2014, 4, 22), 8.99)], u'Best Brands Toys': [(datetime.date(2014, 4, 21), 20.39), (datetime.date(2014, 4, 22), 20.39)]}
+
+B00ELML304
+{}
+
+B00ATCBUYO
+{u'Amazon': [(datetime.date(2014, 4, 21), 9.99)]}
+
+B00B5PV3FA
+{u'MMP Living': [(datetime.date(2014, 4, 22), 13.32)], u'Amazon': [(datetime.date(2014, 1, 30), 14.67), (datetime.date(2014, 4, 22), 13.52)], u'Dana Kids': [(datetime.date(2014, 1, 30), 11.75), (datetime.date(2014, 4, 22), 14.99)], u'Baby Family Gifts': [(datetime.date(2014, 1, 30), 15.99), (datetime.date(2014, 4, 22), 13.99)], u'In Fashion Kids': [(datetime.date(2014, 1, 30), 9.99)], u'Best Service Stores': [(datetime.date(2014, 4, 22), 13.45)]}
+
+B00B1M2NT2
+{u'ToysOnline': [(datetime.date(2014, 1, 30), 52.63)], u'Amazon': [(datetime.date(2014, 1, 16), 18.98), (datetime.date(2014, 1, 30), 17.98)], u'Null': [(datetime.date(2014, 1, 16), 18.79), (datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 1, 16), 52.63)], u'DimpleChild': [(datetime.date(2014, 1, 30), 21.3)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 19.99)]}
+
+B005S6AOXE
+{u'PlumStruck': [(datetime.date(2014, 4, 21), 19.99)], u'Amazon': [(datetime.date(2014, 4, 21), 11.99)]}
+
+B009DQR7BM
+{}
+
+B005S6C0DG
+{u'Amazon': [(datetime.date(2014, 1, 16), 58.0), (datetime.date(2014, 1, 30), 58.0), (datetime.date(2014, 2, 17), 46.4), (datetime.date(2014, 4, 21), 46.4)]}
+
+B00AY8M3LC
+{u'Leveret': [(datetime.date(2014, 4, 21), 12.99), (datetime.date(2014, 4, 22), 12.99), (datetime.date(2014, 4, 22), 12.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 16), 12.99)]}
+
+B002UD662Q
+{u'FWD Quality Products': [(datetime.date(2014, 4, 21), 13.25)], u'Null': [(datetime.date(2014, 1, 16), 11.59), (datetime.date(2014, 1, 16), 11.59)], u'Ultra-Sell': [(datetime.date(2014, 4, 21), 13.25)], u'richesnrags': [(datetime.date(2014, 1, 16), 4.97), (datetime.date(2014, 1, 16), 4.97)], u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 16), 9.99)], u'mryagami': [(datetime.date(2014, 1, 16), 12.5), (datetime.date(2014, 1, 16), 12.5)], u'Double Rainbow Toys': [(datetime.date(2014, 4, 21), 13.24)]}
+
+B007CRR9TO
+{u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 16.49)], u'Amazon': [(datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 30), 12.99), (datetime.date(2014, 4, 21), 12.99)], u'Null': [(datetime.date(2014, 1, 16), 14.65), (datetime.date(2014, 1, 16), 12.51)], u'kiddie world': [(datetime.date(2014, 1, 16), 14.65), (datetime.date(2014, 1, 16), 12.51), (datetime.date(2014, 1, 30), 14.65), (datetime.date(2014, 1, 30), 12.51), (datetime.date(2014, 4, 21), 14.65)]}
+
+B00AHOQFO4
+{u'Perfectly Preemie': [(datetime.date(2014, 1, 16), 10.99), (datetime.date(2014, 4, 21), 10.99)], u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 4, 21), 9.99)], u'Null': [(datetime.date(2014, 1, 16), 10.99), (datetime.date(2014, 1, 16), 12.73)], u'kiddie world': [(datetime.date(2014, 1, 16), 12.73)]}
+
+B0032Z7TL8
+{u'SophiasStyle': [(datetime.date(2014, 4, 22), 29.99)], u'Null': [(datetime.date(2014, 1, 16), 29.99)]}
+
+B00BOTK4VQ
+{u'Null': [(datetime.date(2014, 1, 16), 11.98), (datetime.date(2014, 1, 16), 8.99), (datetime.date(2014, 1, 16), 11.98), (datetime.date(2014, 1, 16), 8.99)], u'BabyVision': [(datetime.date(2014, 4, 21), 8.99), (datetime.date(2014, 4, 22), 8.99), (datetime.date(2014, 4, 22), 8.99)]}
+
+B003D3NX5A
+{u'BabyVision': [(datetime.date(2014, 2, 17), 3.99), (datetime.date(2014, 4, 21), 3.99)]}
+
+B006RHNPYS
+{u'Null': [(datetime.date(2014, 1, 16), 4.99)], u'BabyVision': [(datetime.date(2014, 2, 17), 4.99), (datetime.date(2014, 4, 21), 4.99), (datetime.date(2014, 4, 22), 4.99)]}
+
+B005TNBRR8
+{u'Beyond-Imagine': [(datetime.date(2014, 4, 21), 6.09), (datetime.date(2014, 4, 21), 6.09), (datetime.date(2014, 4, 22), 6.09), (datetime.date(2014, 4, 22), 6.09)], u'Click down': [(datetime.date(2014, 4, 21), 8.09)], u'Summeronsale': [(datetime.date(2014, 1, 30), 6.98), (datetime.date(2014, 1, 30), 6.98), (datetime.date(2014, 4, 21), 6.09), (datetime.date(2014, 4, 21), 6.09), (datetime.date(2014, 4, 22), 6.09), (datetime.date(2014, 4, 22), 6.09)], u'New Discovery': [(datetime.date(2014, 1, 30), 6.99), (datetime.date(2014, 1, 30), 6.99)], u'digital.HK': [(datetime.date(2014, 4, 21), 7.2), (datetime.date(2014, 4, 21), 7.2), (datetime.date(2014, 4, 22), 7.2), (datetime.date(2014, 4, 22), 7.2)], u'Save Goldsss': [(datetime.date(2014, 4, 21), 6.76), (datetime.date(2014, 4, 21), 6.76), (datetime.date(2014, 4, 22), 6.76), (datetime.date(2014, 4, 22), 6.76)], u'dmxray84': [(datetime.date(2014, 1, 30), 6.0), (datetime.date(2014, 1, 30), 6.0), (datetime.date(2014, 4, 21), 6.0)], u'happyshopping2014': [(datetime.date(2014, 1, 30), 6.97), (datetime.date(2014, 1, 30), 6.97), (datetime.date(2014, 4, 21), 6.09), (datetime.date(2014, 4, 21), 6.09), (datetime.date(2014, 4, 22), 6.09), (datetime.date(2014, 4, 22), 6.09)], u'Buy Me Store': [(datetime.date(2014, 4, 21), 6.13), (datetime.date(2014, 4, 21), 6.13), (datetime.date(2014, 4, 22), 6.13), (datetime.date(2014, 4, 22), 6.13)], u'Hats Ecetera': [(datetime.date(2014, 4, 21), 23.55)], u'Fashion-Jewelry': [(datetime.date(2014, 1, 30), 6.98), (datetime.date(2014, 1, 30), 6.98), (datetime.date(2014, 4, 21), 6.09), (datetime.date(2014, 4, 21), 6.09), (datetime.date(2014, 4, 22), 6.09), (datetime.date(2014, 4, 22), 6.09)], u'Sellingpillar': [(datetime.date(2014, 4, 21), 6.83), (datetime.date(2014, 4, 21), 6.83), (datetime.date(2014, 4, 22), 6.83), (datetime.date(2014, 4, 22), 6.83)], u'Goods-cool': [(datetime.date(2014, 4, 21), 6.79), (datetime.date(2014, 4, 21), 6.79), (datetime.date(2014, 4, 22), 6.79), (datetime.date(2014, 4, 22), 6.79)], u'SocalDailyDeals': [(datetime.date(2014, 1, 30), 5.95), (datetime.date(2014, 1, 30), 5.95)], u'Rick toy store': [(datetime.date(2014, 1, 30), 4.99), (datetime.date(2014, 1, 30), 4.99), (datetime.date(2014, 4, 21), 4.99), (datetime.date(2014, 4, 21), 4.99)], u'Fashion-Store': [(datetime.date(2014, 1, 30), 6.96), (datetime.date(2014, 1, 30), 6.96), (datetime.date(2014, 4, 21), 6.09), (datetime.date(2014, 4, 21), 6.09), (datetime.date(2014, 4, 22), 6.09), (datetime.date(2014, 4, 22), 6.09)], u'Rockymart': [(datetime.date(2014, 1, 30), 4.99), (datetime.date(2014, 1, 30), 4.99)], u'AnnieBella': [(datetime.date(2014, 1, 30), 11.5), (datetime.date(2014, 1, 30), 11.5)]}
+
+B002F9MUZM
+{}
+
+B003LPUQOG
+{u'My Precious Kid LLC': [(datetime.date(2014, 4, 21), 6.4)], u'BabyEarth': [(datetime.date(2014, 4, 21), 6.95)], u'Buyersparadise': [(datetime.date(2014, 4, 21), 10.62)], u'Amazon': [(datetime.date(2014, 4, 21), 6.85)], u'Thanks Mama': [(datetime.date(2014, 4, 21), 7.0)], u'Etailz': [(datetime.date(2014, 4, 21), 19.06)], u'Aliga Online': [(datetime.date(2014, 4, 21), 5.71)]}
+
+B007C2PVW6
+{u'Amazon': [(datetime.date(2014, 1, 16), 10.99), (datetime.date(2014, 2, 17), 7.99), (datetime.date(2014, 3, 4), 10.99), (datetime.date(2014, 4, 21), 10.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 16), 15.99), (datetime.date(2014, 3, 4), 15.99), (datetime.date(2014, 4, 21), 15.99)]}
+
+B005554II0
+{u'Amazon': [(datetime.date(2014, 1, 30), 23.95)], u'Gracefully Green Baby': [(datetime.date(2014, 1, 30), 23.0)], u'Thanks Mama': [(datetime.date(2014, 1, 30), 23.95)]}
+
+B00CRJWQKY
+{u'Amazon': [(datetime.date(2014, 1, 16), 25.95), (datetime.date(2014, 1, 30), 25.95), (datetime.date(2014, 2, 17), 25.95)], u'Null': [(datetime.date(2014, 1, 16), 25.95), (datetime.date(2014, 1, 16), 26.5)], u"Lil' Tulip's": [(datetime.date(2014, 1, 30), 26.5), (datetime.date(2014, 2, 17), 26.5)]}
+
+B00E3SGVY4
+{u'Amazon': [(datetime.date(2014, 1, 16), 50.0), (datetime.date(2014, 1, 16), 50.0), (datetime.date(2014, 1, 31), 50.0), (datetime.date(2014, 2, 17), 50.0), (datetime.date(2014, 4, 22), 50.0)]}
+
+B00ARVTGI4
+{u'Amazon': [(datetime.date(2014, 1, 16), 36.0), (datetime.date(2014, 1, 16), 36.0)]}
+
+B00CR352WY
+{u'Etailz': [(datetime.date(2014, 4, 22), 16.0)], u'Best Baby Organics': [(datetime.date(2014, 4, 22), 17.99)], u'Null': [(datetime.date(2014, 1, 16), 18.5), (datetime.date(2014, 1, 16), 18.55), (datetime.date(2014, 1, 16), 18.5), (datetime.date(2014, 1, 16), 18.55)], u'Apple Green Baby': [(datetime.date(2014, 4, 22), 16.0)]}
+
+B0050IRMG2
+{u'Null': [(datetime.date(2014, 1, 16), 16.95), (datetime.date(2014, 1, 16), 16.95)], u'iLifeProducts': [(datetime.date(2014, 2, 17), 20.0), (datetime.date(2014, 4, 21), 18.95), (datetime.date(2014, 4, 21), 16.95), (datetime.date(2014, 4, 22), 18.95), (datetime.date(2014, 4, 22), 16.95), (datetime.date(2014, 4, 22), 18.95), (datetime.date(2014, 4, 22), 16.95)]}
+
+B002EB06DO
+{u'Baby Riddle': [(datetime.date(2014, 1, 31), 16.95), (datetime.date(2014, 4, 21), 16.95), (datetime.date(2014, 4, 22), 16.95)], u'Young Timers Boutique': [(datetime.date(2014, 1, 16), 11.95), (datetime.date(2014, 1, 31), 11.95), (datetime.date(2014, 4, 21), 16.0), (datetime.date(2014, 4, 22), 16.0)], u'Perfectly Preemie': [(datetime.date(2014, 1, 31), 12.95), (datetime.date(2014, 4, 21), 12.95), (datetime.date(2014, 4, 22), 12.95)], u'Amazon': [(datetime.date(2014, 1, 16), 11.99), (datetime.date(2014, 1, 31), 11.99), (datetime.date(2014, 4, 21), 9.99), (datetime.date(2014, 4, 22), 9.99)], u'Baby SuperMall': [(datetime.date(2014, 1, 31), 11.95), (datetime.date(2014, 4, 21), 11.95), (datetime.date(2014, 4, 22), 11.95)], u'Null': [(datetime.date(2014, 1, 16), 11.95), (datetime.date(2014, 1, 16), 12.95), (datetime.date(2014, 1, 16), 16.95)]}
+
+B00CWPI5W6
+{u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 18.99)], u'Null': [(datetime.date(2014, 1, 16), 15.6), (datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 1, 16), 18.99)], u'Tropical Dynamics': [(datetime.date(2014, 1, 16), 14.99)]}
+
+B00CKIH5B2
+{u'Amazon': [(datetime.date(2014, 1, 30), 10.5)]}
+
+B00GTMK364
+{u'Amazon': [(datetime.date(2014, 1, 30), 56.0), (datetime.date(2014, 4, 22), 120.99)]}
+
+B0067W19ZA
+{}
+
+B00CE3I8Z0
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.77)]}
+
+B00CC7F464
+{}
+
+B00CE3JB42
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.0)]}
+
+B00DZ3RU2A
+{u'Null': [(datetime.date(2014, 1, 16), 10.95), (datetime.date(2014, 1, 16), 15.99), (datetime.date(2014, 1, 16), 10.95), (datetime.date(2014, 1, 16), 15.99)], u'Wrapables': [(datetime.date(2014, 1, 30), 10.95), (datetime.date(2014, 1, 30), 15.99), (datetime.date(2014, 2, 17), 10.95), (datetime.date(2014, 2, 17), 15.99), (datetime.date(2014, 2, 17), 10.95), (datetime.date(2014, 2, 17), 15.99)]}
+
+B00E2Y936W
+{u'Null': [(datetime.date(2014, 1, 16), 7.5)]}
+
+B0081UF4F2
+{u'juDanzy (My Little Legs)': [(datetime.date(2014, 2, 17), 20.0), (datetime.date(2014, 2, 17), 20.0), (datetime.date(2014, 4, 22), 20.0), (datetime.date(2014, 4, 22), 20.0)], u'Null': [(datetime.date(2014, 1, 16), 20.0)]}
+
+B00CC7F1WQ
+{u'Amazon': [(datetime.date(2014, 1, 30), 17.13)]}
+
+B00AMB098K
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.38)]}
+
+B00G3199WK
+{u'Amazon': [(datetime.date(2014, 4, 21), 111.99)]}
+
+B00DPEOHL6
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.82)]}
+
+B00AB27DQQ
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.29)], u'Null': [(datetime.date(2014, 1, 16), 4.99)]}
+
+B00HG15CUO
+{u'Null': [(datetime.date(2014, 1, 16), 33.95), (datetime.date(2014, 1, 16), 33.95)]}
+
+B008R811H8
+{u'24tee': [(datetime.date(2014, 1, 30), 19.99), (datetime.date(2014, 1, 31), 19.99), (datetime.date(2014, 2, 17), 19.99), (datetime.date(2014, 3, 4), 19.99), (datetime.date(2014, 4, 22), 19.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 16), 18.99)], u'LOL FASHION': [(datetime.date(2014, 1, 30), 12.99), (datetime.date(2014, 1, 31), 12.99), (datetime.date(2014, 2, 17), 12.99), (datetime.date(2014, 4, 22), 9.5)], u'The Distributor Group': [(datetime.date(2014, 1, 16), 13.5), (datetime.date(2014, 1, 30), 13.95), (datetime.date(2014, 1, 31), 13.95), (datetime.date(2014, 2, 17), 13.95), (datetime.date(2014, 3, 4), 14.95), (datetime.date(2014, 4, 22), 9.25)]}
+
+B00ARVTEG8
+{u'Amazon': [(datetime.date(2014, 1, 16), 25.5), (datetime.date(2014, 1, 30), 19.99), (datetime.date(2014, 1, 31), 19.99), (datetime.date(2014, 2, 17), 19.99), (datetime.date(2014, 2, 17), 19.99), (datetime.date(2014, 3, 4), 19.99)]}
+
+B00EOHX1JW
+{u'Amazon': [(datetime.date(2014, 1, 30), 19.43)]}
+
+B00CE3J06Q
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.31)]}
+
+B00AJYIPDG
+{u'Amazon': [(datetime.date(2014, 1, 16), 84.95), (datetime.date(2014, 1, 30), 84.95), (datetime.date(2014, 2, 17), 84.95), (datetime.date(2014, 4, 22), 72.8)], u'Null': [(datetime.date(2014, 1, 16), 87.47)], u'Backcountry': [(datetime.date(2014, 1, 30), 87.47), (datetime.date(2014, 2, 17), 87.47), (datetime.date(2014, 4, 22), 56.23)]}
+
+B00AYS8U2I
+{u'Amazon': [(datetime.date(2014, 4, 22), 12.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 22), 12.99)]}
+
+B00CGZ088G
+{u'Amazon': [(datetime.date(2014, 1, 30), 16.29)], u'MjibSports': [(datetime.date(2014, 2, 17), 14.95)]}
+
+B00E3SGVC6
+{}
+
+B00DK257PI
+{u'Baby SuperMall': [(datetime.date(2014, 2, 17), 14.95), (datetime.date(2014, 4, 21), 13.78), (datetime.date(2014, 4, 22), 13.78)], u'Null': [(datetime.date(2014, 1, 16), 14.95)], u'flisjewelldeals4u': [(datetime.date(2014, 1, 16), 18.92), (datetime.date(2014, 2, 17), 18.92), (datetime.date(2014, 4, 21), 18.92), (datetime.date(2014, 4, 22), 18.92)], u'deals2thedoor': [(datetime.date(2014, 4, 21), 17.92), (datetime.date(2014, 4, 22), 17.92)]}
+
+B00EOHZ6UO
+{u'COOKIESKIDS': [(datetime.date(2014, 1, 30), 7.38), (datetime.date(2014, 4, 21), 8.99), (datetime.date(2014, 4, 22), 8.99)], u'Amazon': [(datetime.date(2014, 1, 30), 11.02)], u'S & D Kids': [(datetime.date(2014, 1, 30), 12.99)]}
+
+B00FJ46W72
+{u'Null': [(datetime.date(2014, 1, 16), 19.99)]}
+
+B005A8RH1M
+{u'COOKIESKIDS': [(datetime.date(2014, 1, 30), 12.3), (datetime.date(2014, 2, 17), 12.3)], u'Amazon': [(datetime.date(2014, 1, 16), 15.94), (datetime.date(2014, 1, 30), 15.94), (datetime.date(2014, 2, 17), 15.94)], u'Null': [(datetime.date(2014, 1, 16), 12.3)], u'Joker Kids': [(datetime.date(2014, 4, 21), 19.99), (datetime.date(2014, 4, 22), 19.99)], u'More Than Toys': [(datetime.date(2014, 4, 21), 24.99), (datetime.date(2014, 4, 22), 24.99)]}
+
+B00D7C6W82
+{u'Amazon': [(datetime.date(2014, 1, 16), 6.06), (datetime.date(2014, 1, 30), 6.06), (datetime.date(2014, 2, 17), 6.06), (datetime.date(2014, 4, 22), 6.06)], u'Null': [(datetime.date(2014, 1, 16), 2.99)], u'BabyVision': [(datetime.date(2014, 1, 30), 2.99), (datetime.date(2014, 2, 17), 2.99), (datetime.date(2014, 4, 22), 2.99)]}
+
+B00CKIH5D0
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.78)], u'Null': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 16), 10.5)]}
+
+B00EE1Z3XA
+{u'Blue Star Inc.': [(datetime.date(2014, 1, 30), 19.99), (datetime.date(2014, 3, 4), 19.6)], u'Bazillion Dreams': [(datetime.date(2014, 1, 30), 21.95)], u'newbury-comics': [(datetime.date(2014, 3, 4), 19.31)], u'Retrofacts': [(datetime.date(2014, 1, 30), 19.99)]}
+
+B00EOHZ5E6
+{}
+
+B00EP78YNY
+{u'Amazon': [(datetime.date(2014, 3, 4), 23.99), (datetime.date(2014, 4, 22), 16.99)], u'S & D Kids': [(datetime.date(2014, 4, 22), 19.99)]}
+
+B00APWOYSC
+{u'Amazon': [(datetime.date(2014, 1, 16), 30.99), (datetime.date(2014, 3, 4), 29.99)]}
+
+B00EMG3Z32
+{u'Amazon': [(datetime.date(2014, 1, 16), 6.67), (datetime.date(2014, 4, 21), 7.99), (datetime.date(2014, 4, 22), 7.99)]}
+
+B009S4CYRG
+{u'Baby Riddle': [(datetime.date(2014, 3, 4), 16.95), (datetime.date(2014, 4, 21), 16.95)], u'Amazon': [(datetime.date(2014, 1, 16), 11.98), (datetime.date(2014, 3, 4), 11.98)], u'Null': [(datetime.date(2014, 1, 16), 16.95)]}
+
+B00BR07046
+{u'Amazon': [(datetime.date(2014, 1, 16), 10.9)], u'Null': [(datetime.date(2014, 1, 16), 24.0), (datetime.date(2014, 1, 16), 24.0)]}
+
+B00CE3IX96
+{u'Amazon': [(datetime.date(2014, 1, 16), 10.99)]}
+
+B00CE3J8RM
+{u'Amazon': [(datetime.date(2014, 2, 17), 15.99), (datetime.date(2014, 3, 4), 14.39)]}
+
+B00EOHXOMQ
+{u'Redtag Fashion': [(datetime.date(2014, 4, 22), 40.99)], u'Amazon': [(datetime.date(2014, 1, 16), 30.99), (datetime.date(2014, 1, 30), 25.1), (datetime.date(2014, 4, 22), 20.63)], u'Joker Kids': [(datetime.date(2014, 4, 22), 19.99)]}
+
+B00AMDR9UE
+{}
+
+B00EOICWBO
+{u'Amazon': [(datetime.date(2014, 2, 17), 16.99)]}
+
+B00DGOWKE6
+{u'The Whole Kit & Caboodle': [(datetime.date(2014, 4, 21), 39.99)]}
+
+B00EOHZ9NI
+{u'Amazon': [(datetime.date(2014, 1, 30), 17.94)], u'Null': [(datetime.date(2014, 1, 16), 8.99)], u'S & D Kids': [(datetime.date(2014, 1, 30), 12.99)]}
+
+B00CC6ZUVE
+{}
+
+B00CI0IDVS
+{u'Amazon': [(datetime.date(2014, 1, 16), 26.99)]}
+
+B00GP20R3M
+{u'BabyVision': [(datetime.date(2014, 4, 22), 7.99)]}
+
+B00EMG3WIA
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.99), (datetime.date(2014, 1, 30), 8.99), (datetime.date(2014, 4, 21), 8.99)]}
+
+B00CX627ZA
+{u'BunnyBerry': [(datetime.date(2014, 4, 21), 21.99)], u'Null': [(datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 1, 16), 25.98)], u'Viva Baby Four': [(datetime.date(2014, 4, 21), 25.0)], u'Talias Treasures': [(datetime.date(2014, 4, 21), 17.9)], u'Tropical Dynamics': [(datetime.date(2014, 1, 16), 17.52)]}
+
+B004WJ2IVO
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.24), (datetime.date(2014, 1, 16), 5.24), (datetime.date(2014, 1, 31), 6.99), (datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 3, 4), 6.99), (datetime.date(2014, 4, 22), 6.99), (datetime.date(2014, 4, 22), 6.99)]}
+
+B00H8L3C6I
+{u'S & D Kids': [(datetime.date(2014, 3, 4), 24.99), (datetime.date(2014, 4, 21), 24.99), (datetime.date(2014, 4, 22), 24.99)]}
+
+B00FSOQJYE
+{u'COOKIESKIDS': [(datetime.date(2014, 2, 17), 19.99), (datetime.date(2014, 4, 21), 19.99), (datetime.date(2014, 4, 22), 19.99)]}
+
+B00EOHWS8W
+{u'COOKIESKIDS': [(datetime.date(2014, 4, 21), 16.99)], u'S & D Kids': [(datetime.date(2014, 2, 17), 17.99), (datetime.date(2014, 4, 21), 19.99)], u'Joker Kids': [(datetime.date(2014, 4, 21), 19.99)]}
+
+B004ZHCIBI
+{u'Dainty Baby': [(datetime.date(2014, 4, 21), 25.9), (datetime.date(2014, 4, 22), 25.93)], u'BabyEarth': [(datetime.date(2014, 4, 21), 21.0), (datetime.date(2014, 4, 22), 21.0)], u'Tazzie Baby & Child': [(datetime.date(2014, 4, 21), 29.0), (datetime.date(2014, 4, 22), 29.0)], u'TheTwinkleStars': [(datetime.date(2014, 4, 21), 28.99), (datetime.date(2014, 4, 22), 28.99)], u'MATZ Market': [(datetime.date(2014, 4, 21), 29.45), (datetime.date(2014, 4, 22), 29.45)], u'Kidsland': [(datetime.date(2014, 4, 21), 28.99), (datetime.date(2014, 4, 22), 28.99)]}
+
+B00E3SGW0M
+{u'Amazon': [(datetime.date(2014, 1, 16), 50.0), (datetime.date(2014, 1, 16), 50.0), (datetime.date(2014, 1, 30), 50.0), (datetime.date(2014, 2, 17), 36.99), (datetime.date(2014, 4, 22), 50.0)]}
+
+B00CGV5UDI
+{}
+
+B0064ET4EY
+{u'4 Nicky Noodles': [(datetime.date(2014, 1, 30), 20.95), (datetime.date(2014, 4, 21), 16.9), (datetime.date(2014, 4, 22), 16.9)], u'Null': [(datetime.date(2014, 1, 16), 15.9)]}
+
+B00DGM7HAU
+{u'Amazon': [(datetime.date(2014, 1, 16), 4.12)]}
+
+B00B5PV0C6
+{u'Null': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 16), 8.99)], u'HAYS INC': [(datetime.date(2014, 4, 21), 8.95), (datetime.date(2014, 4, 22), 8.95)], u'Amazon': [(datetime.date(2014, 1, 16), 9.99)], u'Dana Kids': [(datetime.date(2014, 4, 21), 7.99), (datetime.date(2014, 4, 22), 7.99)], u'Baby Family Gifts': [(datetime.date(2014, 4, 21), 9.9), (datetime.date(2014, 4, 22), 9.9)], u'In Fashion Kids': [(datetime.date(2014, 4, 21), 5.71), (datetime.date(2014, 4, 22), 5.71)]}
+
+B004TXW3XQ
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 2, 17), 9.99), (datetime.date(2014, 4, 22), 9.99)]}
+
+B00AKGPYSM
+{u'Backcountry': [(datetime.date(2014, 1, 30), 24.47), (datetime.date(2014, 1, 31), 24.47), (datetime.date(2014, 2, 17), 24.47), (datetime.date(2014, 4, 21), 19.22), (datetime.date(2014, 4, 22), 19.22)], u'Amazon': [(datetime.date(2014, 1, 16), 23.95), (datetime.date(2014, 1, 16), 23.95), (datetime.date(2014, 1, 30), 20.68), (datetime.date(2014, 1, 31), 20.68), (datetime.date(2014, 2, 17), 17.18)], u'Null': [(datetime.date(2014, 1, 16), 20.99), (datetime.date(2014, 1, 16), 24.47), (datetime.date(2014, 1, 16), 20.99), (datetime.date(2014, 1, 16), 24.47)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 15.69), (datetime.date(2014, 1, 31), 15.69), (datetime.date(2014, 2, 17), 12.19)]}
+
+B00ENJHOHG
+{u'The Fashion Rack': [(datetime.date(2014, 2, 17), 2.29), (datetime.date(2014, 4, 22), 2.29)], u'Null': [(datetime.date(2014, 1, 16), 2.29)]}
+
+B00EMG3X3O
+{u'Think Fast': [(datetime.date(2014, 4, 21), 6.92), (datetime.date(2014, 4, 22), 6.92)], u'Perfectly Preemie': [(datetime.date(2014, 4, 21), 5.99), (datetime.date(2014, 4, 22), 5.99)], u'Amazon': [(datetime.date(2014, 1, 16), 5.99), (datetime.date(2014, 4, 21), 5.99), (datetime.date(2014, 4, 22), 5.99)]}
+
+B00EOIDK92
+{u'Amazon': [(datetime.date(2014, 1, 16), 15.94), (datetime.date(2014, 1, 30), 15.94), (datetime.date(2014, 4, 21), 10.68)]}
+
+B00ANKOPSK
+{u'Amazon': [(datetime.date(2014, 1, 16), 7.75)]}
+
+B00CE3IZFI
+{u'Amazon': [(datetime.date(2014, 1, 16), 6.6)]}
+
+B00AMB00UW
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.59)]}
+
+B00ELC41K8
+{u'Perfectly Preemie': [(datetime.date(2014, 4, 22), 14.99)], u'Amazon': [(datetime.date(2014, 1, 16), 11.27), (datetime.date(2014, 4, 22), 14.99)]}
+
+B00CHZNKIK
+{}
+
+B005S6CDQK
+{u'PlumStruck': [(datetime.date(2014, 4, 21), 51.46)], u'Amazon': [(datetime.date(2014, 4, 21), 52.72)]}
+
+B00CS14BVS
+{u'Amazon': [(datetime.date(2014, 1, 30), 3.99)]}
+
+B00E42HJ36
+{u'Null': [(datetime.date(2014, 1, 16), 10.09), (datetime.date(2014, 1, 16), 27.92)], u'flisjewelldeals4u': [(datetime.date(2014, 1, 16), 27.92), (datetime.date(2014, 1, 30), 27.92)]}
+
+B00CC6ZRLM
+{u'Amazon': [(datetime.date(2014, 1, 16), 10.79)]}
+
+B000HE2VSI
+{u'BabyEarth': [(datetime.date(2014, 1, 30), 12.95), (datetime.date(2014, 3, 4), 12.95), (datetime.date(2014, 4, 21), 12.95), (datetime.date(2014, 4, 22), 12.95)], u'Fun to Collect': [(datetime.date(2014, 1, 30), 14.99), (datetime.date(2014, 2, 17), 11.24), (datetime.date(2014, 3, 4), 14.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 13.59), (datetime.date(2014, 2, 17), 13.59), (datetime.date(2014, 3, 4), 13.59), (datetime.date(2014, 4, 21), 13.59), (datetime.date(2014, 4, 22), 13.59)], u'TheTwinkleStars': [(datetime.date(2014, 4, 21), 12.95), (datetime.date(2014, 4, 22), 12.95)], u'Amazon': [(datetime.date(2014, 1, 16), 9.95), (datetime.date(2014, 1, 16), 9.95), (datetime.date(2014, 1, 30), 9.95), (datetime.date(2014, 2, 17), 9.95), (datetime.date(2014, 3, 4), 9.95), (datetime.date(2014, 4, 21), 9.95), (datetime.date(2014, 4, 22), 9.95)], u'Think Fast': [(datetime.date(2014, 1, 30), 12.95), (datetime.date(2014, 2, 17), 12.95), (datetime.date(2014, 3, 4), 12.95), (datetime.date(2014, 4, 21), 11.66), (datetime.date(2014, 4, 22), 11.66)], u'Null': [(datetime.date(2014, 1, 16), 12.95), (datetime.date(2014, 1, 16), 12.95), (datetime.date(2014, 1, 16), 13.59), (datetime.date(2014, 1, 16), 14.99), (datetime.date(2014, 1, 16), 12.95), (datetime.date(2014, 1, 16), 12.95), (datetime.date(2014, 1, 16), 13.59), (datetime.date(2014, 1, 16), 14.99)]}
+
+B00CC6ZR30
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.87)]}
+
+B00AO2HA20
+{u'Amazon': [(datetime.date(2014, 1, 16), 6.61)]}
+
+B00EOID8NU
+{u'Joker Kids': [(datetime.date(2014, 4, 21), 19.99)]}
+
+B00DSM0VYC
+{}
+
+B005ABGCME
+{u'Amazon': [(datetime.date(2014, 1, 30), 22.59)]}
+
+B00CI1YOQA
+{}
+
+B00CE3IRVU
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.31)]}
+
+B005A9H41E
+{u'Amazon': [(datetime.date(2014, 2, 17), 30.99)]}
+
+B00FIGZKB0
+{}
+
+B00GIFLXJI
+{u'Amazon': [(datetime.date(2014, 2, 17), 56.0), (datetime.date(2014, 4, 22), 49.99)]}
+
+B00B9BPSOM
+{u'Null': [(datetime.date(2014, 1, 16), 32.98), (datetime.date(2014, 1, 16), 28.99), (datetime.date(2014, 1, 16), 36.0), (datetime.date(2014, 1, 16), 34.99), (datetime.date(2014, 3, 12), 29.97), (datetime.date(2014, 3, 12), 28.99), (datetime.date(2014, 3, 12), 34.99), (datetime.date(2014, 3, 12), 34.99), (datetime.date(2014, 3, 12), 36.0)], u'KiddielandToys': [(datetime.date(2014, 4, 21), 29.95)], u'FortuneBella': [(datetime.date(2014, 4, 21), 32.0)], u'Amazon': [(datetime.date(2014, 1, 16), 33.29), (datetime.date(2014, 2, 17), 33.94), (datetime.date(2014, 3, 12), 33.93), (datetime.date(2014, 4, 21), 31.27)], u'Riley and Bella': [(datetime.date(2014, 4, 21), 36.0)], u'Dana Kids': [(datetime.date(2014, 2, 17), 34.99), (datetime.date(2014, 4, 21), 29.97)], u'Prime Select': [(datetime.date(2014, 4, 21), 31.0)], u'Baby Family Gifts': [(datetime.date(2014, 2, 17), 34.99), (datetime.date(2014, 4, 21), 34.99)], u'In Fashion Kids': [(datetime.date(2014, 2, 17), 28.99), (datetime.date(2014, 4, 21), 27.99)], u'Angels Korner': [(datetime.date(2014, 4, 21), 30.99)], u'Kids Apparel And Beyond': [(datetime.date(2014, 1, 16), 37.95), (datetime.date(2014, 2, 17), 37.95), (datetime.date(2014, 3, 12), 37.95), (datetime.date(2014, 4, 21), 37.95)]}
+
+B00E3SGVCG
+{u'Amazon': [(datetime.date(2014, 1, 16), 70.0), (datetime.date(2014, 1, 30), 70.0), (datetime.date(2014, 4, 21), 70.0), (datetime.date(2014, 4, 22), 70.0)]}
+
+B00EOHZ6TU
+{u'S & D Kids': [(datetime.date(2014, 4, 21), 14.99), (datetime.date(2014, 4, 22), 14.99)]}
+
+B00BATDW14
+{}
+
+B00EOICXSQ
+{u'Amazon': [(datetime.date(2014, 1, 16), 25.1), (datetime.date(2014, 3, 4), 26.7)]}
+
+B00FGV8RDU
+{}
+
+B00H9WKWPA
+{u'Null': [(datetime.date(2014, 1, 16), 16.99)]}
+
+B00EOHWR5G
+{u'COOKIESKIDS': [(datetime.date(2014, 4, 22), 16.99)]}
+
+B00DH1W2TQ
+{}
+
+B00ATCBTRC
+{u'Perfectly Preemie': [(datetime.date(2014, 2, 17), 7.99), (datetime.date(2014, 4, 21), 7.99), (datetime.date(2014, 4, 22), 7.99)], u'Amazon': [(datetime.date(2014, 2, 17), 5.99), (datetime.date(2014, 4, 21), 7.99), (datetime.date(2014, 4, 22), 7.99)]}
+
+B00E9J0UMQ
+{u'MariposaHill': [(datetime.date(2014, 1, 30), 14.95)], u'La Stella Blu': [(datetime.date(2014, 1, 30), 14.95)], u'American Gift Factory': [(datetime.date(2014, 1, 30), 14.95)], u'Amazon': [(datetime.date(2014, 1, 30), 14.95)], u'Quality Deals': [(datetime.date(2014, 1, 30), 14.95)], u'Maison Drake': [(datetime.date(2014, 1, 30), 14.95)], u'Kidsland': [(datetime.date(2014, 1, 30), 14.95)]}
+
+B00HH1MONG
+{u'Bealls Florida': [(datetime.date(2014, 2, 17), 11.25), (datetime.date(2014, 4, 22), 11.25)], u'Null': [(datetime.date(2014, 1, 16), 11.25)]}
+
+B00DEL4GXY
+{u'MATZ Market': [(datetime.date(2014, 4, 21), 37.95)], u'Amazon': [(datetime.date(2014, 1, 16), 37.05)], u'Null': [(datetime.date(2014, 1, 16), 41.95), (datetime.date(2014, 1, 16), 37.95)], u'Dana Kids': [(datetime.date(2014, 4, 21), 39.99)], u'Specialty Stores, Inc': [(datetime.date(2014, 4, 21), 31.67)]}
+
+B00D3RF5S4
+{u'Leveret': [(datetime.date(2014, 4, 21), 11.99)]}
+
+B004ZX800U
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.99), (datetime.date(2014, 2, 17), 8.99), (datetime.date(2014, 4, 22), 8.99)]}
+
+B00EMG3UPU
+{}
+
+B00CE3I788
+{}
+
+B00AIQLR1M
+{u'Backcountry.com.': [(datetime.date(2014, 1, 16), 159.95)]}
+
+B00EMG3WGC
+{u'Amazon': [(datetime.date(2014, 1, 30), 11.99), (datetime.date(2014, 3, 4), 11.99), (datetime.date(2014, 4, 21), 11.99)]}
+
+B004IQ4FEO
+{u'Dainty Baby': [(datetime.date(2014, 3, 4), 27.99), (datetime.date(2014, 4, 21), 24.5)], u'MariposaHill': [(datetime.date(2014, 3, 4), 28.95), (datetime.date(2014, 4, 21), 28.95)], u'NeshomaNetwork': [(datetime.date(2014, 3, 4), 19.0), (datetime.date(2014, 4, 21), 19.0)], u'lawson22': [(datetime.date(2014, 3, 4), 15.0), (datetime.date(2014, 4, 21), 15.0)], u'Christening Day': [(datetime.date(2014, 4, 21), 24.5)], u'MATZ Market': [(datetime.date(2014, 3, 4), 24.87), (datetime.date(2014, 4, 21), 24.87)], u'Kidsland': [(datetime.date(2014, 3, 4), 28.99), (datetime.date(2014, 4, 21), 28.99)], u'Mommy Gear Inc.': [(datetime.date(2014, 3, 4), 24.99), (datetime.date(2014, 4, 21), 24.99)]}
+
+B00EOHWXVO
+{u'Amazon': [(datetime.date(2014, 4, 21), 16.99)]}
+
+B001DCHFMU
+{}
+
+B00A32SY2Q
+{u'Null': [(datetime.date(2014, 1, 16), 119.99), (datetime.date(2014, 1, 16), 119.99)], u'Woolino': [(datetime.date(2014, 1, 30), 119.99), (datetime.date(2014, 1, 30), 119.99), (datetime.date(2014, 4, 21), 119.99), (datetime.date(2014, 4, 21), 119.99)]}
+
+B00ARVTP62
+{u'Amazon': [(datetime.date(2014, 1, 16), 34.5), (datetime.date(2014, 1, 31), 29.99), (datetime.date(2014, 2, 17), 29.99)]}
+
+B00DY7WOQE
+{u'Amazon': [(datetime.date(2014, 1, 16), 6.99), (datetime.date(2014, 1, 30), 6.99)]}
+
+B00D2LQXL4
+{u'Amazon': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 21), 19.95)], u'Backcountry': [(datetime.date(2014, 2, 17), 13.96), (datetime.date(2014, 4, 21), 16.96)]}
+
+B00DPEOBC6
+{u'Amazon': [(datetime.date(2014, 1, 16), 6.07), (datetime.date(2014, 1, 30), 9.99)]}
+
+B00DW9X7BA
+{u"Stop 'n Shop": [(datetime.date(2014, 1, 30), 19.95), (datetime.date(2014, 4, 21), 19.95)], u'4 Nicky Noodles': [(datetime.date(2014, 1, 30), 10.45), (datetime.date(2014, 4, 21), 10.45)], u'S & D Kids': [(datetime.date(2014, 4, 21), 14.99)], u'Top Quality Goods, LLC': [(datetime.date(2014, 4, 21), 17.95)], u'One! Stop! Shop!': [(datetime.date(2014, 1, 30), 19.95), (datetime.date(2014, 4, 21), 19.95)]}
+
+B003ZN50A4
+{u'Amazon': [(datetime.date(2014, 1, 30), 14.98), (datetime.date(2014, 4, 21), 14.98), (datetime.date(2014, 4, 22), 14.98)], u'Bealls Florida': [(datetime.date(2014, 1, 30), 11.25), (datetime.date(2014, 4, 21), 15.0), (datetime.date(2014, 4, 22), 11.25)], u'Rus_Products': [(datetime.date(2014, 1, 30), 19.99), (datetime.date(2014, 4, 21), 19.99), (datetime.date(2014, 4, 22), 19.99)]}
+
+B009BAW742
+{u'BabyEarth': [(datetime.date(2014, 4, 21), 12.8)], u'Best Baby Organics': [(datetime.date(2014, 4, 21), 20.0)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 20.0)], u'Baby Riddle': [(datetime.date(2014, 4, 21), 20.95)]}
+
+B007ZZUWYC
+{u'Amazon': [(datetime.date(2014, 1, 16), 22.49), (datetime.date(2014, 2, 17), 22.49), (datetime.date(2014, 4, 21), 22.49), (datetime.date(2014, 4, 22), 22.49)], u'Null': [(datetime.date(2014, 1, 16), 29.99)], u'Bee Green Baby': [(datetime.date(2014, 2, 17), 29.99), (datetime.date(2014, 4, 21), 19.99), (datetime.date(2014, 4, 22), 19.99)]}
+
+B006LQ0CZA
+{u'KNEES N TOES': [(datetime.date(2014, 3, 4), 14.99), (datetime.date(2014, 4, 21), 14.99), (datetime.date(2014, 4, 21), 14.99)], u'Amazon': [(datetime.date(2014, 3, 4), 8.99), (datetime.date(2014, 4, 21), 8.99)]}
+
+B003DROFXU
+{u'911 DRUGSTORE': [(datetime.date(2014, 4, 21), 29.95)]}
+
+B0074OC4AY
+{u'Null': [(datetime.date(2014, 1, 16), 14.49), (datetime.date(2014, 1, 16), 14.49)], u'Alpine Baby Hub': [(datetime.date(2014, 1, 31), 14.49)]}
+
+B00EMG40ZO
+{u'Amazon': [(datetime.date(2014, 1, 30), 12.99), (datetime.date(2014, 4, 21), 12.99)]}
+
+B00CHLO7MW
+{u'Amazon': [(datetime.date(2014, 3, 4), 10.45), (datetime.date(2014, 4, 21), 10.48)], u'Gold Reward Of This Year': [(datetime.date(2014, 3, 4), 5.46)], u'BabyVision': [(datetime.date(2014, 3, 4), 5.99), (datetime.date(2014, 3, 4), 5.99), (datetime.date(2014, 4, 21), 5.99), (datetime.date(2014, 4, 21), 5.99)]}
+
+B007F3579E
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 4, 21), 9.99), (datetime.date(2014, 4, 22), 9.99)], u'Null': [(datetime.date(2014, 1, 16), 7.73), (datetime.date(2014, 1, 16), 15.79), (datetime.date(2014, 1, 16), 15.95)], u'Everything Nice Kids': [(datetime.date(2014, 4, 21), 15.95), (datetime.date(2014, 4, 22), 15.95)]}
+
+B007N0XUG6
+{u'Babylescious': [(datetime.date(2014, 2, 17), 18.99), (datetime.date(2014, 4, 21), 18.99)], u'4freshair': [(datetime.date(2014, 2, 17), 14.5), (datetime.date(2014, 4, 21), 14.5)]}
+
+B00EMG3UPA
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.26), (datetime.date(2014, 1, 16), 9.26)], u'kiddie world': [(datetime.date(2014, 4, 21), 13.99), (datetime.date(2014, 4, 22), 13.99)]}
+
+B0083CUQSS
+{u'kiddie world': [(datetime.date(2014, 4, 21), 15.95)], u'Null': [(datetime.date(2014, 1, 16), 15.95), (datetime.date(2014, 1, 16), 17.94)]}
+
+B00A30AWCS
+{u'Null': [(datetime.date(2014, 1, 16), 18.0)]}
+
+B0028K2O4U
+{u'BabyEarth': [(datetime.date(2014, 1, 30), 19.95), (datetime.date(2014, 2, 17), 16.25), (datetime.date(2014, 4, 22), 17.8)], u'Amazon': [(datetime.date(2014, 1, 30), 21.22), (datetime.date(2014, 2, 17), 21.22), (datetime.date(2014, 4, 22), 25.0)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 25.0), (datetime.date(2014, 2, 17), 25.0), (datetime.date(2014, 4, 22), 25.0)], u"LARREN'S Kids Store (previously goo goo gaga babies)": [(datetime.date(2014, 1, 30), 20.45), (datetime.date(2014, 2, 17), 20.45), (datetime.date(2014, 4, 22), 20.45)]}
+
+B00EMG3WG2
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.49), (datetime.date(2014, 4, 22), 11.99), (datetime.date(2014, 4, 22), 11.99)]}
+
+B00DPEODJM
+{u'Amazon': [(datetime.date(2014, 2, 17), 6.99)]}
+
+B00CE3JH7I
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.86)]}
+
+B002R5A4OS
+{u'Amazon': [(datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 4, 21), 7.99)]}
+
+B00BMIWG4M
+{u'Amazon': [(datetime.date(2014, 1, 16), 27.0)]}
+
+B00BXKW216
+{u'Null': [(datetime.date(2014, 1, 16), 16.45), (datetime.date(2014, 1, 16), 16.0), (datetime.date(2014, 1, 16), 16.45), (datetime.date(2014, 1, 16), 16.0)], u'iLifeProducts': [(datetime.date(2014, 4, 22), 18.0), (datetime.date(2014, 4, 22), 16.0)]}
+
+B00B1TTXR0
+{u'Amor Kids AMK': [(datetime.date(2014, 1, 30), 21.35)], u'Think Fast': [(datetime.date(2014, 4, 22), 26.22)], u'Amazon': [(datetime.date(2014, 1, 30), 24.09), (datetime.date(2014, 4, 22), 26.22)], u'CARDNSUCH': [(datetime.date(2014, 4, 22), 29.99)], u'THE BT GROUP': [(datetime.date(2014, 4, 22), 25.74)], u'Baby Family Gifts': [(datetime.date(2014, 1, 30), 39.99), (datetime.date(2014, 1, 30), 36.99), (datetime.date(2014, 4, 22), 39.99), (datetime.date(2014, 4, 22), 36.99)], u'Dana Kids': [(datetime.date(2014, 4, 22), 35.0)], u'Best Service Stores': [(datetime.date(2014, 4, 22), 26.0)]}
+
+B006A8H56I
+{u'Null': [(datetime.date(2014, 1, 16), 8.79)], u'Tootsies StrideRite': [(datetime.date(2014, 1, 16), 7.95), (datetime.date(2014, 4, 22), 7.95)]}
+
+B00E2WFGAQ
+{u'Null': [(datetime.date(2014, 1, 16), 11.99)]}
+
+B001E60CRA
+{u'Baby SuperMall': [(datetime.date(2014, 2, 17), 11.95), (datetime.date(2014, 4, 22), 11.95)], u'Amazon': [(datetime.date(2014, 2, 17), 11.98), (datetime.date(2014, 4, 22), 8.99)]}
+
+B00AW783FU
+{u'Perfectly Preemie': [(datetime.date(2014, 1, 30), 11.99), (datetime.date(2014, 1, 31), 11.99), (datetime.date(2014, 2, 17), 11.99), (datetime.date(2014, 4, 21), 11.99)], u'Shoe Depot 225': [(datetime.date(2014, 4, 21), 11.96)], u'Amazon': [(datetime.date(2014, 1, 16), 11.99), (datetime.date(2014, 1, 30), 11.99), (datetime.date(2014, 1, 31), 11.99), (datetime.date(2014, 2, 17), 8.99), (datetime.date(2014, 4, 21), 11.99)], u'Null': [(datetime.date(2014, 1, 16), 11.99), (datetime.date(2014, 1, 16), 16.69)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 16.69), (datetime.date(2014, 1, 31), 16.69), (datetime.date(2014, 2, 17), 16.69), (datetime.date(2014, 4, 21), 16.69)]}
+
+B00B3EG5X8
+{u'MATZ Market': [(datetime.date(2014, 2, 17), 28.95), (datetime.date(2014, 4, 22), 27.98), (datetime.date(2014, 4, 22), 27.98)], u'MariposaHill': [(datetime.date(2014, 2, 17), 29.0), (datetime.date(2014, 4, 22), 29.0), (datetime.date(2014, 4, 22), 29.0)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 29.0), (datetime.date(2014, 4, 22), 29.0), (datetime.date(2014, 4, 22), 29.0)], u'Christening Day': [(datetime.date(2014, 4, 22), 27.99), (datetime.date(2014, 4, 22), 27.99)], u'Null': [(datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 16), 29.0)], u'Mommy Gear Inc.': [(datetime.date(2014, 2, 17), 24.99), (datetime.date(2014, 4, 22), 24.99), (datetime.date(2014, 4, 22), 24.99)]}
+
+B00AKF6DWE
+{u'pipeline24': [(datetime.date(2014, 1, 31), 120.0)], u'Amazon': [(datetime.date(2014, 1, 16), 68.0), (datetime.date(2014, 1, 16), 68.0), (datetime.date(2014, 1, 31), 51.0), (datetime.date(2014, 4, 21), 54.75), (datetime.date(2014, 4, 22), 54.75), (datetime.date(2014, 4, 22), 54.75)], u'Null': [(datetime.date(2014, 1, 16), 84.95), (datetime.date(2014, 1, 16), 120.0), (datetime.date(2014, 1, 16), 84.95), (datetime.date(2014, 1, 16), 120.0)], u'Backcountry': [(datetime.date(2014, 1, 31), 63.71), (datetime.date(2014, 4, 21), 46.72), (datetime.date(2014, 4, 22), 46.72), (datetime.date(2014, 4, 22), 46.72)]}
+
+B00AR8Y6PA
+{u'Perfectly Preemie': [(datetime.date(2014, 1, 30), 14.99)], u'Amazon': [(datetime.date(2014, 1, 30), 14.99)]}
+
+B00B5PV2P6
+{u'Amazon': [(datetime.date(2014, 1, 16), 10.99)], u'Null': [(datetime.date(2014, 1, 16), 10.99)], u'BirthdayExpress': [(datetime.date(2014, 4, 21), 12.75), (datetime.date(2014, 4, 22), 12.75)]}
+
+B00ANKOQSY
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.36), (datetime.date(2014, 4, 22), 9.3)]}
+
+B00ARDD9US
+{u'Amazon': [(datetime.date(2014, 4, 21), 10.99), (datetime.date(2014, 4, 22), 10.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 17.39), (datetime.date(2014, 4, 22), 17.39)]}
+
+B00D9OD2JA
+{}
+
+B004ZX80A0
+{u'Amazon': [(datetime.date(2014, 1, 16), 12.0), (datetime.date(2014, 4, 21), 12.0), (datetime.date(2014, 4, 22), 12.0)]}
+
+B0037KLG4Y
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 2, 17), 9.99), (datetime.date(2014, 4, 21), 9.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 10.0)]}
+
+B001SESA6I
+{u'kiddie world': [(datetime.date(2014, 1, 30), 15.99), (datetime.date(2014, 1, 30), 13.99), (datetime.date(2014, 2, 17), 15.99), (datetime.date(2014, 2, 17), 13.99), (datetime.date(2014, 4, 21), 15.99), (datetime.date(2014, 4, 22), 15.99)], u'Null': [(datetime.date(2014, 1, 16), 14.99), (datetime.date(2014, 1, 16), 15.99), (datetime.date(2014, 1, 16), 13.99), (datetime.date(2014, 1, 16), 14.99), (datetime.date(2014, 1, 16), 15.99), (datetime.date(2014, 1, 16), 13.99)], u'AJ WHOLESALE': [(datetime.date(2014, 1, 30), 14.49), (datetime.date(2014, 2, 17), 14.49), (datetime.date(2014, 4, 21), 12.9), (datetime.date(2014, 4, 22), 12.9)]}
+
+B0079Q6PZ2
+{u'Christening Day': [(datetime.date(2014, 1, 30), 32.99), (datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 4, 21), 32.0)], u'Null': [(datetime.date(2014, 1, 16), 29.99), (datetime.date(2014, 1, 16), 21.04), (datetime.date(2014, 1, 16), 34.99), (datetime.date(2014, 1, 16), 32.99)], u'Webb Direct 2U': [(datetime.date(2014, 1, 30), 34.99), (datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 4, 21), 32.0)], u'iGirlDress': [(datetime.date(2014, 1, 30), 21.04), (datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 4, 21), 32.0)]}
+
+B006EXMIMK
+{u'Cute Little Clothes': [(datetime.date(2014, 4, 21), 29.0), (datetime.date(2014, 4, 22), 29.0)], u'Baby Riddle': [(datetime.date(2014, 2, 17), 29.95), (datetime.date(2014, 2, 17), 29.95), (datetime.date(2014, 4, 21), 29.95), (datetime.date(2014, 4, 22), 29.95)], u'Best Baby Organics': [(datetime.date(2014, 2, 17), 31.49), (datetime.date(2014, 2, 17), 31.49), (datetime.date(2014, 4, 21), 29.0), (datetime.date(2014, 4, 22), 29.0)], u'Null': [(datetime.date(2014, 1, 16), 31.49), (datetime.date(2014, 1, 16), 24.74), (datetime.date(2014, 1, 16), 29.95), (datetime.date(2014, 1, 16), 31.49), (datetime.date(2014, 1, 16), 24.74), (datetime.date(2014, 1, 16), 29.95)], u'BabyEarth': [(datetime.date(2014, 4, 21), 21.8), (datetime.date(2014, 4, 22), 21.8)]}
+
+B008A05PNY
+{u'BeBe Wonderland': [(datetime.date(2014, 4, 21), 18.0), (datetime.date(2014, 4, 22), 18.0)], u'Figure 8 Maternity': [(datetime.date(2014, 1, 30), 15.5), (datetime.date(2014, 2, 17), 15.5), (datetime.date(2014, 2, 17), 15.5), (datetime.date(2014, 4, 21), 15.5), (datetime.date(2014, 4, 21), 15.5), (datetime.date(2014, 4, 22), 15.5), (datetime.date(2014, 4, 22), 15.5)], u'Portlight': [(datetime.date(2014, 1, 30), 25.96), (datetime.date(2014, 2, 17), 25.96), (datetime.date(2014, 4, 21), 16.89), (datetime.date(2014, 4, 22), 16.89)], u"Cubby's Closet": [(datetime.date(2014, 4, 21), 15.5), (datetime.date(2014, 4, 22), 15.5)], u'LC-Pals': [(datetime.date(2014, 1, 30), 14.99), (datetime.date(2014, 2, 17), 14.99), (datetime.date(2014, 4, 21), 14.99), (datetime.date(2014, 4, 22), 14.99)], u'PRIMETIME DEALS': [(datetime.date(2014, 4, 21), 15.49), (datetime.date(2014, 4, 22), 15.49)], u'Null': [(datetime.date(2014, 1, 16), 15.5), (datetime.date(2014, 1, 16), 14.99), (datetime.date(2014, 1, 16), 54.7)], u'Best Service Stores': [(datetime.date(2014, 4, 21), 15.64), (datetime.date(2014, 4, 22), 15.64)], u'stores123': [(datetime.date(2014, 1, 16), 57.97), (datetime.date(2014, 1, 30), 57.97), (datetime.date(2014, 2, 17), 57.97), (datetime.date(2014, 4, 21), 57.97), (datetime.date(2014, 4, 22), 57.97)]}
+
+B005N3UB8A
+{u'Null': [(datetime.date(2014, 1, 16), 23.95), (datetime.date(2014, 1, 16), 23.99), (datetime.date(2014, 1, 16), 23.99)], u'Dainty Baby': [(datetime.date(2014, 4, 21), 24.5), (datetime.date(2014, 4, 22), 24.5)], u'MariposaHill': [(datetime.date(2014, 4, 21), 24.5), (datetime.date(2014, 4, 22), 24.5)], u'Wild Blueberries': [(datetime.date(2014, 4, 21), 28.99), (datetime.date(2014, 4, 22), 28.99)], u'Christening Day': [(datetime.date(2014, 4, 21), 24.5), (datetime.date(2014, 4, 22), 24.5)], u'MATZ Market': [(datetime.date(2014, 4, 21), 26.45), (datetime.date(2014, 4, 22), 26.45)], u'Hippo Tails': [(datetime.date(2014, 4, 21), 24.5), (datetime.date(2014, 4, 22), 24.5)]}
+
+B00ABGD7DK
+{u'Amazon': [(datetime.date(2014, 1, 30), 4.0), (datetime.date(2014, 4, 21), 8.08)]}
+
+B001KTORYU
+{u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 14.99)], u'Bealls Florida': [(datetime.date(2014, 2, 17), 11.25), (datetime.date(2014, 4, 21), 15.0)], u'Yankee Toy Box LLC': [(datetime.date(2014, 2, 17), 18.0), (datetime.date(2014, 4, 21), 18.0)], u'Shop Click Zoom': [(datetime.date(2014, 4, 21), 24.97)], u'Amazon': [(datetime.date(2014, 2, 17), 14.98), (datetime.date(2014, 4, 21), 12.1)], u'Think Fast': [(datetime.date(2014, 4, 21), 12.46)]}
+
+B00ARDCFGM
+{}
+
+B00740HPKC
+{u'Baby Family Gifts': [(datetime.date(2014, 4, 21), 15.49)], u'THE BT GROUP': [(datetime.date(2014, 4, 21), 15.59)], u'Amazon': [(datetime.date(2014, 1, 16), 15.99), (datetime.date(2014, 4, 21), 15.71)], u'Null': [(datetime.date(2014, 1, 16), 14.95), (datetime.date(2014, 1, 16), 14.95), (datetime.date(2014, 1, 16), 16.99), (datetime.date(2014, 1, 16), 16.0), (datetime.date(2014, 1, 16), 16.0)], u'Best Service Stores': [(datetime.date(2014, 4, 21), 15.64)]}
+
+B006SVWE22
+{}
+
+B008451D4K
+{u'TheZoneShop': [(datetime.date(2014, 1, 16), 18.99), (datetime.date(2014, 1, 16), 18.99), (datetime.date(2014, 1, 30), 18.99), (datetime.date(2014, 1, 31), 18.99), (datetime.date(2014, 2, 17), 18.99), (datetime.date(2014, 4, 21), 18.99)], u'4 Nicky Noodles': [(datetime.date(2014, 1, 30), 16.0), (datetime.date(2014, 1, 30), 16.0), (datetime.date(2014, 1, 31), 16.0), (datetime.date(2014, 1, 31), 16.0), (datetime.date(2014, 2, 17), 16.0), (datetime.date(2014, 2, 17), 16.0), (datetime.date(2014, 4, 21), 16.0), (datetime.date(2014, 4, 21), 16.0)], u'Tropical Dynamics': [(datetime.date(2014, 4, 21), 16.95)], u'S & D Kids': [(datetime.date(2014, 1, 30), 19.99), (datetime.date(2014, 1, 30), 19.99), (datetime.date(2014, 1, 31), 19.99), (datetime.date(2014, 1, 31), 19.99), (datetime.date(2014, 2, 17), 19.99), (datetime.date(2014, 4, 21), 19.99)], u'Sweet Gifts': [(datetime.date(2014, 1, 16), 21.99), (datetime.date(2014, 1, 16), 21.99), (datetime.date(2014, 1, 30), 21.99), (datetime.date(2014, 1, 31), 21.99), (datetime.date(2014, 2, 17), 21.99), (datetime.date(2014, 4, 21), 21.99)], u'Null': [(datetime.date(2014, 1, 16), 16.0), (datetime.date(2014, 1, 16), 16.0), (datetime.date(2014, 1, 16), 16.0), (datetime.date(2014, 1, 16), 16.0)]}
+
+B003Z58ZU4
+{u'Baby Riddle': [(datetime.date(2014, 2, 17), 11.95), (datetime.date(2014, 4, 22), 11.95)], u'BabyEarth': [(datetime.date(2014, 2, 17), 5.1)], u'Amazon': [(datetime.date(2014, 1, 16), 8.0), (datetime.date(2014, 2, 17), 6.68)], u'Best Baby Organics': [(datetime.date(2014, 2, 17), 12.99), (datetime.date(2014, 4, 22), 12.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 22), 8.0)], u'Null': [(datetime.date(2014, 1, 16), 5.1), (datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 16), 11.95), (datetime.date(2014, 1, 16), 8.0)]}
+
+B00EOHWR2E
+{u'Amazon': [(datetime.date(2014, 1, 16), 28.99)]}
+
+B0070BIOXC
+{u'juDanzy (My Little Legs)': [(datetime.date(2014, 1, 30), 7.5)]}
+
+B0081CY2GC
+{u'Murals & More': [(datetime.date(2014, 1, 16), 18.95), (datetime.date(2014, 2, 17), 15.95), (datetime.date(2014, 4, 21), 15.95)], u'HAYS INC': [(datetime.date(2014, 2, 17), 9.95), (datetime.date(2014, 4, 21), 7.99)], u'Portlight': [(datetime.date(2014, 2, 17), 34.13), (datetime.date(2014, 4, 21), 15.88)], u'Home & Wall Decor': [(datetime.date(2014, 2, 17), 11.99), (datetime.date(2014, 4, 21), 11.99)], u'Amazon': [(datetime.date(2014, 1, 16), 9.95), (datetime.date(2014, 2, 17), 9.95), (datetime.date(2014, 4, 21), 9.95)], u'SmartBeddings': [(datetime.date(2014, 1, 16), 14.21), (datetime.date(2014, 2, 17), 14.21), (datetime.date(2014, 4, 21), 14.21)], u'clickhere2shop': [(datetime.date(2014, 4, 21), 29.14)], u'ZappySales': [(datetime.date(2014, 2, 17), 23.87)], u'Null': [(datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 1, 16), 23.87), (datetime.date(2014, 1, 16), 34.13)]}
+
+B00840RSGM
+{u'Amazon': [(datetime.date(2014, 1, 30), 6.19), (datetime.date(2014, 2, 17), 5.57)]}
+
+B0049PPEFI
+{u'DressForLess': [(datetime.date(2014, 1, 30), 30.02), (datetime.date(2014, 1, 30), 23.0), (datetime.date(2014, 4, 21), 23.0)], u'iGirlDress': [(datetime.date(2014, 1, 30), 21.06), (datetime.date(2014, 4, 21), 29.99)], u'Christening Day': [(datetime.date(2014, 1, 30), 31.49), (datetime.date(2014, 4, 21), 31.49)], u'Webb Direct 2U': [(datetime.date(2014, 1, 30), 42.99), (datetime.date(2014, 4, 21), 42.99)], u'TheScoop': [(datetime.date(2014, 1, 30), 29.46), (datetime.date(2014, 4, 21), 33.53)], u"Sara's Fashion": [(datetime.date(2014, 4, 21), 22.5)]}
+
+B006422KXS
+{u'juDanzy (My Little Legs)': [(datetime.date(2014, 4, 21), 20.0), (datetime.date(2014, 4, 22), 20.0)]}
+
+B0085JHVKU
+{u'Amazon': [(datetime.date(2014, 1, 16), 31.99), (datetime.date(2014, 2, 17), 31.99), (datetime.date(2014, 4, 21), 43.0)]}
+
+B006G7JXOA
+{u'Amazon': [(datetime.date(2014, 1, 16), 7.73), (datetime.date(2014, 1, 30), 7.99), (datetime.date(2014, 1, 31), 7.99), (datetime.date(2014, 4, 21), 7.99), (datetime.date(2014, 4, 22), 7.99)]}
+
+B00CR36DJU
+{u'Etailz': [(datetime.date(2014, 4, 21), 16.0), (datetime.date(2014, 4, 22), 16.0)], u'Best Baby Organics': [(datetime.date(2014, 4, 21), 16.0), (datetime.date(2014, 4, 22), 16.0)], u'Null': [(datetime.date(2014, 1, 16), 16.0), (datetime.date(2014, 1, 16), 16.0), (datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 1, 16), 16.0), (datetime.date(2014, 1, 16), 16.0), (datetime.date(2014, 1, 16), 19.99)], u'Hippo Tails': [(datetime.date(2014, 4, 21), 16.0), (datetime.date(2014, 4, 22), 16.0)], u'Apple Green Baby': [(datetime.date(2014, 4, 21), 16.0), (datetime.date(2014, 4, 22), 16.0)]}
+
+B00378K8FE
+{u'BabyVision': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 31), 9.99), (datetime.date(2014, 4, 21), 12.99), (datetime.date(2014, 4, 22), 12.99)]}
+
+B0092G5T18
+{u'Leveret': [(datetime.date(2014, 1, 31), 11.99)], u'Null': [(datetime.date(2014, 1, 16), 11.99), (datetime.date(2014, 1, 16), 11.99)]}
+
+B00DDT1I74
+{u'MariposaHill': [(datetime.date(2014, 1, 30), 12.95), (datetime.date(2014, 2, 17), 12.95), (datetime.date(2014, 4, 21), 12.95), (datetime.date(2014, 4, 21), 12.95)], u'Etailz': [(datetime.date(2014, 2, 17), 12.95), (datetime.date(2014, 4, 21), 12.95), (datetime.date(2014, 4, 21), 12.95), (datetime.date(2014, 4, 21), 12.95)], u'La Stella Blu': [(datetime.date(2014, 4, 21), 12.95), (datetime.date(2014, 4, 21), 12.95)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 12.95), (datetime.date(2014, 4, 21), 12.95), (datetime.date(2014, 4, 21), 12.95)], u'American Gift Factory': [(datetime.date(2014, 1, 30), 12.95), (datetime.date(2014, 2, 17), 12.95), (datetime.date(2014, 4, 21), 12.95), (datetime.date(2014, 4, 21), 12.95)], u'Amazon': [(datetime.date(2014, 1, 30), 12.95), (datetime.date(2014, 2, 17), 12.95), (datetime.date(2014, 4, 21), 12.2), (datetime.date(2014, 4, 21), 12.2)], u'Quality Deals': [(datetime.date(2014, 1, 30), 12.95), (datetime.date(2014, 2, 17), 12.95), (datetime.date(2014, 4, 21), 12.95), (datetime.date(2014, 4, 21), 12.95)], u'Maison Drake': [(datetime.date(2014, 2, 17), 12.95), (datetime.date(2014, 4, 21), 12.95), (datetime.date(2014, 4, 21), 12.95)], u'Corydor': [(datetime.date(2014, 2, 17), 12.95), (datetime.date(2014, 4, 21), 12.95), (datetime.date(2014, 4, 21), 12.95)], u'Kidsland': [(datetime.date(2014, 1, 30), 13.0), (datetime.date(2014, 2, 17), 13.0), (datetime.date(2014, 4, 21), 13.0)], u'HCcost': [(datetime.date(2014, 4, 21), 11.99), (datetime.date(2014, 4, 21), 11.99)], u'Hippo Tails': [(datetime.date(2014, 2, 17), 12.95)]}
+
+B00AKG01QW
+{u'Backcountry': [(datetime.date(2014, 1, 31), 39.95), (datetime.date(2014, 2, 17), 27.96), (datetime.date(2014, 4, 21), 17.98), (datetime.date(2014, 4, 22), 17.98)], u'Ten Tall Trees': [(datetime.date(2014, 1, 31), 32.95), (datetime.date(2014, 2, 17), 27.95)], u'HAYS INC': [(datetime.date(2014, 1, 31), 34.9), (datetime.date(2014, 2, 17), 34.9), (datetime.date(2014, 4, 21), 34.9), (datetime.date(2014, 4, 22), 34.9)], u'Amazon': [(datetime.date(2014, 1, 31), 28.82), (datetime.date(2014, 2, 17), 25.85)], u'Campmor': [(datetime.date(2014, 1, 31), 39.95), (datetime.date(2014, 2, 17), 24.96), (datetime.date(2014, 4, 21), 24.96), (datetime.date(2014, 4, 22), 24.96)], u'Rocky Mountain Trail': [(datetime.date(2014, 1, 31), 27.93), (datetime.date(2014, 2, 17), 25.0)], u'Appalachian Outdoors': [(datetime.date(2014, 1, 31), 39.95), (datetime.date(2014, 2, 17), 39.95)]}
+
+B006KXVK96
+{u'juDanzy (My Little Legs)': [(datetime.date(2014, 2, 17), 20.0), (datetime.date(2014, 4, 21), 20.0)], u'Null': [(datetime.date(2014, 1, 16), 20.0)]}
+
+B00ARDD6P6
+{u'Perfectly Preemie': [(datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 30), 12.99), (datetime.date(2014, 2, 17), 12.99), (datetime.date(2014, 4, 21), 12.99), (datetime.date(2014, 4, 22), 12.99), (datetime.date(2014, 4, 22), 12.99)], u'Amazon': [(datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 30), 12.99), (datetime.date(2014, 2, 17), 8.99), (datetime.date(2014, 4, 21), 12.99), (datetime.date(2014, 4, 22), 12.99), (datetime.date(2014, 4, 22), 12.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 16), 17.39), (datetime.date(2014, 1, 30), 17.39), (datetime.date(2014, 2, 17), 17.39), (datetime.date(2014, 4, 21), 17.39), (datetime.date(2014, 4, 22), 17.39), (datetime.date(2014, 4, 22), 17.39)]}
+
+B0029TNVYC
+{u'Wayfair': [(datetime.date(2014, 1, 30), 13.29), (datetime.date(2014, 1, 31), 13.29), (datetime.date(2014, 2, 17), 13.59), (datetime.date(2014, 4, 21), 14.13), (datetime.date(2014, 4, 22), 14.13), (datetime.date(2014, 4, 22), 14.13)], u'CNM Apparel': [(datetime.date(2014, 4, 21), 13.25), (datetime.date(2014, 4, 22), 13.25), (datetime.date(2014, 4, 22), 13.25)], u'Perfectly Preemie': [(datetime.date(2014, 1, 30), 9.25), (datetime.date(2014, 1, 31), 9.25), (datetime.date(2014, 2, 17), 9.25), (datetime.date(2014, 4, 21), 9.25), (datetime.date(2014, 4, 21), 13.25), (datetime.date(2014, 4, 22), 9.25), (datetime.date(2014, 4, 22), 13.25), (datetime.date(2014, 4, 22), 9.25), (datetime.date(2014, 4, 22), 13.25)], u'All Together Enterprises': [(datetime.date(2014, 1, 30), 9.79), (datetime.date(2014, 1, 31), 9.79), (datetime.date(2014, 2, 17), 9.79), (datetime.date(2014, 4, 21), 9.79), (datetime.date(2014, 4, 22), 9.79), (datetime.date(2014, 4, 22), 9.79)], u'kiddie world': [(datetime.date(2014, 1, 30), 8.27), (datetime.date(2014, 1, 30), 13.78), (datetime.date(2014, 1, 31), 8.27), (datetime.date(2014, 1, 31), 13.78), (datetime.date(2014, 2, 17), 8.38), (datetime.date(2014, 2, 17), 13.9), (datetime.date(2014, 4, 21), 13.67), (datetime.date(2014, 4, 22), 13.67), (datetime.date(2014, 4, 22), 13.67)], u'Null': [(datetime.date(2014, 1, 16), 9.79), (datetime.date(2014, 1, 16), 9.25), (datetime.date(2014, 1, 16), 13.25), (datetime.date(2014, 1, 16), 13.25), (datetime.date(2014, 1, 16), 8.27), (datetime.date(2014, 1, 16), 13.67), (datetime.date(2014, 1, 16), 13.29), (datetime.date(2014, 1, 16), 9.79), (datetime.date(2014, 1, 16), 9.25), (datetime.date(2014, 1, 16), 13.25), (datetime.date(2014, 1, 16), 13.25), (datetime.date(2014, 1, 16), 8.27), (datetime.date(2014, 1, 16), 13.67), (datetime.date(2014, 1, 16), 13.29)]}
+
+B00CHTM1AE
+{u'Think Fast': [(datetime.date(2014, 2, 17), 7.12)], u'Null': [(datetime.date(2014, 1, 16), 4.99)], u'BabyVision': [(datetime.date(2014, 2, 17), 4.99)]}
+
+B00AHOQEA4
+{u'Perfectly Preemie': [(datetime.date(2014, 1, 30), 9.99)], u'Amazon': [(datetime.date(2014, 1, 30), 9.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 13.19), (datetime.date(2014, 4, 21), 13.19)], u'kiddie world': [(datetime.date(2014, 1, 30), 9.69)]}
+
+B002D3XFCW
+{u'Tradecozone': [(datetime.date(2014, 2, 17), 28.99), (datetime.date(2014, 2, 17), 28.99), (datetime.date(2014, 2, 17), 28.99), (datetime.date(2014, 4, 21), 29.12)], u'Favor Warehouse': [(datetime.date(2014, 2, 17), 29.99), (datetime.date(2014, 2, 17), 29.99), (datetime.date(2014, 4, 21), 29.99), (datetime.date(2014, 4, 21), 29.99), (datetime.date(2014, 4, 22), 29.99), (datetime.date(2014, 4, 22), 29.99)], u'Montana Gifts and Treasures': [(datetime.date(2014, 2, 17), 21.99), (datetime.date(2014, 2, 17), 21.99), (datetime.date(2014, 2, 17), 21.99), (datetime.date(2014, 4, 21), 21.99), (datetime.date(2014, 4, 21), 21.99), (datetime.date(2014, 4, 21), 21.99), (datetime.date(2014, 4, 22), 21.99), (datetime.date(2014, 4, 22), 21.99), (datetime.date(2014, 4, 22), 21.99)], u'$$$$$  EASTER SPECIAL  $$$$$': [(datetime.date(2014, 4, 21), 22.75), (datetime.date(2014, 4, 21), 22.75), (datetime.date(2014, 4, 21), 22.75), (datetime.date(2014, 4, 22), 22.75), (datetime.date(2014, 4, 22), 22.75), (datetime.date(2014, 4, 22), 22.75)], u'Bumble Bee Gifts': [(datetime.date(2014, 2, 17), 31.99), (datetime.date(2014, 2, 17), 31.99), (datetime.date(2014, 4, 21), 31.99), (datetime.date(2014, 4, 21), 31.99), (datetime.date(2014, 4, 22), 31.99), (datetime.date(2014, 4, 22), 31.99)], u'BePe Baby': [(datetime.date(2014, 2, 17), 20.99), (datetime.date(2014, 2, 17), 20.99), (datetime.date(2014, 2, 17), 20.99), (datetime.date(2014, 4, 21), 18.99), (datetime.date(2014, 4, 21), 18.99), (datetime.date(2014, 4, 21), 18.99), (datetime.date(2014, 4, 22), 18.99), (datetime.date(2014, 4, 22), 18.99), (datetime.date(2014, 4, 22), 18.99)], u'LBC Modern': [(datetime.date(2014, 4, 21), 29.0)], u'Sam and Sab  Baby': [(datetime.date(2014, 4, 21), 28.5), (datetime.date(2014, 4, 21), 28.5), (datetime.date(2014, 4, 22), 28.5), (datetime.date(2014, 4, 22), 28.5)], u'Connect Buy': [(datetime.date(2014, 2, 17), 27.71), (datetime.date(2014, 2, 17), 27.71), (datetime.date(2014, 2, 17), 27.71), (datetime.date(2014, 4, 21), 27.74), (datetime.date(2014, 4, 21), 27.74), (datetime.date(2014, 4, 21), 27.74), (datetime.date(2014, 4, 22), 27.74), (datetime.date(2014, 4, 22), 27.74), (datetime.date(2014, 4, 22), 27.74)], u'MMP Living': [(datetime.date(2014, 4, 21), 21.39), (datetime.date(2014, 4, 21), 21.39), (datetime.date(2014, 4, 21), 21.39), (datetime.date(2014, 4, 22), 21.39), (datetime.date(2014, 4, 22), 21.39), (datetime.date(2014, 4, 22), 21.39)], u'GoBantu': [(datetime.date(2014, 2, 17), 29.89), (datetime.date(2014, 2, 17), 29.89), (datetime.date(2014, 2, 17), 29.89), (datetime.date(2014, 4, 21), 33.55)], u'Think Fast': [(datetime.date(2014, 2, 17), 22.57), (datetime.date(2014, 2, 17), 22.57), (datetime.date(2014, 2, 17), 22.57), (datetime.date(2014, 4, 21), 22.07), (datetime.date(2014, 4, 21), 22.07), (datetime.date(2014, 4, 21), 22.07), (datetime.date(2014, 4, 22), 22.07), (datetime.date(2014, 4, 22), 22.07), (datetime.date(2014, 4, 22), 22.07)], u'Mommy Gear Inc.': [(datetime.date(2014, 4, 21), 24.99)], u'Best Brands Toys': [(datetime.date(2014, 2, 17), 38.79), (datetime.date(2014, 2, 17), 38.79), (datetime.date(2014, 4, 21), 38.79), (datetime.date(2014, 4, 21), 38.79), (datetime.date(2014, 4, 22), 38.79), (datetime.date(2014, 4, 22), 38.79)], u'Amazon': [(datetime.date(2014, 2, 17), 22.78), (datetime.date(2014, 2, 17), 22.78), (datetime.date(2014, 2, 17), 22.78), (datetime.date(2014, 4, 21), 21.39), (datetime.date(2014, 4, 21), 21.39), (datetime.date(2014, 4, 21), 21.39), (datetime.date(2014, 4, 22), 21.39), (datetime.date(2014, 4, 22), 21.39), (datetime.date(2014, 4, 22), 21.39)], u'MBAC Office Solutions/MBACKidz': [(datetime.date(2014, 4, 21), 29.0)], u'Discount Supply Co.': [(datetime.date(2014, 4, 21), 19.49), (datetime.date(2014, 4, 21), 19.49), (datetime.date(2014, 4, 21), 19.49), (datetime.date(2014, 4, 22), 19.49), (datetime.date(2014, 4, 22), 19.49), (datetime.date(2014, 4, 22), 19.49)], u'Fun Stuff for Sale': [(datetime.date(2014, 2, 17), 22.72), (datetime.date(2014, 2, 17), 22.72), (datetime.date(2014, 2, 17), 22.72)], u'FitnessGenie': [(datetime.date(2014, 4, 21), 24.95)], u'Elite Treasured Gifts': [(datetime.date(2014, 2, 17), 24.9), (datetime.date(2014, 2, 17), 24.9), (datetime.date(2014, 2, 17), 24.9), (datetime.date(2014, 4, 21), 24.9)], u'Daily Deals': [(datetime.date(2014, 2, 17), 24.63), (datetime.date(2014, 2, 17), 24.63), (datetime.date(2014, 2, 17), 24.63), (datetime.date(2014, 4, 21), 24.63), (datetime.date(2014, 4, 21), 24.63), (datetime.date(2014, 4, 21), 24.63), (datetime.date(2014, 4, 22), 24.63), (datetime.date(2014, 4, 22), 24.63), (datetime.date(2014, 4, 22), 24.63)], u'The Shelburne Country Store of Vermont': [(datetime.date(2014, 4, 21), 29.99), (datetime.date(2014, 4, 21), 29.99), (datetime.date(2014, 4, 22), 29.99), (datetime.date(2014, 4, 22), 29.99)], u'Granny-Made': [(datetime.date(2014, 4, 21), 29.99), (datetime.date(2014, 4, 21), 29.99), (datetime.date(2014, 4, 22), 29.99), (datetime.date(2014, 4, 22), 29.99)], u'romeromjessica': [(datetime.date(2014, 4, 21), 25.0)], u'AJD Connection': [(datetime.date(2014, 2, 17), 36.25), (datetime.date(2014, 2, 17), 36.25), (datetime.date(2014, 4, 21), 36.25), (datetime.date(2014, 4, 21), 36.25), (datetime.date(2014, 4, 22), 36.25), (datetime.date(2014, 4, 22), 36.25)], u"Fitzula's Gift Shop": [(datetime.date(2014, 4, 21), 24.95)], u"Franni's Gift Expressions": [(datetime.date(2014, 4, 21), 22.75), (datetime.date(2014, 4, 21), 22.75), (datetime.date(2014, 4, 21), 22.75), (datetime.date(2014, 4, 22), 22.75), (datetime.date(2014, 4, 22), 22.75), (datetime.date(2014, 4, 22), 22.75)], u'ivgStores': [(datetime.date(2014, 4, 21), 36.64), (datetime.date(2014, 4, 21), 36.64), (datetime.date(2014, 4, 22), 36.64), (datetime.date(2014, 4, 22), 36.64)], u'My Personal Memories Inc': [(datetime.date(2014, 4, 21), 27.99)], u'Groovy Gear For Baby': [(datetime.date(2014, 2, 17), 32.5), (datetime.date(2014, 2, 17), 32.5), (datetime.date(2014, 4, 21), 32.5), (datetime.date(2014, 4, 21), 32.5), (datetime.date(2014, 4, 22), 32.5), (datetime.date(2014, 4, 22), 32.5)]}
+
+B00D3RC7Z8
+{u'Leveret': [(datetime.date(2014, 1, 30), 12.99), (datetime.date(2014, 1, 31), 12.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 16), 12.99)]}
+
+B00ARDD65Q
+{u'Perfectly Preemie': [(datetime.date(2014, 2, 17), 12.99)], u'Amazon': [(datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 2, 17), 8.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 16), 17.39)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 17.39)]}
+
+B00C4CLY4I
+{u'juDanzy (My Little Legs)': [(datetime.date(2014, 4, 21), 15.0), (datetime.date(2014, 4, 22), 15.0)], u'Null': [(datetime.date(2014, 1, 16), 15.0)]}
+
+B004ZVPZS2
+{u'Amazon': [(datetime.date(2014, 2, 17), 13.95), (datetime.date(2014, 4, 22), 13.95)], u'Ten Tall Trees': [(datetime.date(2014, 2, 17), 13.95), (datetime.date(2014, 4, 22), 13.95)], u'Cambridge Select': [(datetime.date(2014, 4, 22), 15.2)], u'Shop2Swim': [(datetime.date(2014, 4, 22), 18.95)]}
+
+B00COAB5UI
+{u'Amazon': [(datetime.date(2014, 1, 16), 10.0), (datetime.date(2014, 1, 30), 10.0), (datetime.date(2014, 2, 17), 10.0), (datetime.date(2014, 4, 22), 10.0)], u'Thanks Mama': [(datetime.date(2014, 1, 30), 10.0), (datetime.date(2014, 2, 17), 10.0)]}
+
+B0085JHW2M
+{u'Baby SuperMall': [(datetime.date(2014, 4, 21), 19.99), (datetime.date(2014, 4, 22), 19.99)], u'Null': [(datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 1, 16), 19.99)], u'The Animal Kingdom Store': [(datetime.date(2014, 4, 21), 20.99), (datetime.date(2014, 4, 22), 20.99)]}
+
+B002YUIHP4
+{u'Wayfair': [(datetime.date(2014, 4, 22), 14.16)], u'Amazon': [(datetime.date(2014, 4, 22), 14.16)], u'Swimming Supply': [(datetime.date(2014, 4, 22), 8.29)]}
+
+B007QVYTCQ
+{}
+
+B00AHOQB84
+{u'Perfectly Preemie': [(datetime.date(2014, 4, 21), 12.99)], u'Amazon': [(datetime.date(2014, 4, 21), 5.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 13.19)]}
+
+B00700EU7M
+{u'Null': [(datetime.date(2014, 1, 16), 4.99), (datetime.date(2014, 1, 16), 7.49)], u'BabyVision': [(datetime.date(2014, 4, 21), 5.99), (datetime.date(2014, 4, 22), 5.99)]}
+
+B008RCJ8TC
+{u'DressForLess': [(datetime.date(2014, 1, 30), 33.2), (datetime.date(2014, 2, 17), 33.2), (datetime.date(2014, 4, 21), 33.2), (datetime.date(2014, 4, 22), 33.2)], u'iGirlDress': [(datetime.date(2014, 1, 30), 24.2), (datetime.date(2014, 2, 17), 21.1)], u'Christening Day': [(datetime.date(2014, 1, 30), 30.99), (datetime.date(2014, 2, 17), 30.99), (datetime.date(2014, 4, 21), 30.99), (datetime.date(2014, 4, 22), 30.99)], u'Webb Direct 2U': [(datetime.date(2014, 1, 30), 39.99), (datetime.date(2014, 2, 17), 39.99)], u'TheScoop': [(datetime.date(2014, 1, 30), 29.98), (datetime.date(2014, 2, 17), 29.98)], u"Sara's Fashion": [(datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 22), 22.0)]}
+
+B004071ZQ2
+{u'NeatoShop': [(datetime.date(2014, 4, 21), 30.4), (datetime.date(2014, 4, 21), 30.4), (datetime.date(2014, 4, 21), 30.4)], u'Montana Gifts and Treasures': [(datetime.date(2014, 2, 17), 30.99), (datetime.date(2014, 2, 17), 30.99), (datetime.date(2014, 2, 17), 30.99), (datetime.date(2014, 4, 21), 30.99), (datetime.date(2014, 4, 21), 30.99), (datetime.date(2014, 4, 21), 30.99)], u'Bumble Bee Gifts': [(datetime.date(2014, 4, 21), 44.99)], u'Favor Warehouse': [(datetime.date(2014, 4, 21), 29.99)], u'moni4117': [(datetime.date(2014, 4, 21), 35.44)], u'Great 3 Buy': [(datetime.date(2014, 4, 21), 42.55)], u'Limesqueeze Gifts': [(datetime.date(2014, 2, 17), 31.0), (datetime.date(2014, 2, 17), 31.0), (datetime.date(2014, 2, 17), 31.0)], u'Think Fast': [(datetime.date(2014, 2, 17), 30.2), (datetime.date(2014, 2, 17), 30.2), (datetime.date(2014, 2, 17), 30.2), (datetime.date(2014, 4, 21), 30.49), (datetime.date(2014, 4, 21), 30.49), (datetime.date(2014, 4, 21), 30.49)], u'Best Service Stores': [(datetime.date(2014, 4, 21), 30.48), (datetime.date(2014, 4, 21), 30.48), (datetime.date(2014, 4, 21), 30.48)], u'Freedom Day Sales': [(datetime.date(2014, 4, 21), 35.98)], u'Angel Galleria': [(datetime.date(2014, 1, 16), 57.28), (datetime.date(2014, 1, 16), 57.28), (datetime.date(2014, 4, 21), 42.56)], u'First choice store': [(datetime.date(2014, 4, 21), 50.4)], u'Mommy Gear Inc.': [(datetime.date(2014, 2, 17), 37.99), (datetime.date(2014, 2, 17), 37.99), (datetime.date(2014, 2, 17), 37.99), (datetime.date(2014, 4, 21), 37.99)], u'Amazon': [(datetime.date(2014, 1, 16), 30.47), (datetime.date(2014, 1, 16), 30.47), (datetime.date(2014, 1, 16), 30.47), (datetime.date(2014, 2, 17), 30.16), (datetime.date(2014, 2, 17), 30.16), (datetime.date(2014, 2, 17), 30.16), (datetime.date(2014, 4, 21), 30.4), (datetime.date(2014, 4, 21), 30.4), (datetime.date(2014, 4, 21), 30.4)], u'FitnessGenie': [(datetime.date(2014, 1, 16), 29.9), (datetime.date(2014, 1, 16), 29.9), (datetime.date(2014, 1, 16), 29.9), (datetime.date(2014, 2, 17), 29.9), (datetime.date(2014, 2, 17), 29.9), (datetime.date(2014, 2, 17), 29.9), (datetime.date(2014, 4, 21), 29.9), (datetime.date(2014, 4, 21), 29.9), (datetime.date(2014, 4, 21), 29.9)], u'Elite Treasured Gifts': [(datetime.date(2014, 1, 16), 24.9), (datetime.date(2014, 1, 16), 24.9), (datetime.date(2014, 1, 16), 24.9), (datetime.date(2014, 2, 17), 24.9), (datetime.date(2014, 2, 17), 24.9), (datetime.date(2014, 2, 17), 24.9), (datetime.date(2014, 4, 21), 24.9), (datetime.date(2014, 4, 21), 24.9), (datetime.date(2014, 4, 21), 24.9)], u'WF Inc': [(datetime.date(2014, 4, 21), 24.98), (datetime.date(2014, 4, 21), 24.98), (datetime.date(2014, 4, 21), 24.98)], u'Healthy Babies inc.': [(datetime.date(2014, 1, 16), 60.0), (datetime.date(2014, 1, 16), 60.0)], u"Fitzula's Gift Shop": [(datetime.date(2014, 4, 21), 35.95)], u'Null': [(datetime.date(2014, 1, 16), 29.89), (datetime.date(2014, 1, 16), 25.0), (datetime.date(2014, 1, 16), 30.2), (datetime.date(2014, 1, 16), 30.99), (datetime.date(2014, 1, 16), 37.99), (datetime.date(2014, 1, 16), 39.89), (datetime.date(2014, 1, 16), 29.89), (datetime.date(2014, 1, 16), 25.0), (datetime.date(2014, 1, 16), 30.2), (datetime.date(2014, 1, 16), 30.99), (datetime.date(2014, 1, 16), 37.99), (datetime.date(2014, 1, 16), 39.89), (datetime.date(2014, 1, 16), 61.52), (datetime.date(2014, 1, 16), 29.89), (datetime.date(2014, 1, 16), 25.0), (datetime.date(2014, 1, 16), 30.2), (datetime.date(2014, 1, 16), 30.99), (datetime.date(2014, 1, 16), 37.99), (datetime.date(2014, 1, 16), 39.89), (datetime.date(2014, 1, 16), 61.52)], u'MBAC Office Solutions/MBACKidz': [(datetime.date(2014, 2, 17), 25.0), (datetime.date(2014, 2, 17), 25.0), (datetime.date(2014, 2, 17), 25.0), (datetime.date(2014, 4, 21), 25.0), (datetime.date(2014, 4, 21), 25.0), (datetime.date(2014, 4, 21), 25.0)], u'Wedding Favors Market': [(datetime.date(2014, 1, 16), 22.9), (datetime.date(2014, 1, 16), 22.9), (datetime.date(2014, 1, 16), 22.9), (datetime.date(2014, 2, 17), 22.9), (datetime.date(2014, 2, 17), 22.9), (datetime.date(2014, 2, 17), 22.9), (datetime.date(2014, 4, 21), 22.9)], u'TheJungleStore': [(datetime.date(2014, 2, 17), 29.59), (datetime.date(2014, 2, 17), 29.59), (datetime.date(2014, 2, 17), 29.59), (datetime.date(2014, 4, 21), 30.48), (datetime.date(2014, 4, 21), 30.48), (datetime.date(2014, 4, 21), 30.48)]}
+
+B007SZL8MO
+{u'Bundle Monster': [(datetime.date(2014, 4, 21), 15.99)]}
+
+B006QRFDZI
+{u'Amazon': [(datetime.date(2014, 1, 16), 16.95)], u'Null': [(datetime.date(2014, 1, 16), 36.99)]}
+
+B002SW3C08
+{u"Kristin's Great Finds": [(datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 2, 17), 32.0)], u'Pampered Tot': [(datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 2, 17), 32.0)], u'MariposaHill': [(datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 2, 17), 32.0)], u'All Supplies 4U': [(datetime.date(2014, 2, 17), 71.27)], u'Positronic US. 8-12 Days Average Delivery (Weather Permitting!).': [(datetime.date(2014, 2, 17), 40.25)], u'Milk Mamas': [(datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 2, 17), 32.0)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 2, 17), 32.0)], u'Prestivo': [(datetime.date(2014, 2, 17), 59.71)], u'American Gift Factory': [(datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 2, 17), 32.0)], u'Amazon': [(datetime.date(2014, 2, 17), 20.25), (datetime.date(2014, 2, 17), 20.25)], u'Maison Drake': [(datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 2, 17), 32.0)], u'Think Fast': [(datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 2, 17), 32.0)], u'Healthy Home and Kitchen': [(datetime.date(2014, 2, 17), 20.0), (datetime.date(2014, 2, 17), 20.0)], u'Best Service Stores': [(datetime.date(2014, 2, 17), 32.0), (datetime.date(2014, 2, 17), 32.0)]}
+
+B00EL43GOI
+{u'tiny-deal': [(datetime.date(2014, 2, 17), 2.61), (datetime.date(2014, 2, 17), 2.61), (datetime.date(2014, 4, 22), 2.23), (datetime.date(2014, 4, 22), 2.23)], u'EVA Medical Groups LLC': [(datetime.date(2014, 4, 22), 3.97), (datetime.date(2014, 4, 22), 3.97)], u'NaturalFruit': [(datetime.date(2014, 4, 22), 5.5)], u'overfeel': [(datetime.date(2014, 4, 22), 2.33), (datetime.date(2014, 4, 22), 2.33)], u'Click down': [(datetime.date(2014, 2, 17), 3.97), (datetime.date(2014, 2, 17), 3.97), (datetime.date(2014, 4, 22), 3.32), (datetime.date(2014, 4, 22), 3.32)], u'LedChoice (Ship From HONGKONG)': [(datetime.date(2014, 2, 17), 2.98), (datetime.date(2014, 2, 17), 2.98)], u'smartshoponline': [(datetime.date(2014, 4, 22), 2.33), (datetime.date(2014, 4, 22), 2.33)], u'LTZmart - Ships From HongKong': [(datetime.date(2014, 4, 22), 2.33), (datetime.date(2014, 4, 22), 2.33)], u'Viga': [(datetime.date(2014, 2, 17), 3.99), (datetime.date(2014, 2, 17), 3.99)], u'EVA MEDICAL GROUPS LLC': [(datetime.date(2014, 2, 17), 3.97), (datetime.date(2014, 2, 17), 3.97)], u'egoodbest': [(datetime.date(2014, 2, 17), 2.66), (datetime.date(2014, 2, 17), 2.66), (datetime.date(2014, 4, 22), 2.45), (datetime.date(2014, 4, 22), 2.45)], u'spacememory': [(datetime.date(2014, 4, 22), 2.33), (datetime.date(2014, 4, 22), 2.33)], u'HuaYang Trading': [(datetime.date(2014, 2, 17), 3.9), (datetime.date(2014, 2, 17), 3.9), (datetime.date(2014, 4, 22), 4.17)], u'YUOBEE': [(datetime.date(2014, 2, 17), 3.97), (datetime.date(2014, 2, 17), 3.97)], u'Goods-cool': [(datetime.date(2014, 2, 17), 2.61), (datetime.date(2014, 2, 17), 2.61), (datetime.date(2014, 4, 22), 2.18), (datetime.date(2014, 4, 22), 2.18)], u'digital.HK': [(datetime.date(2014, 2, 17), 2.66), (datetime.date(2014, 2, 17), 2.66), (datetime.date(2014, 4, 22), 2.99), (datetime.date(2014, 4, 22), 2.99)], u'Buy-Online': [(datetime.date(2014, 4, 22), 4.5)], u'easygoal': [(datetime.date(2014, 4, 22), 6.99)], u'KCC COLLECTIONS': [(datetime.date(2014, 4, 22), 3.0)]}
+
+B009G6MRLE
+{u'iLifeProducts': [(datetime.date(2014, 4, 21), 12.95), (datetime.date(2014, 4, 22), 12.95)]}
+
+B007IFB2UM
+{u'Amazon': [(datetime.date(2014, 1, 16), 37.99), (datetime.date(2014, 2, 17), 38.33)], u'The Healthy Cottage': [(datetime.date(2014, 1, 16), 37.99), (datetime.date(2014, 2, 17), 37.99)]}
+
+B00B5QVF66
+{u'Baby Family Gifts': [(datetime.date(2014, 3, 4), 8.99), (datetime.date(2014, 4, 21), 8.99), (datetime.date(2014, 4, 22), 8.99)], u'KiddielandToys': [(datetime.date(2014, 4, 21), 8.49), (datetime.date(2014, 4, 22), 8.49)], u'Amazon': [(datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 3, 4), 7.99), (datetime.date(2014, 4, 21), 3.38)], u'Null': [(datetime.date(2014, 1, 16), 8.99)], u'Dana Kids': [(datetime.date(2014, 3, 4), 9.99), (datetime.date(2014, 4, 21), 9.99), (datetime.date(2014, 4, 22), 9.99)]}
+
+B00186UQOA
+{u'Solartex Sun Gear': [(datetime.date(2014, 4, 22), 8.9)], u'Amazon': [(datetime.date(2014, 1, 16), 8.95), (datetime.date(2014, 4, 22), 8.95)], u'Null': [(datetime.date(2014, 1, 16), 8.9)], u'CHEAP RETURNS': [(datetime.date(2014, 4, 22), 6.3)]}
+
+B004G0ABUO
+{u'Perfectly Preemie': [(datetime.date(2014, 2, 17), 13.95), (datetime.date(2014, 4, 22), 13.95)], u'Amazon': [(datetime.date(2014, 1, 16), 11.99), (datetime.date(2014, 2, 17), 11.99), (datetime.date(2014, 4, 22), 9.99)], u'Null': [(datetime.date(2014, 1, 16), 13.95)]}
+
+B0094JPFCG
+{u'Think Fast': [(datetime.date(2014, 4, 21), 8.0), (datetime.date(2014, 4, 22), 8.0)], u'Amazon': [(datetime.date(2014, 1, 16), 7.82), (datetime.date(2014, 4, 21), 8.23), (datetime.date(2014, 4, 22), 8.23)], u'Null': [(datetime.date(2014, 1, 16), 4.99), (datetime.date(2014, 1, 16), 7.59)], u'BabyVision': [(datetime.date(2014, 4, 21), 5.99), (datetime.date(2014, 4, 22), 5.99)]}
+
+B001M4XTME
+{u'Baby Riddle': [(datetime.date(2014, 2, 17), 17.99), (datetime.date(2014, 2, 17), 17.99), (datetime.date(2014, 4, 21), 17.99), (datetime.date(2014, 4, 22), 17.99)], u'Lovely Season': [(datetime.date(2014, 4, 21), 16.99), (datetime.date(2014, 4, 22), 16.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 17.0), (datetime.date(2014, 2, 17), 17.0), (datetime.date(2014, 4, 21), 17.0), (datetime.date(2014, 4, 22), 17.0)], u'Best Baby Organics': [(datetime.date(2014, 2, 17), 17.0), (datetime.date(2014, 2, 17), 17.0), (datetime.date(2014, 4, 21), 17.0), (datetime.date(2014, 4, 22), 17.0)], u'Cute Little Clothes': [(datetime.date(2014, 2, 17), 17.0), (datetime.date(2014, 2, 17), 17.0), (datetime.date(2014, 4, 21), 17.0), (datetime.date(2014, 4, 22), 17.0)], u'Null': [(datetime.date(2014, 1, 16), 17.0), (datetime.date(2014, 1, 16), 17.0), (datetime.date(2014, 1, 16), 17.99), (datetime.date(2014, 1, 16), 17.0)]}
+
+B004X8HW06
+{u'Cute Little Clothes': [(datetime.date(2014, 2, 17), 16.0), (datetime.date(2014, 2, 17), 16.0), (datetime.date(2014, 4, 21), 16.0), (datetime.date(2014, 4, 22), 16.0), (datetime.date(2014, 4, 22), 16.0)], u'BabyEarth': [(datetime.date(2014, 2, 17), 10.35), (datetime.date(2014, 2, 17), 10.35), (datetime.date(2014, 4, 21), 9.52), (datetime.date(2014, 4, 22), 9.52), (datetime.date(2014, 4, 22), 9.52)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 16.0), (datetime.date(2014, 2, 17), 16.0), (datetime.date(2014, 4, 21), 16.0), (datetime.date(2014, 4, 22), 16.0), (datetime.date(2014, 4, 22), 16.0)], u'Null': [(datetime.date(2014, 1, 16), 17.95), (datetime.date(2014, 1, 16), 16.0)], u'Baby Riddle': [(datetime.date(2014, 2, 17), 17.95), (datetime.date(2014, 2, 17), 17.95), (datetime.date(2014, 4, 21), 17.95), (datetime.date(2014, 4, 22), 17.95), (datetime.date(2014, 4, 22), 17.95)]}
+
+B007E59R1W
+{u'Amazon': [(datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 3, 4), 8.99), (datetime.date(2014, 4, 21), 8.99)], u'Daily Deals': [(datetime.date(2014, 2, 17), 9.81), (datetime.date(2014, 3, 4), 9.81), (datetime.date(2014, 4, 21), 9.81)]}
+
+B007C2PYL4
+{u'Perfectly Preemie': [(datetime.date(2014, 4, 21), 8.95)], u'Amazon': [(datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 4, 21), 7.99)], u'Null': [(datetime.date(2014, 1, 16), 11.29), (datetime.date(2014, 1, 16), 11.29)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 11.29)]}
+
+B002F9MV6K
+{u'Etailz': [(datetime.date(2014, 2, 17), 9.47)], u'BeBe Wonderland': [(datetime.date(2014, 2, 17), 9.99), (datetime.date(2014, 3, 4), 9.99)], u'Amazon': [(datetime.date(2014, 1, 16), 10.2), (datetime.date(2014, 2, 17), 9.7), (datetime.date(2014, 3, 4), 11.23), (datetime.date(2014, 4, 22), 11.27)], u'CHEAP RETURNS': [(datetime.date(2014, 4, 22), 5.3)], u'Null': [(datetime.date(2014, 1, 16), 9.48), (datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 16), 9.99)], u'Fairbooks Inc.': [(datetime.date(2014, 1, 16), 18.99), (datetime.date(2014, 2, 17), 18.99), (datetime.date(2014, 3, 4), 18.99)], u'BabyHaven': [(datetime.date(2014, 2, 17), 9.43), (datetime.date(2014, 3, 4), 9.78), (datetime.date(2014, 4, 22), 9.73)]}
+
+B008S27OSI
+{u'Null': [(datetime.date(2014, 1, 16), 6.45)]}
+
+B00BLSXLU6
+{u'Leveret': [(datetime.date(2014, 2, 17), 12.99), (datetime.date(2014, 4, 21), 12.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99)]}
+
+B005D7R7AQ
+{u'Null': [(datetime.date(2014, 1, 16), 17.95), (datetime.date(2014, 1, 16), 16.0)]}
+
+B004356MEG
+{u'Null': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 16), 9.99)], u'Hippo Tails': [(datetime.date(2014, 4, 21), 13.58), (datetime.date(2014, 4, 22), 13.49)], u'BabyVision': [(datetime.date(2014, 1, 30), 9.99), (datetime.date(2014, 2, 17), 9.99), (datetime.date(2014, 4, 21), 9.99), (datetime.date(2014, 4, 22), 9.99)]}
+
+B0057G6XGM
+{u'Baby Riddle': [(datetime.date(2014, 4, 21), 17.95), (datetime.date(2014, 4, 22), 17.95)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 16.0), (datetime.date(2014, 4, 22), 16.0)], u'Null': [(datetime.date(2014, 1, 16), 17.95), (datetime.date(2014, 1, 16), 16.0)]}
+
+B00ARTROYO
+{u'Alpine Baby Hub': [(datetime.date(2014, 1, 30), 8.69), (datetime.date(2014, 2, 17), 8.69), (datetime.date(2014, 3, 4), 8.69)], u'Amazon': [(datetime.date(2014, 1, 16), 8.99), (datetime.date(2014, 1, 30), 8.99), (datetime.date(2014, 2, 17), 8.99), (datetime.date(2014, 3, 4), 14.26)], u'Treasure Map': [(datetime.date(2014, 4, 21), 18.31)], u'Think Fast': [(datetime.date(2014, 4, 21), 18.68)], u'Null': [(datetime.date(2014, 1, 16), 8.99), (datetime.date(2014, 1, 16), 8.69)], u'All Together Enterprises': [(datetime.date(2014, 2, 17), 8.99), (datetime.date(2014, 3, 4), 8.99)]}
+
+B0098LNOXC
+{u'Null': [(datetime.date(2014, 1, 16), 9.99)], u'CNM Apparel': [(datetime.date(2014, 4, 21), 14.99), (datetime.date(2014, 4, 22), 14.99)], u'Hippo Tails': [(datetime.date(2014, 4, 21), 12.46), (datetime.date(2014, 4, 22), 12.48)], u'BabyVision': [(datetime.date(2014, 2, 17), 9.99), (datetime.date(2014, 4, 21), 8.99), (datetime.date(2014, 4, 22), 8.99)]}
+
+B00DH22WEA
+{u'Leveret': [(datetime.date(2014, 2, 17), 9.99)], u'Null': [(datetime.date(2014, 1, 16), 11.99)]}
+
+B00EMG3W1C
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 30), 9.99), (datetime.date(2014, 1, 31), 9.99), (datetime.date(2014, 2, 17), 6.99)]}
+
+B007B9K9KO
+{u'Amazon': [(datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 30), 12.99), (datetime.date(2014, 2, 17), 8.99), (datetime.date(2014, 4, 21), 12.99), (datetime.date(2014, 4, 22), 12.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 16), 15.59), (datetime.date(2014, 1, 30), 15.59), (datetime.date(2014, 2, 17), 15.59), (datetime.date(2014, 4, 21), 15.59), (datetime.date(2014, 4, 22), 15.59)], u'kiddie world': [(datetime.date(2014, 1, 16), 15.99), (datetime.date(2014, 1, 30), 15.99), (datetime.date(2014, 2, 17), 15.99)], u'Null': [(datetime.date(2014, 1, 16), 15.99), (datetime.date(2014, 1, 16), 15.59)]}
+
+B00FFSR71W
+{u'Etailz': [(datetime.date(2014, 4, 21), 22.2)], u'Amazon': [(datetime.date(2014, 4, 21), 12.0)]}
+
+B00AJWYL2M
+{u'Amazon': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 21), 19.95), (datetime.date(2014, 4, 22), 19.95)], u'Backcountry': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 21), 19.95), (datetime.date(2014, 4, 22), 19.95)]}
+
+B00FFSRFAK
+{u'jchristine000': [(datetime.date(2014, 4, 21), 10.88), (datetime.date(2014, 4, 22), 10.88)], u'My Precious Kid LLC': [(datetime.date(2014, 4, 21), 12.75), (datetime.date(2014, 4, 22), 12.75)], u'BabyEarth': [(datetime.date(2014, 4, 21), 12.75), (datetime.date(2014, 4, 22), 8.88)], u'Amazon': [(datetime.date(2014, 4, 21), 13.25), (datetime.date(2014, 4, 22), 13.25)], u'Thanks Mama': [(datetime.date(2014, 4, 21), 12.25), (datetime.date(2014, 4, 22), 12.25)], u'Etailz': [(datetime.date(2014, 4, 21), 23.12), (datetime.date(2014, 4, 22), 23.12)]}
+
+B00ARDCFHG
+{u'Perfectly Preemie': [(datetime.date(2014, 4, 22), 5.99)], u'Amazon': [(datetime.date(2014, 1, 16), 4.99), (datetime.date(2014, 4, 22), 5.99)], u'Null': [(datetime.date(2014, 1, 16), 5.99)]}
+
+B00DH21XVI
+{u'Leveret': [(datetime.date(2014, 1, 30), 11.99)], u'Null': [(datetime.date(2014, 1, 16), 11.99)]}
+
+B00D9OBC2Y
+{u'Amazon': [(datetime.date(2014, 1, 30), 8.09)]}
+
+B001HBAZ92
+{u'Joyshopper': [(datetime.date(2014, 1, 30), 35.99)], u'Ten Tall Trees': [(datetime.date(2014, 1, 30), 21.95), (datetime.date(2014, 4, 21), 20.75), (datetime.date(2014, 4, 22), 19.95)], u'savesport': [(datetime.date(2014, 4, 21), 19.99), (datetime.date(2014, 4, 22), 19.99)], u'JAPAN n.g.s': [(datetime.date(2014, 4, 21), 92.82), (datetime.date(2014, 4, 22), 92.82)], u'S & D Kids': [(datetime.date(2014, 1, 30), 19.99)], u'Value Town Kids': [(datetime.date(2014, 4, 21), 16.55), (datetime.date(2014, 4, 22), 16.55)], u'OGDrummer5': [(datetime.date(2014, 1, 16), 300.0), (datetime.date(2014, 1, 30), 300.0)], u'Ninja shop': [(datetime.date(2014, 4, 21), 76.63), (datetime.date(2014, 4, 22), 76.63)], u'Null': [(datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 1, 16), 35.99)]}
+
+B008REU16E
+{u'mytopchoice': [(datetime.date(2014, 1, 16), 2.29), (datetime.date(2014, 1, 16), 2.29)], u'i-Beauty': [(datetime.date(2014, 4, 22), 2.08)], u'Coco Fed Inc': [(datetime.date(2014, 1, 16), 2.25), (datetime.date(2014, 1, 16), 2.25), (datetime.date(2014, 4, 22), 2.08)], u'winwinzonece(Ship From Hongkong)': [(datetime.date(2014, 1, 16), 2.29), (datetime.date(2014, 1, 16), 2.29)], u'Save Goldsss': [(datetime.date(2014, 1, 16), 2.29), (datetime.date(2014, 1, 16), 2.29)], u'Cases Kingdom': [(datetime.date(2014, 1, 16), 2.29), (datetime.date(2014, 1, 16), 2.29)], u'Jewelry Kingdom': [(datetime.date(2014, 1, 16), 4.32)], u'Fashion-Jewelry': [(datetime.date(2014, 4, 22), 2.08)], u'Home garden World': [(datetime.date(2014, 1, 16), 0.3), (datetime.date(2014, 1, 16), 0.3), (datetime.date(2014, 4, 22), 2.09)], u'B\xb7LEVE': [(datetime.date(2014, 4, 22), 6.32)], u'Null': [(datetime.date(2014, 1, 16), 2.25), (datetime.date(2014, 1, 16), 2.29), (datetime.date(2014, 1, 16), 2.67), (datetime.date(2014, 1, 16), 2.25), (datetime.date(2014, 1, 16), 2.29), (datetime.date(2014, 1, 16), 2.67), (datetime.date(2014, 1, 16), 2.89), (datetime.date(2014, 1, 16), 2.93), (datetime.date(2014, 1, 16), 3.11), (datetime.date(2014, 1, 16), 3.63)], u'Sellingpillar': [(datetime.date(2014, 1, 16), 2.29), (datetime.date(2014, 1, 16), 2.29), (datetime.date(2014, 4, 22), 2.17)], u'Bonamart - Ship From Hong Kong': [(datetime.date(2014, 4, 22), 2.08)]}
+
+B0039824WM
+{u'Amazon': [(datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 4, 21), 7.99), (datetime.date(2014, 4, 22), 7.99), (datetime.date(2014, 4, 22), 7.99)]}
+
+B000AR84EC
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 31), 6.99), (datetime.date(2014, 4, 21), 9.99)]}
+
+B0009JOSAA
+{u'Amazon': [(datetime.date(2014, 1, 30), 13.99), (datetime.date(2014, 2, 17), 13.99), (datetime.date(2014, 4, 21), 19.99), (datetime.date(2014, 4, 22), 19.99)]}
+
+B00FROBPMQ
+{u'Leveret': [(datetime.date(2014, 2, 17), 9.99)]}
+
+B001VDYF7Y
+{u'Amazon': [(datetime.date(2014, 1, 16), 18.0)], u'Null': [(datetime.date(2014, 1, 16), 18.0), (datetime.date(2014, 1, 16), 18.99), (datetime.date(2014, 1, 16), 19.99)]}
+
+B0091MC9W0
+{u'Amor Kids AMK': [(datetime.date(2014, 4, 21), 34.49), (datetime.date(2014, 4, 22), 34.49)], u'DressForLess': [(datetime.date(2014, 4, 21), 30.99), (datetime.date(2014, 4, 21), 40.63), (datetime.date(2014, 4, 22), 30.99), (datetime.date(2014, 4, 22), 40.63)], u'Null': [(datetime.date(2014, 1, 16), 42.79), (datetime.date(2014, 1, 16), 36.99)], u'iGirlDress': [(datetime.date(2014, 4, 21), 34.02), (datetime.date(2014, 4, 22), 34.02)], u'Christening Day': [(datetime.date(2014, 4, 21), 41.99), (datetime.date(2014, 4, 22), 41.99)]}
+
+B00EF56KJG
+{u'4 Nicky Noodles': [(datetime.date(2014, 4, 22), 16.95)]}
+
+B00H7IA14S
+{u'BabyVision': [(datetime.date(2014, 4, 21), 5.99)]}
+
+B0057A0KVC
+{u'DressForLess': [(datetime.date(2014, 4, 21), 21.65)], u'iGirlDress': [(datetime.date(2014, 4, 21), 29.99)], u'Christening Day': [(datetime.date(2014, 4, 21), 29.49)], u'Webb Direct 2U': [(datetime.date(2014, 4, 21), 34.99)], u'TheScoop': [(datetime.date(2014, 4, 21), 28.83)], u"Sara's Fashion": [(datetime.date(2014, 4, 21), 20.83)]}
+
+B00ASGIJ0Y
+{u'Perfectly Preemie': [(datetime.date(2014, 1, 30), 13.95), (datetime.date(2014, 4, 21), 14.95), (datetime.date(2014, 4, 21), 14.95)], u'Amazon': [(datetime.date(2014, 1, 16), 14.99), (datetime.date(2014, 1, 30), 14.99), (datetime.date(2014, 4, 21), 14.99)], u'Null': [(datetime.date(2014, 1, 16), 13.95)]}
+
+B00DGNPO3G
+{u'Surprisestorm': [(datetime.date(2014, 4, 21), 19.72)], u'askformore': [(datetime.date(2014, 4, 21), 19.8)], u'Jolly Factory': [(datetime.date(2014, 4, 21), 29.99)], u'JAPANWORLD': [(datetime.date(2014, 4, 21), 505.73)], u'shopmore': [(datetime.date(2014, 4, 21), 19.8)], u'WinterSweet': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 4, 21), 19.71)], u'Null': [(datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 1, 16), 7.99)], u'worldwidesale': [(datetime.date(2014, 4, 21), 19.74)]}
+
+B00DSIBPB4
+{u'niceeshop.': [(datetime.date(2014, 2, 17), 2.99), (datetime.date(2014, 4, 21), 2.99), (datetime.date(2014, 4, 22), 2.99)], u'Null': [(datetime.date(2014, 1, 16), 2.99), (datetime.date(2014, 1, 16), 5.99)], u'beauty rose valley': [(datetime.date(2014, 1, 16), 5.99), (datetime.date(2014, 2, 17), 5.99)], u'Cosy Zone': [(datetime.date(2014, 2, 17), 5.99), (datetime.date(2014, 4, 21), 5.59), (datetime.date(2014, 4, 22), 5.59)], u'CZ-Sky': [(datetime.date(2014, 4, 21), 2.99), (datetime.date(2014, 4, 22), 2.99)]}
+
+B00DVS3U5U
+{u'S & D Kids': [(datetime.date(2014, 4, 21), 19.99)], u'Null': [(datetime.date(2014, 1, 16), 18.99), (datetime.date(2014, 1, 16), 25.92), (datetime.date(2014, 1, 16), 26.0), (datetime.date(2014, 1, 16), 23.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 18.99)]}
+
+B00EMG3VO0
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.35), (datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 4, 21), 9.99), (datetime.date(2014, 4, 22), 9.99)]}
+
+B001TQPD6U
+{u'Null': [(datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 1, 16), 10.99)], u'Amazon': [(datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 1, 30), 7.99), (datetime.date(2014, 2, 17), 7.99), (datetime.date(2014, 4, 22), 7.99)], u'Baby Family Gifts': [(datetime.date(2014, 1, 30), 7.99), (datetime.date(2014, 2, 17), 7.99), (datetime.date(2014, 4, 22), 7.99)], u'Posh Babies': [(datetime.date(2014, 2, 17), 8.99)], u'In Fashion Kids': [(datetime.date(2014, 1, 30), 10.99), (datetime.date(2014, 2, 17), 10.99), (datetime.date(2014, 4, 22), 10.99)], u'Best Service Stores': [(datetime.date(2014, 4, 22), 10.11)]}
+
+B00D2C7MT0
+{u'Leveret': [(datetime.date(2014, 1, 30), 12.99), (datetime.date(2014, 2, 17), 12.99), (datetime.date(2014, 4, 21), 12.99), (datetime.date(2014, 4, 22), 12.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99)]}
+
+B006YYCL1M
+{u'FitnessGenie': [(datetime.date(2014, 1, 16), 24.9), (datetime.date(2014, 1, 16), 24.9), (datetime.date(2014, 1, 16), 26.9), (datetime.date(2014, 1, 30), 24.9), (datetime.date(2014, 1, 30), 24.9), (datetime.date(2014, 4, 21), 25.9), (datetime.date(2014, 4, 21), 25.9), (datetime.date(2014, 4, 21), 25.9)], u'My Personal Memories Inc': [(datetime.date(2014, 1, 30), 19.99), (datetime.date(2014, 1, 30), 19.99), (datetime.date(2014, 4, 21), 26.99), (datetime.date(2014, 4, 21), 26.99)], u'Elite Treasured Gifts': [(datetime.date(2014, 1, 16), 24.9), (datetime.date(2014, 1, 16), 24.9), (datetime.date(2014, 1, 30), 24.9), (datetime.date(2014, 1, 30), 24.9), (datetime.date(2014, 4, 21), 25.9), (datetime.date(2014, 4, 21), 25.9)], u'AJD Connection': [(datetime.date(2014, 4, 21), 41.5)], u'TechDOS': [(datetime.date(2014, 4, 21), 23.0), (datetime.date(2014, 4, 21), 23.0)], u'Boaz7': [(datetime.date(2014, 4, 21), 47.77)], u'MMP Living': [(datetime.date(2014, 1, 30), 19.94), (datetime.date(2014, 1, 30), 19.94)], u'KidzNstyle': [(datetime.date(2014, 1, 30), 31.0), (datetime.date(2014, 1, 30), 31.0), (datetime.date(2014, 4, 21), 31.0), (datetime.date(2014, 4, 21), 31.0)], u'Amazon': [(datetime.date(2014, 1, 16), 21.17), (datetime.date(2014, 1, 16), 21.17), (datetime.date(2014, 1, 30), 19.73), (datetime.date(2014, 1, 30), 19.73), (datetime.date(2014, 4, 21), 28.45), (datetime.date(2014, 4, 21), 28.45)], u'MBAC Office Solutions/MBACKidz': [(datetime.date(2014, 1, 30), 18.0), (datetime.date(2014, 1, 30), 18.0), (datetime.date(2014, 4, 21), 23.95), (datetime.date(2014, 4, 21), 23.95)], u'Paper Elephant Co': [(datetime.date(2014, 1, 16), 25.95), (datetime.date(2014, 1, 16), 25.95), (datetime.date(2014, 1, 30), 19.95), (datetime.date(2014, 1, 30), 19.95)], u'Granny-Made': [(datetime.date(2014, 4, 21), 29.99), (datetime.date(2014, 4, 21), 29.99)], u'Best Brands Toys': [(datetime.date(2014, 4, 21), 39.79)], u'disney&me': [(datetime.date(2014, 4, 21), 34.95), (datetime.date(2014, 4, 21), 34.95)], u'Null': [(datetime.date(2014, 1, 16), 20.53), (datetime.date(2014, 1, 16), 18.0), (datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 1, 16), 29.0), (datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 16), 31.0), (datetime.date(2014, 1, 16), 20.53), (datetime.date(2014, 1, 16), 18.0), (datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 1, 16), 29.0), (datetime.date(2014, 1, 16), 24.99), (datetime.date(2014, 1, 16), 31.0), (datetime.date(2014, 1, 16), 34.95), (datetime.date(2014, 1, 16), 41.5), (datetime.date(2014, 1, 16), 39.79)], u'Best Service Stores': [(datetime.date(2014, 1, 30), 29.0), (datetime.date(2014, 1, 30), 29.0)], u'Mommy Gear Inc.': [(datetime.date(2014, 1, 30), 24.99), (datetime.date(2014, 1, 30), 24.99), (datetime.date(2014, 4, 21), 24.99), (datetime.date(2014, 4, 21), 24.99)]}
+
+B00G9IXKSQ
+{u'Best Deals U Can Find': [(datetime.date(2014, 1, 16), 18.0)]}
+
+B003F2D534
+{u'MATZ Market': [(datetime.date(2014, 4, 21), 28.87), (datetime.date(2014, 4, 22), 28.87)], u'MariposaHill': [(datetime.date(2014, 4, 21), 28.95), (datetime.date(2014, 4, 22), 28.95)], u'Figure 8 Maternity': [(datetime.date(2014, 4, 21), 26.0), (datetime.date(2014, 4, 22), 26.0)], u'Amazon': [(datetime.date(2014, 1, 16), 26.0), (datetime.date(2014, 1, 16), 26.0), (datetime.date(2014, 4, 21), 26.0), (datetime.date(2014, 4, 22), 26.0)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 26.19), (datetime.date(2014, 4, 22), 26.19)], u'Null': [(datetime.date(2014, 1, 16), 26.0), (datetime.date(2014, 1, 16), 28.95), (datetime.date(2014, 1, 16), 23.95), (datetime.date(2014, 1, 16), 26.19), (datetime.date(2014, 1, 16), 28.87), (datetime.date(2014, 1, 16), 26.0), (datetime.date(2014, 1, 16), 28.95), (datetime.date(2014, 1, 16), 23.95), (datetime.date(2014, 1, 16), 26.19), (datetime.date(2014, 1, 16), 28.87)], u'Mommy Gear Inc.': [(datetime.date(2014, 4, 21), 24.95), (datetime.date(2014, 4, 22), 24.95)]}
+
+B006P3HP9A
+{u'awesomest': [(datetime.date(2014, 2, 17), 12.99), (datetime.date(2014, 4, 21), 12.99), (datetime.date(2014, 4, 22), 12.99)], u'ssgandmrsbadass': [(datetime.date(2014, 4, 21), 12.63), (datetime.date(2014, 4, 22), 12.63)], u'GroVia': [(datetime.date(2014, 4, 21), 17.95), (datetime.date(2014, 4, 22), 17.95)], u'Lullaby Baby': [(datetime.date(2014, 4, 21), 17.99), (datetime.date(2014, 4, 22), 17.99)], u'Etailz': [(datetime.date(2014, 4, 21), 17.95), (datetime.date(2014, 4, 22), 17.95)], u'La Stella Blu': [(datetime.date(2014, 2, 17), 17.95), (datetime.date(2014, 4, 21), 17.95), (datetime.date(2014, 4, 22), 17.95)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 17.95), (datetime.date(2014, 4, 21), 17.95), (datetime.date(2014, 4, 22), 17.95)], u'Apple Green Baby': [(datetime.date(2014, 2, 17), 18.19), (datetime.date(2014, 4, 21), 17.95), (datetime.date(2014, 4, 22), 17.95)]}
+
+B008JHVRJO
+{u'juDanzy (My Little Legs)': [(datetime.date(2014, 1, 30), 9.99)]}
+
+B009QZKVOU
+{u'Baby Riddle': [(datetime.date(2014, 4, 22), 16.95)], u'Amazon': [(datetime.date(2014, 4, 22), 4.8)]}
+
+B009FHN6AA
+{u'Leveret': [(datetime.date(2014, 2, 17), 9.99)]}
+
+B000BVL5E8
+{u'Amazon': [(datetime.date(2014, 1, 16), 24.58), (datetime.date(2014, 1, 16), 24.58), (datetime.date(2014, 2, 17), 25.99), (datetime.date(2014, 4, 21), 25.34)], u'Drugstore.com': [(datetime.date(2014, 1, 16), 26.99), (datetime.date(2014, 1, 16), 26.99)]}
+
+B00E1YRI6K
+{u'sisiprincess': [(datetime.date(2014, 1, 30), 8.88), (datetime.date(2014, 1, 30), 8.88), (datetime.date(2014, 4, 21), 8.88), (datetime.date(2014, 4, 21), 8.88)]}
+
+B003XD55Y2
+{u'Amazon': [(datetime.date(2014, 1, 30), 12.99), (datetime.date(2014, 2, 17), 12.99)]}
+
+B00DKLQYUQ
+{u'Null': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 16), 9.99)]}
+
+B003KG9Z8Y
+{u'Baby SuperMall': [(datetime.date(2014, 1, 30), 11.95), (datetime.date(2014, 1, 31), 11.95), (datetime.date(2014, 4, 21), 11.95), (datetime.date(2014, 4, 22), 11.95)], u'Amazon': [(datetime.date(2014, 1, 16), 12.0), (datetime.date(2014, 1, 16), 12.0), (datetime.date(2014, 1, 30), 12.0), (datetime.date(2014, 1, 31), 12.0), (datetime.date(2014, 4, 21), 9.99), (datetime.date(2014, 4, 22), 9.99)], u'Null': [(datetime.date(2014, 1, 16), 11.95), (datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 16), 11.95), (datetime.date(2014, 1, 16), 9.99)], u'S & D Kids': [(datetime.date(2014, 1, 30), 9.99), (datetime.date(2014, 1, 31), 9.99), (datetime.date(2014, 4, 21), 9.99), (datetime.date(2014, 4, 22), 9.99)]}
+
+B00D3RDF54
+{u'Leveret': [(datetime.date(2014, 2, 17), 12.99), (datetime.date(2014, 4, 21), 12.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99)]}
+
+B006SVWDZK
+{u'Null': [(datetime.date(2014, 1, 16), 11.99), (datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 16), 12.0)], u'First In Kites & Toys': [(datetime.date(2014, 1, 30), 12.99)], u'FortuneBella': [(datetime.date(2014, 4, 21), 14.9)], u'Amazon': [(datetime.date(2014, 1, 16), 12.19), (datetime.date(2014, 1, 30), 13.19), (datetime.date(2014, 4, 21), 14.99)], u'Dana Kids': [(datetime.date(2014, 4, 21), 13.55)], u'Baby Family Gifts': [(datetime.date(2014, 4, 21), 14.9)], u'In Fashion Kids': [(datetime.date(2014, 1, 30), 13.0), (datetime.date(2014, 4, 21), 11.58)], u'Best Service Stores': [(datetime.date(2014, 4, 21), 15.05)]}
+
+B00CUGBX08
+{u'Null': [(datetime.date(2014, 1, 16), 13.0), (datetime.date(2014, 1, 16), 18.0)], u'iLifeProducts': [(datetime.date(2014, 4, 22), 15.95), (datetime.date(2014, 4, 22), 18.0)]}
+
+B006U1GXPE
+{u'GMFamilyGifts': [(datetime.date(2014, 1, 30), 11.99), (datetime.date(2014, 4, 22), 11.99)], u'Riley and Bella': [(datetime.date(2014, 4, 22), 16.0)], u'Null': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 16), 14.12), (datetime.date(2014, 1, 16), 14.99), (datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 16), 17.99), (datetime.date(2014, 1, 16), 15.99)], u'First In Kites & Toys': [(datetime.date(2014, 1, 30), 14.99), (datetime.date(2014, 4, 22), 14.99)], u'FortuneBella': [(datetime.date(2014, 4, 22), 16.0)], u'Amazon': [(datetime.date(2014, 1, 16), 14.34), (datetime.date(2014, 1, 30), 14.34), (datetime.date(2014, 4, 22), 13.14)], u'Tomo Buys': [(datetime.date(2014, 1, 30), 14.12), (datetime.date(2014, 4, 22), 12.94)], u'Baby Family Gifts': [(datetime.date(2014, 1, 30), 17.99), (datetime.date(2014, 1, 30), 15.99), (datetime.date(2014, 4, 22), 17.99)], u'In Fashion Kids': [(datetime.date(2014, 1, 30), 9.99), (datetime.date(2014, 4, 22), 17.99)], u'Best Service Stores': [(datetime.date(2014, 4, 22), 13.25)]}
+
+B004CLYYV4
+{u'Amazon': [(datetime.date(2014, 3, 4), 10.99), (datetime.date(2014, 4, 21), 10.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 3, 4), 11.49), (datetime.date(2014, 4, 21), 11.49)], u'BabyHaven': [(datetime.date(2014, 3, 4), 10.35), (datetime.date(2014, 4, 21), 10.35)], u'TradeDeal': [(datetime.date(2014, 4, 21), 15.93)]}
+
+B00ARDCDBY
+{u'Amazon': [(datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 4, 21), 8.99), (datetime.date(2014, 4, 22), 8.99)]}
+
+B008SD4N7M
+{u"Sara's Fashion": [(datetime.date(2014, 4, 21), 29.06)], u'Null': [(datetime.date(2014, 1, 16), 36.99)], u'Webb Direct 2U': [(datetime.date(2014, 1, 30), 48.99), (datetime.date(2014, 4, 21), 48.99)], u'Christening Day': [(datetime.date(2014, 4, 21), 32.25)], u'TheScoop': [(datetime.date(2014, 1, 16), 35.88), (datetime.date(2014, 1, 30), 35.99), (datetime.date(2014, 1, 30), 35.99), (datetime.date(2014, 4, 21), 37.06)]}
+
+B0057U7Y1Q
+{u'Baby SuperMall': [(datetime.date(2014, 1, 31), 19.95), (datetime.date(2014, 2, 17), 19.95)], u'Amazon': [(datetime.date(2014, 1, 16), 22.65), (datetime.date(2014, 1, 16), 22.65), (datetime.date(2014, 1, 31), 22.65), (datetime.date(2014, 4, 21), 18.99)], u'Null': [(datetime.date(2014, 1, 16), 19.95), (datetime.date(2014, 1, 16), 19.95)]}
+
+B00AKFZFQO
+{u'Amazon': [(datetime.date(2014, 1, 16), 37.6), (datetime.date(2014, 1, 16), 37.6), (datetime.date(2014, 1, 31), 37.6), (datetime.date(2014, 4, 22), 37.5)], u'Null': [(datetime.date(2014, 1, 16), 39.96), (datetime.date(2014, 1, 16), 49.95), (datetime.date(2014, 1, 16), 39.96), (datetime.date(2014, 1, 16), 49.95)], u'Backcountry': [(datetime.date(2014, 1, 31), 37.46), (datetime.date(2014, 4, 22), 29.97)], u'Appalachian Outdoors': [(datetime.date(2014, 1, 31), 49.95)]}
+
+B003QCJ654
+{u'Amazon': [(datetime.date(2014, 1, 30), 16.99), (datetime.date(2014, 2, 17), 19.99), (datetime.date(2014, 4, 21), 19.99), (datetime.date(2014, 4, 22), 19.99)]}
+
+B00BILHRFG
+{u'brandbuy(HK 7-15 DAYS DELIVERY)': [(datetime.date(2014, 3, 4), 6.09)], u'Boxgood (from Hongkong, 8-23 days shipping)': [(datetime.date(2014, 3, 4), 0.01), (datetime.date(2014, 3, 4), 0.01), (datetime.date(2014, 4, 21), 0.01), (datetime.date(2014, 4, 21), 0.01)], u'Mystiqueshapes': [(datetime.date(2014, 3, 4), 5.36), (datetime.date(2014, 3, 4), 5.36), (datetime.date(2014, 4, 21), 5.36), (datetime.date(2014, 4, 21), 5.36)], u'LedChoice (Ship From HONGKONG)': [(datetime.date(2014, 3, 4), 1.85), (datetime.date(2014, 3, 4), 1.85), (datetime.date(2014, 3, 4), 2.02), (datetime.date(2014, 4, 21), 1.85), (datetime.date(2014, 4, 21), 1.85), (datetime.date(2014, 4, 21), 2.02)], u'Viskey': [(datetime.date(2014, 4, 21), 2.02), (datetime.date(2014, 4, 21), 2.02)], u'winwinzonece(Ship From Hongkong)': [(datetime.date(2014, 3, 4), 3.08), (datetime.date(2014, 3, 4), 3.08), (datetime.date(2014, 4, 21), 3.08), (datetime.date(2014, 4, 21), 3.08)], u'ibabydepot': [(datetime.date(2014, 3, 4), 1.5), (datetime.date(2014, 3, 4), 6.99), (datetime.date(2014, 4, 21), 1.5), (datetime.date(2014, 4, 21), 6.99)], u'FriendshipStore(4-8 shipping days)': [(datetime.date(2014, 3, 4), 5.89), (datetime.date(2014, 3, 4), 5.89)], u'egoodbest': [(datetime.date(2014, 3, 4), 3.08), (datetime.date(2014, 3, 4), 3.08), (datetime.date(2014, 4, 21), 3.08), (datetime.date(2014, 4, 21), 3.08)], u'Jewelry Kingdom': [(datetime.date(2014, 3, 4), 6.02)], u'Kiki mall': [(datetime.date(2014, 3, 4), 2.03), (datetime.date(2014, 3, 4), 2.03), (datetime.date(2014, 4, 21), 2.19), (datetime.date(2014, 4, 21), 2.19)], u'GOYESTORE': [(datetime.date(2014, 3, 4), 6.14)], u'TAOTAO': [(datetime.date(2014, 3, 4), 3.44), (datetime.date(2014, 3, 4), 3.44), (datetime.date(2014, 4, 21), 4.44), (datetime.date(2014, 4, 21), 4.44)], u'digital.HK': [(datetime.date(2014, 3, 4), 3.08), (datetime.date(2014, 3, 4), 3.08), (datetime.date(2014, 4, 21), 3.08), (datetime.date(2014, 4, 21), 3.08)], u'B\xb7LEVE': [(datetime.date(2014, 3, 4), 6.95), (datetime.date(2014, 4, 21), 6.95)], u'se7en fashion': [(datetime.date(2014, 3, 4), 5.36), (datetime.date(2014, 3, 4), 5.36), (datetime.date(2014, 4, 21), 5.36), (datetime.date(2014, 4, 21), 5.36)], u'Cool2dayINC': [(datetime.date(2014, 3, 4), 3.24), (datetime.date(2014, 4, 21), 5.99)]}
+
+B006TKQIEW
+{u'Null': [(datetime.date(2014, 1, 16), 10.99), (datetime.date(2014, 1, 16), 16.0), (datetime.date(2014, 1, 16), 21.99), (datetime.date(2014, 1, 16), 18.99)], u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 30), 9.99), (datetime.date(2014, 4, 21), 9.99)], u'Riley and Bella': [(datetime.date(2014, 1, 30), 16.0), (datetime.date(2014, 4, 21), 16.0)], u'Baby Family Gifts': [(datetime.date(2014, 1, 30), 21.99), (datetime.date(2014, 1, 30), 18.99), (datetime.date(2014, 4, 21), 21.99), (datetime.date(2014, 4, 21), 18.99)], u'In Fashion Kids': [(datetime.date(2014, 1, 30), 10.99), (datetime.date(2014, 4, 21), 8.99)], u'Best Service Stores': [(datetime.date(2014, 4, 21), 15.12)]}
+
+B00ANPBVNW
+{u'Maybeon': [(datetime.date(2014, 1, 30), 17.95), (datetime.date(2014, 4, 21), 17.95)], u"Hyatt's All Things Creative": [(datetime.date(2014, 4, 21), 16.08)], u'MMP Living': [(datetime.date(2014, 4, 21), 24.06)], u'Amazon': [(datetime.date(2014, 1, 30), 19.0), (datetime.date(2014, 4, 21), 19.0)], u'La Boutique Minneapolis': [(datetime.date(2014, 1, 30), 17.95), (datetime.date(2014, 4, 21), 17.95)], u'bumblepie': [(datetime.date(2014, 4, 21), 14.0)]}
+
+B0056G4QS0
+{u'Amazon': [(datetime.date(2014, 4, 22), 10.08)], u'Shoebuy': [(datetime.date(2014, 4, 22), 36.45)]}
+
+B00AB27IIY
+{u'Amazon': [(datetime.date(2014, 1, 16), 4.99), (datetime.date(2014, 1, 16), 4.99), (datetime.date(2014, 2, 17), 4.99), (datetime.date(2014, 4, 21), 8.14)], u'Null': [(datetime.date(2014, 1, 16), 3.99), (datetime.date(2014, 1, 16), 4.99), (datetime.date(2014, 1, 16), 3.99), (datetime.date(2014, 1, 16), 4.99)], u'BabyVision': [(datetime.date(2014, 2, 17), 4.99), (datetime.date(2014, 2, 17), 4.99), (datetime.date(2014, 4, 21), 4.99), (datetime.date(2014, 4, 21), 4.99)]}
+
+B00H8XCW4E
+{u'All to Dress': [(datetime.date(2014, 1, 16), 6.99)]}
+
+B00CI59U0G
+{u'Amazon': [(datetime.date(2014, 2, 17), 18.05)]}
+
+B00B1M2N60
+{u'DimpleChild': [(datetime.date(2014, 1, 30), 23.58), (datetime.date(2014, 4, 21), 28.46)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 21.29), (datetime.date(2014, 4, 21), 20.99)], u'ToysOnline': [(datetime.date(2014, 4, 21), 26.99)], u'Amazon': [(datetime.date(2014, 1, 16), 20.05), (datetime.date(2014, 1, 30), 20.05), (datetime.date(2014, 3, 12), 22.47), (datetime.date(2014, 4, 21), 19.98)], u'Think Fast': [(datetime.date(2014, 1, 30), 19.84), (datetime.date(2014, 4, 21), 19.98)], u'Posh Babies': [(datetime.date(2014, 3, 12), 15.0), (datetime.date(2014, 4, 21), 15.0)], u'Null': [(datetime.date(2014, 1, 16), 19.84), (datetime.date(2014, 1, 16), 23.58), (datetime.date(2014, 1, 16), 18.29), (datetime.date(2014, 3, 12), 23.58)], u'imagine products': [(datetime.date(2014, 4, 21), 21.03)]}
+
+B004TG3N28
+{u'Amazon': [(datetime.date(2014, 4, 21), 17.5)]}
+
+B007XD8US6
+{u'Baby SuperMall': [(datetime.date(2014, 2, 17), 19.99), (datetime.date(2014, 4, 21), 19.99), (datetime.date(2014, 4, 22), 19.99)], u'Null': [(datetime.date(2014, 1, 16), 19.99)]}
+
+B004WJ2JMC
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.24), (datetime.date(2014, 1, 30), 6.99), (datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 4, 21), 6.99), (datetime.date(2014, 4, 22), 6.99), (datetime.date(2014, 4, 22), 6.99)]}
+
+B00DGM4MCG
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.77)]}
+
+B00F9XE99G
+{u'yourparcel': [(datetime.date(2014, 4, 21), 4.94)], u'viliysun': [(datetime.date(2014, 4, 21), 19.95)], u"AndyNieh's shop": [(datetime.date(2014, 1, 30), 6.0), (datetime.date(2014, 4, 21), 6.0)], u'XmasPresent': [(datetime.date(2014, 4, 21), 9.95)], u'Finejo': [(datetime.date(2014, 1, 30), 5.97), (datetime.date(2014, 4, 21), 4.98)]}
+
+B0048AW4UW
+{u'Pampered Tot': [(datetime.date(2014, 1, 31), 28.95), (datetime.date(2014, 3, 4), 28.95), (datetime.date(2014, 4, 22), 28.95)], u'Wild Blueberries': [(datetime.date(2014, 1, 31), 28.99), (datetime.date(2014, 3, 4), 28.99), (datetime.date(2014, 4, 22), 28.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 31), 26.19), (datetime.date(2014, 3, 4), 26.19), (datetime.date(2014, 4, 22), 26.19)], u'TheTwinkleStars': [(datetime.date(2014, 1, 31), 24.95), (datetime.date(2014, 3, 4), 24.95), (datetime.date(2014, 4, 22), 24.95)], u'Amazon': [(datetime.date(2014, 1, 16), 24.77), (datetime.date(2014, 1, 31), 24.53), (datetime.date(2014, 3, 4), 24.95), (datetime.date(2014, 4, 22), 24.95)], u'Baby SuperMall': [(datetime.date(2014, 1, 31), 23.95)], u'Null': [(datetime.date(2014, 1, 16), 23.95), (datetime.date(2014, 1, 16), 26.19), (datetime.date(2014, 1, 16), 28.99), (datetime.date(2014, 1, 16), 28.95)]}
+
+B0037KLFCC
+{u'Wrapables': [(datetime.date(2014, 2, 17), 10.99)], u'Wild Blueberries': [(datetime.date(2014, 1, 30), 12.0), (datetime.date(2014, 2, 17), 12.0)], u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 30), 9.99), (datetime.date(2014, 2, 17), 9.99)], u'Null': [(datetime.date(2014, 1, 16), 10.09), (datetime.date(2014, 1, 16), 10.99), (datetime.date(2014, 1, 16), 12.0), (datetime.date(2014, 1, 16), 12.0)], u'Best Service Stores': [(datetime.date(2014, 1, 30), 10.09), (datetime.date(2014, 2, 17), 10.09)], u'Mommy Gear Inc.': [(datetime.date(2014, 1, 30), 12.0), (datetime.date(2014, 2, 17), 12.0)]}
+
+B00AW783GO
+{u'Perfectly Preemie': [(datetime.date(2014, 4, 21), 11.99)], u'Amazon': [(datetime.date(2014, 4, 21), 11.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 16.69)]}
+
+B0050DZEVM
+{u'Null': [(datetime.date(2014, 1, 16), 20.0), (datetime.date(2014, 1, 16), 20.0)], u'iLifeProducts': [(datetime.date(2014, 2, 17), 22.15), (datetime.date(2014, 2, 17), 22.0), (datetime.date(2014, 4, 21), 22.15), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 22), 22.15), (datetime.date(2014, 4, 22), 22.0)]}
+
+B00ATCBUFI
+{u'Perfectly Preemie': [(datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 4, 22), 6.99)], u'Amazon': [(datetime.date(2014, 2, 17), 5.99), (datetime.date(2014, 4, 22), 6.99)]}
+
+B00F0RV6TW
+{u'Null': [(datetime.date(2014, 1, 16), 17.95)]}
+
+B004GTLRY4
+{u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 9.95), (datetime.date(2014, 4, 22), 9.95)], u'Amazon': [(datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 4, 21), 16.78), (datetime.date(2014, 4, 22), 16.91)], u'Null': [(datetime.date(2014, 1, 16), 9.95), (datetime.date(2014, 1, 16), 11.5), (datetime.date(2014, 1, 16), 20.58), (datetime.date(2014, 1, 16), 15.59)], u'Discount Supply Co.': [(datetime.date(2014, 4, 21), 10.4), (datetime.date(2014, 4, 22), 10.4)], u'All Together Enterprises': [(datetime.date(2014, 4, 21), 11.5), (datetime.date(2014, 4, 22), 11.5)]}
+
+B001C1IREW
+{u'Shop2Swim': [(datetime.date(2014, 2, 17), 13.37), (datetime.date(2014, 4, 21), 13.37), (datetime.date(2014, 4, 22), 13.37)], u'Cambridge Select': [(datetime.date(2014, 4, 21), 11.99), (datetime.date(2014, 4, 22), 11.99)], u'Etailz': [(datetime.date(2014, 2, 17), 14.88), (datetime.date(2014, 4, 21), 14.88), (datetime.date(2014, 4, 22), 14.88)], u'Amazon': [(datetime.date(2014, 4, 21), 9.99), (datetime.date(2014, 4, 22), 9.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 12.0), (datetime.date(2014, 4, 21), 12.0), (datetime.date(2014, 4, 22), 12.0)], u'Baby SuperMall': [(datetime.date(2014, 2, 17), 11.95), (datetime.date(2014, 4, 21), 11.95), (datetime.date(2014, 4, 22), 11.95)], u'Null': [(datetime.date(2014, 1, 16), 12.0)]}
+
+B005BWXG4Y
+{u'Green Box Trading': [(datetime.date(2014, 1, 16), 27.0)], u'Amazon': [(datetime.date(2014, 1, 16), 32.05), (datetime.date(2014, 4, 21), 38.0), (datetime.date(2014, 4, 22), 38.0)], u'Null': [(datetime.date(2014, 1, 16), 31.75), (datetime.date(2014, 1, 16), 38.0)], u'Nestlng': [(datetime.date(2014, 1, 16), 38.0)], u'Best Baby Organics': [(datetime.date(2014, 4, 21), 38.0), (datetime.date(2014, 4, 22), 38.0)]}
+
+B00742VS94
+{u'Amazon': [(datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 16), 12.99), (datetime.date(2014, 1, 30), 12.99), (datetime.date(2014, 2, 17), 8.99)]}
+
+B00BPIO9EO
+{u'Shopping Moa': [(datetime.date(2014, 1, 30), 119.99), (datetime.date(2014, 2, 17), 139.99)], u'Null': [(datetime.date(2014, 1, 16), 139.99), (datetime.date(2014, 1, 16), 139.99)]}
+
+B00D8LSR8U
+{u'GoGreen Diapers LLC': [(datetime.date(2014, 1, 16), 9.47), (datetime.date(2014, 1, 16), 9.47)]}
+
+B00AKGTXEI
+{u'Ten Tall Trees': [(datetime.date(2014, 1, 30), 24.95), (datetime.date(2014, 1, 31), 24.95)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 24.79), (datetime.date(2014, 1, 31), 24.79)], u'Amazon': [(datetime.date(2014, 1, 16), 24.95), (datetime.date(2014, 1, 30), 24.95), (datetime.date(2014, 1, 31), 24.95)], u'Rocky Mountain Trail': [(datetime.date(2014, 1, 30), 20.93), (datetime.date(2014, 1, 31), 20.93)], u'Null': [(datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 1, 16), 24.95), (datetime.date(2014, 1, 16), 20.93), (datetime.date(2014, 1, 16), 23.96), (datetime.date(2014, 1, 16), 26.99)], u'Appalachian Outdoors': [(datetime.date(2014, 1, 30), 29.95), (datetime.date(2014, 1, 31), 29.95)]}
+
+B007C4GHS6
+{u'Perfectly Preemie': [(datetime.date(2014, 1, 16), 8.95), (datetime.date(2014, 1, 31), 8.95), (datetime.date(2014, 2, 17), 8.95)], u'kiddie world': [(datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 1, 31), 7.99), (datetime.date(2014, 2, 17), 7.99)], u'Amazon': [(datetime.date(2014, 1, 16), 8.99), (datetime.date(2014, 1, 31), 8.99), (datetime.date(2014, 2, 17), 6.99)], u'AJ WHOLESALE': [(datetime.date(2014, 1, 16), 9.95), (datetime.date(2014, 1, 31), 9.95), (datetime.date(2014, 2, 17), 9.95)]}
+
+B001W0ZG5Q
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 4, 21), 9.99), (datetime.date(2014, 4, 22), 9.99), (datetime.date(2014, 4, 22), 9.99)]}
+
+B00A8P16CS
+{u'Right Start': [(datetime.date(2014, 1, 30), 19.99), (datetime.date(2014, 2, 17), 19.99), (datetime.date(2014, 3, 4), 19.99), (datetime.date(2014, 4, 21), 19.99)], u'Null': [(datetime.date(2014, 1, 16), 19.99), (datetime.date(2014, 1, 16), 19.99)], u'Tortle Products, LLC': [(datetime.date(2014, 1, 30), 19.99), (datetime.date(2014, 2, 17), 19.99), (datetime.date(2014, 3, 4), 19.99), (datetime.date(2014, 4, 21), 19.99)], u'CashCo1000, Inc.   (USA Merchant)': [(datetime.date(2014, 4, 21), 25.0)]}
+
+B004OA7QVI
+{u'Amazon': [(datetime.date(2014, 1, 30), 6.99), (datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 4, 21), 6.99), (datetime.date(2014, 4, 22), 6.99)]}
+
+B0007RS8SM
+{u'Null': [(datetime.date(2014, 1, 16), 7.99)], u'BabyVision': [(datetime.date(2014, 2, 17), 7.99)]}
+
+B00BPXITT0
+{u'Leveret': [(datetime.date(2014, 3, 4), 11.99), (datetime.date(2014, 4, 21), 11.99), (datetime.date(2014, 4, 22), 11.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99)]}
+
+B00BPIO7NW
+{u'Shopping Moa': [(datetime.date(2014, 3, 4), 99.99), (datetime.date(2014, 4, 21), 99.99), (datetime.date(2014, 4, 22), 99.99)], u'Null': [(datetime.date(2014, 1, 16), 99.99), (datetime.date(2014, 1, 16), 99.99)]}
+
+B00374PVNW
+{u"Kristin's Great Finds": [(datetime.date(2014, 4, 21), 17.99), (datetime.date(2014, 4, 21), 17.99), (datetime.date(2014, 4, 22), 17.99), (datetime.date(2014, 4, 22), 17.99)], u'Tomo Buys': [(datetime.date(2014, 1, 30), 13.53), (datetime.date(2014, 4, 21), 15.59), (datetime.date(2014, 4, 21), 15.59), (datetime.date(2014, 4, 22), 15.59), (datetime.date(2014, 4, 22), 15.59)], u"Baker's Box, Inc.": [(datetime.date(2014, 1, 30), 31.84), (datetime.date(2014, 4, 21), 29.38), (datetime.date(2014, 4, 21), 29.38), (datetime.date(2014, 4, 22), 29.38), (datetime.date(2014, 4, 22), 29.38)], u'Official  Costumes': [(datetime.date(2014, 1, 30), 17.13), (datetime.date(2014, 4, 21), 16.87), (datetime.date(2014, 4, 21), 16.87), (datetime.date(2014, 4, 21), 16.87), (datetime.date(2014, 4, 22), 16.87), (datetime.date(2014, 4, 22), 16.87), (datetime.date(2014, 4, 22), 16.87)], u'Amazon': [(datetime.date(2014, 1, 30), 13.73), (datetime.date(2014, 4, 21), 13.67), (datetime.date(2014, 4, 21), 13.67), (datetime.date(2014, 4, 22), 13.67), (datetime.date(2014, 4, 22), 13.67)], u'FortuneBella': [(datetime.date(2014, 4, 21), 14.9), (datetime.date(2014, 4, 21), 14.9), (datetime.date(2014, 4, 22), 14.9), (datetime.date(2014, 4, 22), 14.9)], u'Baby Family Gifts': [(datetime.date(2014, 1, 30), 14.99), (datetime.date(2014, 1, 30), 16.99), (datetime.date(2014, 4, 21), 14.99), (datetime.date(2014, 4, 21), 14.99), (datetime.date(2014, 4, 21), 16.99), (datetime.date(2014, 4, 22), 14.99), (datetime.date(2014, 4, 22), 14.99), (datetime.date(2014, 4, 22), 16.99)], u'In Fashion Kids': [(datetime.date(2014, 1, 30), 12.99), (datetime.date(2014, 4, 21), 8.99), (datetime.date(2014, 4, 21), 8.99), (datetime.date(2014, 4, 22), 8.99), (datetime.date(2014, 4, 22), 8.99)], u'Best Service Stores': [(datetime.date(2014, 4, 21), 13.63), (datetime.date(2014, 4, 21), 13.63), (datetime.date(2014, 4, 22), 13.63), (datetime.date(2014, 4, 22), 13.63)], u'BirthdayExpress': [(datetime.date(2014, 1, 30), 14.4), (datetime.date(2014, 4, 21), 13.6), (datetime.date(2014, 4, 21), 13.6), (datetime.date(2014, 4, 22), 13.6), (datetime.date(2014, 4, 22), 13.6)]}
+
+B00BLSX1F6
+{u'Leveret': [(datetime.date(2014, 1, 30), 12.99), (datetime.date(2014, 2, 17), 12.99), (datetime.date(2014, 4, 22), 12.99)], u'Null': [(datetime.date(2014, 1, 16), 12.99)]}
+
+B0009JE774
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 31), 6.99), (datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 3, 4), 9.99), (datetime.date(2014, 4, 21), 9.99)]}
+
+B007C2PZQ8
+{u'Perfectly Preemie': [(datetime.date(2014, 2, 17), 9.49), (datetime.date(2014, 3, 4), 9.49), (datetime.date(2014, 4, 21), 9.49)], u'Shoe Depot 225': [(datetime.date(2014, 4, 21), 7.98)], u'Amazon': [(datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 2, 17), 5.99), (datetime.date(2014, 3, 4), 7.99), (datetime.date(2014, 4, 21), 7.99)], u'Null': [(datetime.date(2014, 1, 16), 8.99), (datetime.date(2014, 1, 16), 8.24), (datetime.date(2014, 1, 16), 9.49)], u'kiddie world': [(datetime.date(2014, 2, 17), 8.99), (datetime.date(2014, 2, 17), 8.24), (datetime.date(2014, 3, 4), 8.99), (datetime.date(2014, 3, 4), 8.24), (datetime.date(2014, 4, 21), 8.99)]}
+
+B00BCYDSL6
+{u"Kristin's Great Finds": [(datetime.date(2014, 2, 17), 37.99), (datetime.date(2014, 4, 22), 37.99)], u'Riley and Bella': [(datetime.date(2014, 4, 22), 34.0), (datetime.date(2014, 4, 22), 34.0)], u'KiddielandToys': [(datetime.date(2014, 4, 22), 27.77), (datetime.date(2014, 4, 22), 27.77)], u'FortuneBella': [(datetime.date(2014, 4, 22), 28.0), (datetime.date(2014, 4, 22), 28.0)], u'Amazon': [(datetime.date(2014, 2, 17), 28.86), (datetime.date(2014, 4, 22), 26.3), (datetime.date(2014, 4, 22), 26.3)], u'Dana Kids': [(datetime.date(2014, 4, 22), 28.99), (datetime.date(2014, 4, 22), 28.99)], u'Elegance On Penn': [(datetime.date(2014, 4, 22), 30.0), (datetime.date(2014, 4, 22), 30.0)], u'Specialty Stores, Inc': [(datetime.date(2014, 2, 17), 27.97), (datetime.date(2014, 4, 22), 27.97), (datetime.date(2014, 4, 22), 27.97)], u'Baby Family Gifts': [(datetime.date(2014, 4, 22), 27.49), (datetime.date(2014, 4, 22), 27.49)], u'In Fashion Kids': [(datetime.date(2014, 2, 17), 28.99)], u'Best Service Stores': [(datetime.date(2014, 2, 17), 28.81), (datetime.date(2014, 4, 22), 26.06), (datetime.date(2014, 4, 22), 26.06)], u'BirthdayExpress': [(datetime.date(2014, 2, 17), 28.8), (datetime.date(2014, 4, 22), 27.2), (datetime.date(2014, 4, 22), 27.2)], u'Kids Apparel And Beyond': [(datetime.date(2014, 2, 17), 36.99), (datetime.date(2014, 4, 22), 36.99)]}
+
+B003YMWY8M
+{u'Industrial Apparel Holdings, LLC': [(datetime.date(2014, 1, 16), 7.98), (datetime.date(2014, 4, 21), 6.64), (datetime.date(2014, 4, 22), 6.64)], u'Fashion Province': [(datetime.date(2014, 1, 16), 12.56), (datetime.date(2014, 1, 30), 12.56)], u'Pollero': [(datetime.date(2014, 4, 21), 10.17), (datetime.date(2014, 4, 22), 10.17)], u'GotApparel': [(datetime.date(2014, 1, 30), 6.79), (datetime.date(2014, 4, 21), 6.79), (datetime.date(2014, 4, 22), 6.79)], u'Direct Premium Buys': [(datetime.date(2014, 1, 30), 7.49), (datetime.date(2014, 4, 21), 7.49), (datetime.date(2014, 4, 22), 7.49)], u'The Deal Rack': [(datetime.date(2014, 1, 30), 6.64), (datetime.date(2014, 4, 21), 4.88), (datetime.date(2014, 4, 22), 4.88)], u'ClothingShopOnline': [(datetime.date(2014, 1, 30), 7.64), (datetime.date(2014, 4, 21), 15.0), (datetime.date(2014, 4, 22), 15.0)], u'Stitch With Us': [(datetime.date(2014, 1, 30), 7.6), (datetime.date(2014, 1, 30), 9.75), (datetime.date(2014, 4, 21), 7.6), (datetime.date(2014, 4, 21), 9.75), (datetime.date(2014, 4, 22), 7.6), (datetime.date(2014, 4, 22), 9.75)], u'Baby SuperMall': [(datetime.date(2014, 1, 30), 6.73), (datetime.date(2014, 4, 21), 6.81), (datetime.date(2014, 4, 22), 6.81)], u'Null': [(datetime.date(2014, 1, 16), 6.91), (datetime.date(2014, 1, 16), 7.05), (datetime.date(2014, 1, 16), 7.49), (datetime.date(2014, 1, 16), 7.64), (datetime.date(2014, 1, 16), 7.6), (datetime.date(2014, 1, 16), 9.75), (datetime.date(2014, 1, 16), 6.45)], u'Hippo Tails': [(datetime.date(2014, 4, 21), 8.32), (datetime.date(2014, 4, 22), 8.32)]}
+
+B007CRR7Z0
+{u'Amazon': [(datetime.date(2014, 2, 17), 8.99), (datetime.date(2014, 4, 21), 9.99), (datetime.date(2014, 4, 22), 9.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 16.49), (datetime.date(2014, 4, 22), 16.49)], u'BabyHaven': [(datetime.date(2014, 2, 17), 10.22), (datetime.date(2014, 4, 21), 10.22), (datetime.date(2014, 4, 22), 10.22)]}
+
+B002EB06MU
+{u'Baby SuperMall': [(datetime.date(2014, 1, 16), 11.95), (datetime.date(2014, 1, 31), 11.95), (datetime.date(2014, 2, 17), 11.95), (datetime.date(2014, 3, 4), 11.95), (datetime.date(2014, 4, 22), 11.95)], u'Amazon': [(datetime.date(2014, 1, 16), 9.98), (datetime.date(2014, 1, 31), 9.98), (datetime.date(2014, 2, 17), 9.98), (datetime.date(2014, 3, 4), 9.98), (datetime.date(2014, 4, 22), 9.99)]}
+
+B005V00FJ0
+{u'Amazon': [(datetime.date(2014, 1, 16), 6.99), (datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 4, 21), 6.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 10.49)]}
+
+B00BCYDRNK
+{u"Kristin's Great Finds": [(datetime.date(2014, 1, 30), 41.99), (datetime.date(2014, 2, 17), 41.99)], u'Null': [(datetime.date(2014, 1, 16), 30.99), (datetime.date(2014, 1, 16), 37.99), (datetime.date(2014, 1, 16), 36.0), (datetime.date(2014, 1, 16), 35.99), (datetime.date(2014, 1, 16), 41.99)], u'Amor Kids AMK': [(datetime.date(2014, 1, 30), 29.99), (datetime.date(2014, 2, 17), 29.49)], u'Amazon': [(datetime.date(2014, 1, 16), 35.0), (datetime.date(2014, 1, 30), 35.0), (datetime.date(2014, 2, 17), 35.0)], u'Riley and Bella': [(datetime.date(2014, 1, 30), 32.0)], u'Baby Family Gifts': [(datetime.date(2014, 1, 30), 37.99), (datetime.date(2014, 1, 30), 35.99), (datetime.date(2014, 2, 17), 37.99), (datetime.date(2014, 2, 17), 35.99)], u'In Fashion Kids': [(datetime.date(2014, 1, 30), 30.99)], u'BirthdayExpress': [(datetime.date(2014, 2, 17), 39.6)], u'Kids Apparel And Beyond': [(datetime.date(2014, 1, 16), 34.98), (datetime.date(2014, 1, 30), 34.98), (datetime.date(2014, 2, 17), 34.98)]}
+
+B00AKFZ3V6
+{u'Null': [(datetime.date(2014, 1, 16), 95.0), (datetime.date(2014, 1, 16), 95.0)]}
+
+B0039824PO
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.99), (datetime.date(2014, 1, 16), 5.99), (datetime.date(2014, 1, 30), 5.99)]}
+
+B002USCHM4
+{u'Baby Riddle': [(datetime.date(2014, 2, 17), 16.95), (datetime.date(2014, 4, 22), 16.95)], u'Amazon': [(datetime.date(2014, 2, 17), 11.98), (datetime.date(2014, 4, 22), 9.99)]}
+
+B00266QLR2
+{u'Null': [(datetime.date(2014, 1, 16), 42.94), (datetime.date(2014, 1, 16), 36.0), (datetime.date(2014, 1, 16), 37.79)]}
+
+B004OBZG64
+{u'911 DRUGSTORE': [(datetime.date(2014, 2, 17), 14.99), (datetime.date(2014, 4, 21), 14.99), (datetime.date(2014, 4, 22), 14.99)], u'1st in sales': [(datetime.date(2014, 4, 21), 7.17), (datetime.date(2014, 4, 22), 7.17)], u'LC-Pals': [(datetime.date(2014, 2, 17), 5.5)], u'Amazon': [(datetime.date(2014, 1, 16), 5.99), (datetime.date(2014, 2, 17), 5.99), (datetime.date(2014, 4, 21), 5.99), (datetime.date(2014, 4, 22), 5.99)], u'Null': [(datetime.date(2014, 1, 16), 14.99)], u'Smart Online Store': [(datetime.date(2014, 4, 21), 4.93), (datetime.date(2014, 4, 22), 4.93)]}
+
+B002RT8OQE
+{u'Pure and Simple Baby': [(datetime.date(2014, 1, 16), 13.95), (datetime.date(2014, 1, 16), 13.95)], u'GroVia': [(datetime.date(2014, 1, 30), 13.95), (datetime.date(2014, 2, 17), 13.95)], u'Just Infant': [(datetime.date(2014, 1, 16), 14.65), (datetime.date(2014, 1, 16), 14.65), (datetime.date(2014, 1, 30), 19.61), (datetime.date(2014, 2, 17), 14.65)], u'SF Lounge': [(datetime.date(2014, 1, 16), 13.22), (datetime.date(2014, 1, 16), 13.22), (datetime.date(2014, 1, 30), 13.22), (datetime.date(2014, 2, 17), 13.22), (datetime.date(2014, 4, 22), 13.22)], u'Giftable World': [(datetime.date(2014, 1, 30), 10.72), (datetime.date(2014, 2, 17), 10.72)], u'Etailz': [(datetime.date(2014, 1, 30), 13.95), (datetime.date(2014, 2, 17), 13.95), (datetime.date(2014, 4, 22), 13.95)], u'La Stella Blu': [(datetime.date(2014, 1, 30), 13.95), (datetime.date(2014, 2, 17), 13.95)], u'Wild Blueberries': [(datetime.date(2014, 1, 30), 15.99), (datetime.date(2014, 4, 22), 15.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 14.79), (datetime.date(2014, 2, 17), 14.79)], u'The Nurture Center': [(datetime.date(2014, 1, 16), 13.95), (datetime.date(2014, 1, 16), 13.95)], u'BabyEarth': [(datetime.date(2014, 4, 22), 13.95)], u'Magic Cabin': [(datetime.date(2014, 1, 30), 13.98), (datetime.date(2014, 2, 17), 13.98), (datetime.date(2014, 4, 22), 13.98)], u'JSDae_69': [(datetime.date(2014, 1, 30), 53.44), (datetime.date(2014, 2, 17), 53.44)], u'Null': [(datetime.date(2014, 1, 16), 13.95), (datetime.date(2014, 1, 16), 13.95), (datetime.date(2014, 1, 16), 13.95), (datetime.date(2014, 1, 16), 13.95), (datetime.date(2014, 1, 16), 13.98), (datetime.date(2014, 1, 16), 14.79), (datetime.date(2014, 1, 16), 13.95), (datetime.date(2014, 1, 16), 13.95), (datetime.date(2014, 1, 16), 13.95), (datetime.date(2014, 1, 16), 14.04), (datetime.date(2014, 1, 16), 13.98), (datetime.date(2014, 1, 16), 14.79)], u'Apple Green Baby': [(datetime.date(2014, 2, 17), 14.04), (datetime.date(2014, 4, 22), 14.04)]}
+
+B0018Z2BO4
+{u'My Precious Kid LLC': [(datetime.date(2014, 1, 30), 13.9), (datetime.date(2014, 4, 21), 14.5)], u'BabyEarth': [(datetime.date(2014, 1, 30), 13.95), (datetime.date(2014, 4, 21), 14.95)], u'Alpine Baby Hub': [(datetime.date(2014, 1, 30), 14.5), (datetime.date(2014, 4, 21), 14.5)], u'Amazon': [(datetime.date(2014, 1, 16), 14.5), (datetime.date(2014, 1, 30), 14.5), (datetime.date(2014, 4, 21), 14.5)], u'our green house': [(datetime.date(2014, 4, 21), 13.95)], u'Thanks Mama': [(datetime.date(2014, 1, 30), 14.5), (datetime.date(2014, 4, 21), 14.5)], u'Null': [(datetime.date(2014, 1, 16), 14.5), (datetime.date(2014, 1, 16), 13.95), (datetime.date(2014, 1, 16), 14.5), (datetime.date(2014, 1, 16), 13.9)]}
+
+B005KC8NH0
+{u'iLifeProducts': [(datetime.date(2014, 2, 17), 22.85), (datetime.date(2014, 2, 17), 22.0), (datetime.date(2014, 4, 21), 22.0)]}
+
+B006WU9POO
+{u'EcoHeiney': [(datetime.date(2014, 2, 17), 15.75)], u'My Precious Kid LLC': [(datetime.date(2014, 2, 17), 15.75), (datetime.date(2014, 4, 22), 15.75)], u'Amazon': [(datetime.date(2014, 2, 17), 16.5), (datetime.date(2014, 4, 22), 16.5)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 22), 16.99)], u'Thanks Mama': [(datetime.date(2014, 2, 17), 16.0), (datetime.date(2014, 4, 22), 16.0)]}
+
+B003A75MT4
+{u"Chesi Jo's Baby Boutique": [(datetime.date(2014, 2, 17), 13.0), (datetime.date(2014, 4, 21), 13.0)], u'Cambridge Select': [(datetime.date(2014, 4, 21), 9.59)], u'Ten Tall Trees': [(datetime.date(2014, 2, 17), 11.45), (datetime.date(2014, 4, 21), 11.45)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 12.0)], u'Amazon': [(datetime.date(2014, 2, 17), 10.08), (datetime.date(2014, 4, 21), 9.82)], u'Baby SuperMall': [(datetime.date(2014, 2, 17), 11.95), (datetime.date(2014, 4, 21), 11.95)]}
+
+B00AHOQBAM
+{u'Perfectly Preemie': [(datetime.date(2014, 1, 16), 10.99), (datetime.date(2014, 1, 30), 10.99), (datetime.date(2014, 1, 31), 10.99)], u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 30), 9.99), (datetime.date(2014, 1, 31), 9.99), (datetime.date(2014, 2, 17), 6.99), (datetime.date(2014, 2, 17), 6.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 16), 13.19), (datetime.date(2014, 1, 30), 13.19), (datetime.date(2014, 1, 31), 13.19), (datetime.date(2014, 2, 17), 13.19), (datetime.date(2014, 2, 17), 13.19)]}
+
+B007C2PX24
+{u'Amazon': [(datetime.date(2014, 1, 16), 9.99), (datetime.date(2014, 1, 30), 9.99), (datetime.date(2014, 2, 17), 7.99), (datetime.date(2014, 3, 4), 9.99), (datetime.date(2014, 4, 22), 9.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 15.99), (datetime.date(2014, 2, 17), 15.99), (datetime.date(2014, 3, 4), 15.99), (datetime.date(2014, 4, 22), 15.99)], u'kiddie world': [(datetime.date(2014, 1, 16), 10.66), (datetime.date(2014, 1, 30), 10.66), (datetime.date(2014, 2, 17), 10.66), (datetime.date(2014, 3, 4), 10.66)]}
+
+B00B1M2TB4
+{}
+
+B00DNFQZXA
+{u'Leveret': [(datetime.date(2014, 1, 16), 13.99), (datetime.date(2014, 1, 30), 13.99)], u'Null': [(datetime.date(2014, 1, 16), 13.99)]}
+
+B00AJWYY24
+{u'Null': [(datetime.date(2014, 1, 16), 21.95)]}
+
+B002EB06B6
+{u'Baby SuperMall': [(datetime.date(2014, 1, 16), 10.95), (datetime.date(2014, 1, 30), 10.95), (datetime.date(2014, 1, 31), 10.95), (datetime.date(2014, 4, 21), 10.95)], u'Amazon': [(datetime.date(2014, 1, 16), 11.98), (datetime.date(2014, 1, 16), 11.98), (datetime.date(2014, 1, 30), 11.98), (datetime.date(2014, 1, 31), 11.98), (datetime.date(2014, 4, 21), 9.99)], u'Null': [(datetime.date(2014, 1, 16), 10.95), (datetime.date(2014, 1, 16), 16.95)], u'Baby Riddle': [(datetime.date(2014, 1, 16), 16.95), (datetime.date(2014, 1, 30), 16.95), (datetime.date(2014, 1, 31), 16.95), (datetime.date(2014, 4, 21), 16.95)]}
+
+B008VWQV5M
+{u'DimpleChild': [(datetime.date(2014, 2, 17), 18.58), (datetime.date(2014, 4, 21), 23.46)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 18.49), (datetime.date(2014, 4, 21), 18.99)], u'All one stop': [(datetime.date(2014, 2, 17), 11.45)], u'ToysOnline': [(datetime.date(2014, 2, 17), 34.98), (datetime.date(2014, 4, 21), 30.29)], u'Amazon': [(datetime.date(2014, 2, 17), 17.57), (datetime.date(2014, 4, 21), 17.98)], u'Think Fast': [(datetime.date(2014, 2, 17), 19.84), (datetime.date(2014, 4, 21), 19.95)], u'imagine products': [(datetime.date(2014, 4, 21), 21.03)]}
+
+B007C2PYHS
+{u'Amazon': [(datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 2, 17), 5.99), (datetime.date(2014, 4, 21), 7.99), (datetime.date(2014, 4, 22), 7.99)], u'Null': [(datetime.date(2014, 1, 16), 9.53)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 9.53), (datetime.date(2014, 4, 21), 9.53), (datetime.date(2014, 4, 22), 9.53)]}
+
+B00D3TPGB8
+{u'*NIPPON Sushi*': [(datetime.date(2014, 4, 21), 40.07), (datetime.date(2014, 4, 21), 40.07)], u'Superior Car Seats': [(datetime.date(2014, 4, 21), 12.99), (datetime.date(2014, 4, 21), 12.99)], u'Wild Blueberries': [(datetime.date(2014, 4, 21), 13.99), (datetime.date(2014, 4, 21), 13.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 21), 12.99), (datetime.date(2014, 4, 21), 12.99)], u'Pravda Japan US': [(datetime.date(2014, 4, 21), 50.93)], u'JAPAN n.g.s': [(datetime.date(2014, 4, 21), 37.64), (datetime.date(2014, 4, 21), 37.64)], u'Amazon': [(datetime.date(2014, 4, 21), 12.99), (datetime.date(2014, 4, 21), 12.99)], u'davidson lighting': [(datetime.date(2014, 4, 21), 20.91), (datetime.date(2014, 4, 21), 20.91)], u'Caring Penguin': [(datetime.date(2014, 4, 21), 18.0), (datetime.date(2014, 4, 21), 18.0)], u'japan soul.It is a store that deals with Japanese goods. Cordially carefully by an employee of Japan, I will deliver the goods.': [(datetime.date(2014, 4, 21), 26.89), (datetime.date(2014, 4, 21), 26.89)], u'BabyHaven': [(datetime.date(2014, 4, 21), 12.99), (datetime.date(2014, 4, 21), 12.99)]}
+
+B00DPEO8EC
+{u'Amazon': [(datetime.date(2014, 1, 16), 10.03)]}
+
+B0091538FE
+{u'BabyVision': [(datetime.date(2014, 4, 22), 4.99)], u'GREAT GIFTS NOW': [(datetime.date(2014, 1, 16), 12.98), (datetime.date(2014, 4, 22), 12.98)], u'Best Brands Toys': [(datetime.date(2014, 4, 22), 13.19)], u'Useful Universe': [(datetime.date(2014, 1, 16), 29.07), (datetime.date(2014, 4, 22), 29.07)], u'Amazon': [(datetime.date(2014, 1, 16), 12.2), (datetime.date(2014, 4, 22), 10.45)], u'ToysOnline': [(datetime.date(2014, 4, 22), 15.99)], u'Null': [(datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 1, 16), 7.99), (datetime.date(2014, 1, 16), 11.99)]}
+
+B00BSX13PO
+{u'Hippo Tails': [(datetime.date(2014, 4, 21), 12.3)], u'BabyVision': [(datetime.date(2014, 4, 21), 8.99)]}
+
+B0045VRS7S
+{}
+
+B005HILKRC
+{}
+
+B00DRKBJPK
+{u'BabyVision': [(datetime.date(2014, 2, 17), 3.99)]}
+
+B009W38T7W
+{u'Null': [(datetime.date(2014, 1, 16), 3.99)], u'BabyVision': [(datetime.date(2014, 1, 16), 3.99), (datetime.date(2014, 1, 31), 3.99), (datetime.date(2014, 2, 17), 3.99), (datetime.date(2014, 2, 17), 3.99), (datetime.date(2014, 4, 21), 3.99), (datetime.date(2014, 4, 22), 3.99)]}
+
+B0012LZD5I
+{u'Amazon': [(datetime.date(2014, 1, 16), 5.99), (datetime.date(2014, 2, 17), 5.99), (datetime.date(2014, 4, 21), 7.19)], u'Null': [(datetime.date(2014, 1, 16), 18.95)], u'911 DRUGSTORE': [(datetime.date(2014, 2, 17), 18.95)], u'Goods: Better Best!': [(datetime.date(2014, 2, 17), 9.95)]}
+
+B00925WFC0
+{u"Kristin's Great Finds": [(datetime.date(2014, 1, 30), 45.0), (datetime.date(2014, 2, 17), 45.0)], u'Amazon': [(datetime.date(2014, 1, 16), 44.99), (datetime.date(2014, 1, 30), 44.99), (datetime.date(2014, 2, 17), 44.99)]}
+
+B0081MQLWA
+{u'Perfectly Preemie': [(datetime.date(2014, 4, 21), 14.99)]}
+
+B00925WLEM
+{u'MariposaHill': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 22), 19.95), (datetime.date(2014, 4, 22), 19.95)], u'Etailz': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 22), 19.95), (datetime.date(2014, 4, 22), 19.95)], u'La Stella Blu': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 22), 19.95), (datetime.date(2014, 4, 22), 19.95)], u'Milk Mamas': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 22), 19.95), (datetime.date(2014, 4, 22), 19.95)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 22), 19.95), (datetime.date(2014, 4, 22), 19.95)], u'American Gift Factory': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 22), 19.95), (datetime.date(2014, 4, 22), 19.95)], u'Amazon': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 22), 19.95), (datetime.date(2014, 4, 22), 19.95)], u'Maison Drake': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 2, 17), 19.95)], u'BabyEarth': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 22), 19.95), (datetime.date(2014, 4, 22), 19.95)], u'Right Start': [(datetime.date(2014, 2, 17), 19.95)], u'Baby Bug Products': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 22), 19.95), (datetime.date(2014, 4, 22), 19.95)], u'Best Service Stores': [(datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 2, 17), 19.95), (datetime.date(2014, 4, 22), 20.15), (datetime.date(2014, 4, 22), 20.15)]}
+
+B001W0ZGTW
+{u'Amazon': [(datetime.date(2014, 1, 16), 8.99), (datetime.date(2014, 1, 31), 8.99), (datetime.date(2014, 2, 17), 8.99), (datetime.date(2014, 2, 17), 8.99), (datetime.date(2014, 3, 4), 12.99)]}
+
+B000COY136
+{u'911 DRUGSTORE': [(datetime.date(2014, 2, 17), 32.99), (datetime.date(2014, 4, 21), 32.99)], u'Just Infant': [(datetime.date(2014, 4, 21), 17.42)], u'Kaplan Toys': [(datetime.date(2014, 2, 17), 17.0), (datetime.date(2014, 4, 21), 17.0)], u'Amazon': [(datetime.date(2014, 1, 16), 17.99), (datetime.date(2014, 2, 17), 17.99), (datetime.date(2014, 4, 21), 17.65)], u'GoBantu': [(datetime.date(2014, 4, 21), 26.57)], u'Null': [(datetime.date(2014, 1, 16), 16.98), (datetime.date(2014, 1, 16), 17.0), (datetime.date(2014, 1, 16), 32.99)], u'BabyHaven': [(datetime.date(2014, 2, 17), 16.98), (datetime.date(2014, 4, 21), 16.53)]}
+
+B008337RMA
+{u'ToysOnline': [(datetime.date(2014, 4, 21), 119.97), (datetime.date(2014, 4, 22), 119.97)], u'Amazon': [(datetime.date(2014, 1, 16), 41.0), (datetime.date(2014, 4, 21), 41.0), (datetime.date(2014, 4, 22), 41.0)], u'Null': [(datetime.date(2014, 1, 16), 41.0)]}
+
+B00ANG3F76
+{u'LC-Pals': [(datetime.date(2014, 2, 17), 12.95), (datetime.date(2014, 4, 22), 12.95)], u'Amazon': [(datetime.date(2014, 2, 17), 12.95), (datetime.date(2014, 4, 22), 12.95)], u'911 DRUGSTORE': [(datetime.date(2014, 2, 17), 16.99)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 2, 17), 13.49), (datetime.date(2014, 4, 22), 13.49)]}
+
+B007GB5W4U
+{u'Leveret': [(datetime.date(2014, 4, 21), 12.99)]}
+
+B002SW3C8K
+{u'Kidsland': [(datetime.date(2014, 4, 22), 21.99), (datetime.date(2014, 4, 22), 21.99)], u'BabyRax': [(datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'MariposaHill': [(datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'BumRite Cloth Diaper Company': [(datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'Etailz': [(datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'La Stella Blu': [(datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'Positronic US. 8-12 Days Average Delivery (Weather Permitting!).': [(datetime.date(2014, 4, 22), 41.01), (datetime.date(2014, 4, 22), 41.01)], u'Wild Blueberries': [(datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'American Gift Factory': [(datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'Lakeland Baby and teen Inc.': [(datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'Amazon': [(datetime.date(2014, 1, 16), 21.99), (datetime.date(2014, 1, 16), 21.99), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'Quality Deals': [(datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'WhatSheBuys': [(datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'California Cozy Gift Boutique': [(datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'Maison Drake': [(datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'Think Fast': [(datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)], u'Null': [(datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0), (datetime.date(2014, 1, 16), 22.0)], u'Best Service Stores': [(datetime.date(2014, 4, 22), 22.22), (datetime.date(2014, 4, 22), 22.22)], u'Hippo Tails': [(datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 21), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0), (datetime.date(2014, 4, 22), 22.0)]}
+
+B0090OM1F4
+{u'iLifeProducts': [(datetime.date(2014, 4, 21), 18.0), (datetime.date(2014, 4, 21), 18.0)]}
+
+B003AJXY1U
+{u'My Precious Kid LLC': [(datetime.date(2014, 1, 30), 12.7)], u'Etailz': [(datetime.date(2014, 1, 30), 16.34)], u'Diapers.com (Quidsi Retail, an Amazon company)': [(datetime.date(2014, 1, 30), 12.79)], u'Amazon': [(datetime.date(2014, 1, 30), 13.25)], u'Thanks Mama': [(datetime.date(2014, 1, 30), 12.25)], u'Kimberleeee': [(datetime.date(2014, 1, 30), 13.25)]}
+
+B00GG07ZM4
+{u'Null': [(datetime.date(2014, 1, 16), 14.95)]}

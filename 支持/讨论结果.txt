@@ -1,0 +1,15 @@
+选择的分类：
+Clothing & Accessories>Baby>Baby Girls
+Clothing & Accessories>Baby>Unisex
+Health & Personal Care>Household Supplies>Air Fresheners
+Health & Personal Care>Household Supplies>Household Cleaning
+
+增加的功能：
+节日对销量的影响
+评论长度与评分的关系
+价格走势与评论数量增加的关系
+不同卖家同一商品的价格走势
+出售过某一类别商品的商家数量
+
+选用的图表库：
+highcharts

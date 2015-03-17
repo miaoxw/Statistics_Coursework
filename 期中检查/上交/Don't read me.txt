@@ -1,0 +1,2 @@
+未来可能使用PyNum、SciNum等包。
+目前的图表生成使用了Highcharts。
